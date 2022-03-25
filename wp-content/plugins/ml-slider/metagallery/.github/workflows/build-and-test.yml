@@ -1,0 +1,160 @@
+name: Build And Test
+on:
+    push:
+        branches:
+            - main
+            - 'releases/**'
+    pull_request:
+        branches:
+            - main
+            - 'releases/**'
+jobs:
+  plugin:
+    name: Plugin (PHP ${{ matrix.php }} - WP ${{ matrix.wp }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        # php: [7.3, 7.4]
+        # wp: [5.4, 5.5, 'latest', 'nightly']
+        php: [7.4]
+        wp: ['latest']
+    services:
+      mysql:
+        image: mysql:5.7
+        env:
+          MYSQL_DATABASE: wordpress
+          MYSQL_USER: root
+          MYSQL_ROOT_PASSWORD: root
+        ports:
+          - 3306
+        options: --health-cmd="mysqladmin ping" --health-interval=10s --health-timeout=5s --health-retries=3
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v2
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '${{ matrix.php }}'
+          extensions: mysql, zip
+          coverage: none
+          tools: composer:v1, wp-cli, cs2pr, phpcs
+
+      - name: Get Composer cache directory
+        id: composer-cache
+        run: |
+          echo "::set-output name=dir::$(composer config cache-files-dir)"
+
+      - name: Use Composer cache
+        uses: actions/cache@master
+        with:
+          path: ${{ steps['composer-cache'].outputs.dir }}
+          key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-composer-
+
+      - name: Install dependencies
+        run: composer install --prefer-dist --no-progress --no-suggest
+
+      - name: Install PHPCS
+        run: git clone -b master https://github.com/WordPress/WordPress-Coding-Standards.git ${{ github.workspace }}/wpcs
+
+      - name: PHPCS check
+        run: |
+            phpcs --config-set installed_paths ${{ github.workspace }}/vendor/phpcompatibility/phpcompatibility-wp/PHPCompatibilityWP,${{ github.workspace }}/vendor/phpcompatibility/php-compatibility/PHPCompatibility,${{ github.workspace }}/vendor/phpcompatibility/phpcompatibility-paragonie/PHPCompatibilityParagonieSodiumCompat,${{ github.workspace }}/vendor/phpcompatibility/phpcompatibility-paragonie/PHPCompatibilityParagonieRandomCompat,${{ github.workspace }}/wpcs
+            phpcs -i
+            phpcs -q --report=checkstyle . | cs2pr
+
+      - name: Set up git user
+        run: git config --global user.name ${GITHUB_ACTOR}
+
+      - name: Set up git email
+        run: git config --global user.name ${GITHUB_ACTOR}@users.noreply.github.com
+
+      - name: Install NPM packages
+        run: npm ci
+        env:
+          CYPRESS_INSTALL_BINARY: "0"
+
+      - name: Build assets
+        run: npm run build
+
+      - name: Start MySQL server
+        run: sudo service mysql start
+
+      - name: Prepare test database
+        run: |
+          export MYQSL_HOST=127.0.0.1
+          export MYSQL_TCP_PORT=${{ job.services.mysql.ports['3306'] }}
+          mysql -e 'CREATE DATABASE IF NOT EXISTS wordpress;' -uroot -proot
+          mysql -e 'GRANT ALL PRIVILEGES ON wordpress.* TO "wordpress"@"127.0.0.1" IDENTIFIED BY "password1"' -uroot -proot
+          mysql -e 'GRANT ALL PRIVILEGES ON wordpress_scaffold.* TO "wordpress"@"127.0.0.1" IDENTIFIED BY "password1"' -uroot -proot
+
+      - name: Install WordPress
+        run: |
+          sudo mkdir -p /usr/src/wordpress/
+          sudo chmod o+w /usr/src/wordpress/
+          cd /usr/src/wordpress/
+          wp core download --version=${{ env.WP_VERSION }}
+          wp config create --dbname=wordpress --dbuser=root --dbpass=root --allow-root --debug
+          wp core install --url=http://localhost:8080 --title=Test --admin_user=wordpress --admin_password=wordpress \
+            --admin_email=admin@local.test --skip-email --allow-root
+          wp rewrite structure '/%postname%'
+          cd ${{ github.workspace }}
+          # sudo mkdir -p /usr/src/wordpress/wp-content/mu-plugins
+          # sudo mv ${{ github.workspace }}/.github/workflows/support/bypass-login.php /usr/src/wordpress/wp-content/mu-plugins
+          cp -R ${{ github.workspace }} /usr/src/wordpress/wp-content/plugins/my-plugin
+          sudo rm -rf /usr/src/wordpress/wp-content/plugins/my-plugin/cypress
+          sudo mv /usr/src/wordpress/* ${{ github.workspace }}
+        env:
+          WP_VERSION: ${{ matrix.wp }}
+
+      - name: Install dependencies
+        run: |
+            rm -rf ${{ github.workspace }}/vendor
+            rm ${{ github.workspace }}/composer.lock
+            composer install --prefer-dist --no-dev --no-progress
+
+      - name: Commit build folder if needed #it fails if nothing has changed so we allow an error
+        run: git commit -am 'Bundle up plugin'
+        continue-on-error: true
+
+      - name: Push changed files to master
+        run: git push
+
+      - name: Start PHP server
+        run: nohup php -S localhost:8080 > php.log 2>&1 &
+
+      # https://github.com/bahmutov/cypress-gh-action-split-install
+      - name: Cypress cache 1
+        run: npx cypress cache path && npx cypress cache list
+
+      - name: Cypress cache 2
+        id: cache-cypress
+        uses: actions/cache@v1
+        with:
+          path: ~/.cache/Cypress
+          key: cypress-cache-v1-${{ runner.os }}-${{ hashFiles('**/package.json') }}
+
+      - name: Run Cypress
+        run: npx cypress install && npx cypress cache list
+      - uses: cypress-io/github-action@v2
+        with:
+          install: false
+        env:
+          CYPRESS_baseUrl: http://localhost:8080/index.php
+
+      - name: Cypress screenshots
+        uses: actions/upload-artifact@v1
+        if: failure()
+        with:
+          name: cypress-screenshots
+          path: cypress/screenshots
+
+      - name: Cypress videos
+        uses: actions/upload-artifact@v1
+        if: always()
+        with:
+          name: cypress-videos
+          path: cypress/videos

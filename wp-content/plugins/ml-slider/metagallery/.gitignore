@@ -1,0 +1,13 @@
+.DS_Store
+vendor/*
+!vendor/composer
+!vendor/autoload.php
+node_modules
+
+cypress/integration/examples
+cypress/screenshots/**/*
+!cypress/screenshots/.gitkeep
+cypress/videos/**/*
+!cypress/videos/.gitkeep
+
+wpcs

@@ -1,0 +1,27 @@
+{
+    "name": "extendify/metagallery",
+    "description": "MetaGallery Plugin",
+    "type": "wordpress-plugin",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+    },
+    "require-dev": {
+        "johnpbloch/wordpress-core": "*",
+        "phpunit/phpunit": "^9.4",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7",
+        "phpcompatibility/phpcompatibility-wp": "*",
+        "spatie/ray": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Extendify\\MetaGallery\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin Batdorf",
+            "email": "kbat82@gmail.com"
+        }
+    ]
+}

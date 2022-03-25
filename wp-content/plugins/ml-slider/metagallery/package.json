@@ -1,0 +1,63 @@
+{
+    "private": true,
+    "scripts": {
+        "build": "rollup -c --environment BUILD:production",
+        "watch": "concurrently \"rollup -c -w\" \"browser-sync start --proxy 'http://testing-metaslider.test' --no-open -f .\"",
+        "cy:run": "cypress run",
+        "cy:open": "cypress open",
+        "format": "prettier './{packages/**/,cypress/**/*,}*.{js,html,edge,css}' --write",
+        "check:format": "prettier './{packages/**/,cypress/**/*,}*.{js,html,css}' -c"
+    },
+    "author": "Kevin Batdorf",
+    "license": "MIT",
+    "dependencies": {
+        "@ryangjchandler/alpine-clipboard": "^0.2.0",
+        "@tailwindcss/custom-forms": "^0.2.1",
+        "@tailwindcss/typography": "^0.3.1",
+        "@wordpress/i18n": "^3.17.0",
+        "alpine-magic-helpers": "^0.5.1",
+        "alpinejs": "^2.8.0",
+        "axios": "^0.21.1",
+        "muuri": "^0.9.3",
+        "web-animations-js": "^2.3.2"
+    },
+    "devDependencies": {
+        "@babel/preset-env": "^7.12.11",
+        "@rollup/plugin-babel": "^5.2.2",
+        "@rollup/plugin-commonjs": "^17.0.0",
+        "@rollup/plugin-json": "^4.1.0",
+        "@rollup/plugin-node-resolve": "^11.0.1",
+        "@rollup/plugin-virtual": "^2.0.3",
+        "@testing-library/dom": "^7.29.0",
+        "@testing-library/jest-dom": "^5.11.6",
+        "autoprefixer": "^10.1.0",
+        "browser-sync": "^2.26.13",
+        "concurrently": "^5.3.0",
+        "cssnano": "^4.1.10",
+        "cypress": "^6.2.0",
+        "husky": "^4.3.6",
+        "jest": "^26.6.3",
+        "jsdom-simulant": "^1.1.2",
+        "lint-staged": "^10.5.3",
+        "postcss": "^8.2.1",
+        "postcss-import": "^14.0.0",
+        "postcss-nested": "^5.0.3",
+        "prettier": "^2.2.1",
+        "rollup": "^2.35.1",
+        "rollup-plugin-filesize": "^9.1.0",
+        "rollup-plugin-postcss": "^4.0.0",
+        "rollup-plugin-terser": "^7.0.2",
+        "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "lint-staged"
+        }
+    },
+    "lint-staged": {
+        "*.{js,css,md,html}": "prettier --write"
+    },
+    "jest": {
+        "verbose": true
+    }
+}

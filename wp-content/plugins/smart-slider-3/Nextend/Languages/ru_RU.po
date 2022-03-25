@@ -1,0 +1,8005 @@
+# NEXTEND 02 <ramona@nextendweb.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-23 09:55+0200\n"
+"PO-Revision-Date: 2021-07-23 10:03+0200\n"
+"Last-Translator: NEXTEND 02 <ramona@nextendweb.com>\n"
+"Language-Team: Nextend\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: ;n2_;n2_e;n2_n:1,2;n2_en:1,2;n2_x:1,2c;n2_ex:1,2c\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+
+msgid "Debug error"
+msgstr ""
+
+msgid "CURL disabled in your php.ini configuration. Please enable it!"
+msgstr "CURL отключен в конфигурации вашего php.ini. Пожалуйста, включите его!"
+
+msgid "Unable to contact with the licensing server, please try again later!"
+msgstr ""
+"Не удалось связаться с сервером лицензирования, пожалуйста, повторите "
+"попытку позже!"
+
+msgctxt "Default Google font family for admin"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+msgctxt "Default Google font charset for admin"
+msgid "latin"
+msgstr "latin"
+
+msgid "You are not allowed to upload!"
+msgstr "У вас нет прав на загрузку!"
+
+msgid "Folder is missing!"
+msgstr "Каталог не существует!"
+
+msgid "Menu item"
+msgstr "Пункт меню"
+
+msgid "You are not authorised to view this resource."
+msgstr ""
+
+#, php-format
+msgid "Missing parameter: %s"
+msgstr "Отсутствует параметр: %s"
+
+msgid "Database error"
+msgstr "Ошибка базы данных"
+
+msgid "Security token mismatch"
+msgstr "Несоответствие маркера безопасности"
+
+msgid "Unexpected error"
+msgstr "Неожиданная ошибка"
+
+msgid "Set is not editable"
+msgstr "Набор недоступен для редактирования"
+
+msgid "Visual do not exists"
+msgstr "Визуальный эффект не существует"
+
+msgid "Not editable"
+msgstr "Не редактируемое"
+
+msgid "Security token mismatch. Please refresh the page!"
+msgstr "Несоответствие маркера безопасности. Пожалуйста, обновите страницу!"
+
+#, php-format
+msgid ""
+"If you see this message after the repair database process, please "
+"%1$scontact us%2$s with the log:"
+msgstr ""
+
+msgid "Contact your server host and ask them to fix this for you!"
+msgstr ""
+
+msgid "Unexpected database error."
+msgstr ""
+
+msgid "Try to repair database"
+msgstr ""
+
+msgid "Font manager"
+msgstr "Менеджер шрифтов"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Hover"
+msgstr "При наведении"
+
+msgid "Heading"
+msgstr "Заголовок"
+
+msgid "Link"
+msgstr "Ссылка"
+
+msgid "Button"
+msgstr "Кнопка"
+
+msgid "Paragraph"
+msgstr "Параграф"
+
+msgid "Dot"
+msgstr "Точка"
+
+msgid "Active"
+msgstr "Активный"
+
+msgid "List"
+msgstr "Список"
+
+msgid "Highlight"
+msgstr ""
+
+msgctxt "Default font"
+msgid "Roboto,Arial"
+msgstr "Roboto,Arial"
+
+msgid "Font settings"
+msgstr "Настройки шрифта"
+
+msgid "Clear tab"
+msgstr "Очистить вкладку"
+
+msgid "Family"
+msgstr "Семейство"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Font weight"
+msgstr "Насыщенность шрифта"
+
+msgid "Decoration"
+msgstr "Оформление"
+
+msgid "Line height"
+msgstr "Высота строки"
+
+msgid "Text align"
+msgstr "Выравнивание текста"
+
+msgid "Letter spacing"
+msgstr "Межбуквенный интервал"
+
+msgid "Word spacing"
+msgstr "Интервал между словами"
+
+msgid "Transform"
+msgstr "Преобразование текста"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Capitalize"
+msgstr "Первые буквы заглавные"
+
+msgid "Uppercase"
+msgstr "Все прописные"
+
+msgid "Lowercase"
+msgstr "Все строчные"
+
+msgid "Text shadow"
+msgstr "Тень текста"
+
+msgid "Preview"
+msgstr "Предпросмотр"
+
+msgid "Frontend"
+msgstr "Сайт"
+
+msgid "You can load Google Fonts on the frontend."
+msgstr ""
+
+msgid "Backend"
+msgstr "Административная часть сайта"
+
+msgid "You can load Google Fonts in the backend."
+msgstr ""
+
+msgid "Style"
+msgstr "Стиль"
+
+msgctxt "Font style"
+msgid "Italic"
+msgstr "Курсив"
+
+#, fuzzy
+msgid "Normal"
+msgstr "Обычно"
+
+msgid "Character set"
+msgstr "Набор символов"
+
+msgctxt "Character set"
+msgid "Latin"
+msgstr "Латиница"
+
+msgctxt "Character set"
+msgid "Latin Extended"
+msgstr "Расширенная латиница"
+
+msgctxt "Character set"
+msgid "Greek"
+msgstr "Греческий алфавит"
+
+msgctxt "Character set"
+msgid "Greek Extended"
+msgstr "Расширенный набор символов греческого алфавита"
+
+msgctxt "Character set"
+msgid "Cyrillic"
+msgstr "Кириллица"
+
+msgctxt "Character set"
+msgid "Devanagari"
+msgstr "Деванагари"
+
+msgctxt "Character set"
+msgid "Arabic"
+msgstr "Арабское письмо"
+
+msgctxt "Character set"
+msgid "Khmer"
+msgstr "Кхмерское письмо"
+
+msgctxt "Character set"
+msgid "Telugu"
+msgstr "Письмо Телугу"
+
+msgctxt "Character set"
+msgid "Vietnamese"
+msgstr "Куокнгы (вьетнамский алфавит)"
+
+msgctxt "Default font sets"
+msgid "latin"
+msgstr "latin"
+
+msgid "Choose"
+msgstr "Выбрать"
+
+msgid "Orientation"
+msgstr "Ориентация"
+
+msgid "Portrait"
+msgstr "Книжная ориентация"
+
+msgid "Landscape"
+msgstr "Альбомная ориентация"
+
+msgid "Mobile"
+msgstr "Телефон"
+
+msgid "Large mobile"
+msgstr ""
+
+msgid "Tablet"
+msgstr "Планшет"
+
+msgid "Large tablet"
+msgstr ""
+
+msgid "Desktop"
+msgstr "Настольный компьютер"
+
+msgid "Large desktop"
+msgstr ""
+
+msgid "More"
+msgstr "Больше"
+
+msgid "Less"
+msgstr ""
+
+msgid "View records"
+msgstr "Просмотр записей"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Dotted"
+msgstr "Точечный пунктир"
+
+msgid "Dashed"
+msgstr "Штриховой пунктир"
+
+msgid "Solid"
+msgstr "Сплошная"
+
+msgid "Double"
+msgstr "Двойная"
+
+msgid "Groove"
+msgstr "Резная"
+
+msgid "Ridge"
+msgstr "Экструдированная"
+
+msgid "Inset"
+msgstr "Впадающая"
+
+msgid "Outset"
+msgstr "Выступающая"
+
+msgid "Field"
+msgstr "Поле"
+
+msgid "Order"
+msgstr "Порядок"
+
+msgid "Ascending"
+msgstr "По возрастанию"
+
+msgid "Descending"
+msgstr "По убыванию"
+
+msgid "Off"
+msgstr "Выключено"
+
+msgid "On"
+msgstr "Включено"
+
+msgid ""
+"Hold down the ctrl (Windows) or command (MAC) button to select multiple "
+"options."
+msgstr ""
+"Удерживайте кнопку ctrl (Windows) или command (MAC), чтобы выбрать несколько "
+"параметров."
+
+msgid "Fill"
+msgstr "Заполнение"
+
+msgid "Blur fit"
+msgstr "Размытие"
+
+msgid "Fit"
+msgstr "По размеру"
+
+msgid "Stretch"
+msgstr "Растягивание"
+
+msgid "Center"
+msgstr "По центру"
+
+msgid "Slider's default"
+msgstr "По умолчанию"
+
+msgid "All"
+msgstr "Все"
+
+#, php-format
+msgid "Not %s"
+msgstr "Не %s"
+
+msgid "Bold"
+msgstr "Жирный"
+
+msgid "Extra light"
+msgstr "Экстра тонкий"
+
+#, fuzzy
+msgid "Light"
+msgstr "Тонкий"
+
+msgid "Semi bold"
+msgstr "Полужирный"
+
+msgid "Extra bold"
+msgstr "Экстра жирный"
+
+msgid "Self"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Parent"
+msgstr "Родитель"
+
+msgid "Top"
+msgstr "Сверху"
+
+msgid "Select images for devices"
+msgstr ""
+
+msgid "Select a page or a blog post from your WordPress site."
+msgstr "Выберите страницу или запись в блоге вашего WordPress сайта."
+
+msgid "Select article or menu item from your site."
+msgstr "Выберите статью или пункт меню вашего сайта."
+
+msgid "Reset to normal state"
+msgstr "Вернуть к обычному состоянию"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "The image is empty"
+msgstr ""
+
+msgid "Empty"
+msgstr "Пустой"
+
+msgid "Image manager"
+msgstr "Менеджер изображений"
+
+#, fuzzy
+#| msgid "Desktop Retina"
+msgid "Desktop retina"
+msgstr "Настольный компьютер с дисплеем Retina"
+
+msgid "Image"
+msgstr "Изображение"
+
+#, php-format
+msgid ""
+"The %1$s is not turned on in your server, which is necessary to read rss "
+"feeds. You should contact your server host, and ask them to enable it!"
+msgstr ""
+
+#, php-format
+msgid "%s is not readable"
+msgstr ""
+
+msgid "Style manager"
+msgstr "Менеджер стилей"
+
+msgid "Style settings"
+msgstr "Настройки стиля"
+
+msgid "Background color"
+msgstr "Цвет фона"
+
+msgid "Opacity"
+msgstr "Непрозрачность"
+
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+msgid "Border"
+msgstr "Граница"
+
+msgid "Border radius"
+msgstr "Радиус скругления углов"
+
+msgid "Box shadow"
+msgstr "Тень элемента"
+
+msgid "Single"
+msgstr "Отдельный"
+
+msgid "Simple"
+msgstr "Простой"
+
+msgid "Box"
+msgstr "Блок"
+
+msgid "Heading active"
+msgstr "Активный заголовок"
+
+msgid "Dashboard"
+msgstr "Панель управления"
+
+msgid "Drop files here"
+msgstr "Перетащите изображение сюда"
+
+msgid "Parent directory"
+msgstr "Вверх"
+
+msgid "Current path"
+msgstr "Текущий путь"
+
+msgid "Preset"
+msgstr "Шаблон"
+
+msgid ""
+"You can use presets to save style settings for later use. Clicking on any "
+"preset will load its styling to your current layer, and the previous style "
+"settings will be lost."
+msgstr ""
+
+msgid ""
+"Layer design options affect every device. If you need to make responsive "
+"adjustments, look for the options with the device icon."
+msgstr ""
+
+msgid "Reset style to default"
+msgstr ""
+
+msgid "Save style as new preset"
+msgstr ""
+
+msgid "Load style"
+msgstr ""
+
+msgid "You have not created any presets for this layer yet."
+msgstr ""
+
+msgid "Save as"
+msgstr "Сохранить как"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Please fill the name field!"
+msgstr "Пожалуйста, заполните поле имя!"
+
+msgid "Preset saved."
+msgstr ""
+
+msgid "Overwrite preset"
+msgstr ""
+
+msgid "Preset deleted."
+msgstr ""
+
+msgid "Choose folder"
+msgstr ""
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Disabled"
+msgstr "Отключено"
+
+msgid "Image field can not be empty!"
+msgstr ""
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "No file selected."
+msgstr ""
+
+msgid "Open docs"
+msgstr ""
+
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Внесенные изменения будут утеряны если вы уйдете с этой страницы"
+
+msgid "Icons"
+msgstr ""
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#, javascript-format
+msgid "You're about to %s. "
+msgstr "Вы собираетесь %s. "
+
+#, javascript-format
+msgid "The deletion is irreversible, and it's not possible to recover %s."
+msgstr "Это действие необратимо %s."
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Create group"
+msgstr "Создать группу"
+
+msgid "Group name"
+msgstr "Название группы"
+
+msgid "Group created"
+msgstr ""
+
+msgid "Records"
+msgstr ""
+
+msgid "Keyboard shortcuts"
+msgstr ""
+
+msgid "Got it"
+msgstr ""
+
+msgid "General"
+msgstr "Основное"
+
+#, fuzzy
+#| msgid "Content list"
+msgid "Content tab"
+msgstr "Список содержимого"
+
+#, fuzzy
+#| msgid "Style sets"
+msgid "Style tab"
+msgstr "Наборы стилей"
+
+#, fuzzy
+#| msgid "Animation"
+msgid "Animation tab"
+msgstr "Анимация"
+
+msgid "Add Layer"
+msgstr "Добавить слой"
+
+msgid "Layer List"
+msgstr "Список слоев"
+
+msgid "Timeline"
+msgstr "Временная шкала"
+
+msgid "View"
+msgstr "Просмотр"
+
+msgid "Adjust"
+msgstr ""
+
+msgid "Move (Absolute)"
+msgstr ""
+
+msgid "Arrows"
+msgstr "Стрелки"
+
+msgid "Align (Absolute)"
+msgstr ""
+
+msgid "Numeric keys"
+msgstr ""
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Duplicate"
+msgstr "Дублировать"
+
+msgid "Copy"
+msgstr "Копировать"
+
+msgid "Paste"
+msgstr ""
+
+msgid "Undo"
+msgstr "Отменить"
+
+msgid "Redo"
+msgstr "Повторить"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Play animations"
+msgstr "Анимация слоев"
+
+msgid "Clear device specific settings"
+msgstr ""
+
+msgid "Current layer, current device"
+msgstr ""
+
+msgid "Current layer, all devices"
+msgstr ""
+
+msgid "All layers, current device"
+msgstr ""
+
+msgid "All layers, all devices"
+msgstr ""
+
+msgid "Unexpected response"
+msgstr ""
+
+msgid "Scroll to"
+msgstr "Прокрутить до"
+
+msgid "Scroll to alias"
+msgstr ""
+
+msgid "Go to slide"
+msgstr "Перейти к слайду"
+
+msgid "Go to slide ID"
+msgstr "Перейти к ID слайда"
+
+msgid "Previous slide"
+msgstr "Предыдущий слайд"
+
+msgid "Next slide"
+msgstr "Следующий слайд"
+
+msgid "Slide event"
+msgstr "Событие слайда"
+
+msgid "Examples"
+msgstr "Примеры"
+
+msgid "Scrolls to the top of the page."
+msgstr ""
+
+msgid "Scrolls to the bottom of the page."
+msgstr ""
+
+msgid ""
+"You can use any jQuery selector to scroll to a specific element on the page. "
+"Example: \"#pricing\" scrolls to the element with the id of \"pricing\"."
+msgstr ""
+"Для прокрутки к определенному элементу на странице можно использовать любой "
+"селектор jQuery. Например: \"#pricing\" прокручивает страницу до элемента с "
+"id \"pricing\"."
+
+msgid "Slider alias"
+msgstr ""
+
+msgid "Slider alias set at Slider settings > General"
+msgstr ""
+
+msgid "Slide index"
+msgstr "Индекс слайда"
+
+msgid "Direction"
+msgstr "Направление"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Backward"
+msgstr "Назад"
+
+msgid "Forward"
+msgstr "Вперёд"
+
+#, javascript-format
+msgid "slide index: 2 %s direction: backward"
+msgstr ""
+
+msgid "Switches to the second slide as if the previous arrow was pressed"
+msgstr ""
+
+#, javascript-format
+msgid "slide index: 5 %s direction: forward"
+msgstr ""
+
+msgid "Switches to the fifth slide as if the next arrow was pressed"
+msgstr ""
+
+msgid "Slide ID"
+msgstr "ID слайда"
+
+msgid ""
+"Switches to the slide with the #2 ID as if the previous arrow was pressed"
+msgstr ""
+
+msgid "Switches to the slide with the #5 ID as if the next arrow was pressed"
+msgstr ""
+
+msgid "Event name"
+msgstr "Название события"
+
+msgid "An event you use to trigger layer animation(s) with"
+msgstr ""
+
+msgid "Content List - One Per Line"
+msgstr ""
+
+msgid "Choose images"
+msgstr "Выбрать изображения"
+
+msgid "Titles - One Per Line"
+msgstr ""
+
+msgid "Autoplay duration"
+msgstr "Продолжительность автовоспроизведения"
+
+msgid "URL"
+msgstr "URL-адрес"
+
+msgid "Search keyword"
+msgstr ""
+
+msgid "Posts"
+msgstr "Статьи"
+
+msgid "Lightbox"
+msgstr "Лайтбокс"
+
+msgid "Insert"
+msgstr "Вставить"
+
+msgid "Oops, Something Went Wrong"
+msgstr ""
+
+msgid "Success"
+msgstr "Выполнено"
+
+msgid "Notice"
+msgstr ""
+
+msgid "Select image"
+msgstr "Выбрать изображение"
+
+msgid "Use Joomla selector"
+msgstr "Использовать селектор Joomla"
+
+msgid "Use default selector"
+msgstr ""
+
+msgid "Deleted."
+msgstr ""
+
+msgid "Static"
+msgstr "Статический"
+
+msgid "Save as New"
+msgstr ""
+
+msgid "Saved."
+msgstr ""
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Column"
+msgstr "Столбец"
+
+msgid "There is no layer available to be parent of the current layer!"
+msgstr ""
+
+msgid "Pick the parent layer!"
+msgstr "Выберите родительский слой!"
+
+msgid "Pick the align point of the parent layer!"
+msgstr "Выберите точку выравнивания родительского слоя!"
+
+msgid "Pick the align point of the child layer!"
+msgstr "Выберите точку выравнивания дочернего слоя!"
+
+msgid "Advanced"
+msgstr "Расширенные"
+
+#, fuzzy, javascript-format
+#| msgid "Outer"
+msgid "Outer %s"
+msgstr "Внешний"
+
+msgid "Left"
+msgstr "Слева"
+
+msgid "Right"
+msgstr "Справа"
+
+msgid "Middle"
+msgstr ""
+
+msgid "Bottom"
+msgstr "Снизу"
+
+msgid "Layer(s)"
+msgstr ""
+
+msgid "Hide on"
+msgstr "Скрыть"
+
+msgid "Rename"
+msgstr "Переименовать"
+
+msgid "Show/Hide in editor"
+msgstr ""
+
+msgid "Animation"
+msgstr "Анимация"
+
+msgid "Add animation"
+msgstr "Добавить анимацию"
+
+msgid "Remove animations"
+msgstr "Удалить анимации"
+
+msgid "Layer Animation - Basic"
+msgstr ""
+
+#, fuzzy
+#| msgid "Add Keyframe"
+msgid "Add keyframe"
+msgstr "Добавить ключевой кадр"
+
+msgid "Loop"
+msgstr "Цикл"
+
+msgid "Special Zero"
+msgstr ""
+
+msgid "Keyframe"
+msgstr "Ключевой кадр"
+
+msgid "Layer Animation - Reveal"
+msgstr ""
+
+msgid "Open/Close"
+msgstr ""
+
+msgid "Content"
+msgstr "Содержимое"
+
+msgid "Child layers"
+msgstr ""
+
+msgid "Animated heading"
+msgstr ""
+
+msgid "Highlighted heading"
+msgstr ""
+
+#, fuzzy
+#| msgid "Split text animation"
+msgid "Text animation in"
+msgstr "Анимация разделения текста"
+
+#, fuzzy
+#| msgid "Split text animation"
+msgid "Text animation out"
+msgstr "Анимация разделения текста"
+
+msgid "Layer"
+msgstr "Слой"
+
+msgid "Row"
+msgstr "Ряд"
+
+msgid "Slide"
+msgstr "Слайд"
+
+msgid "Theme"
+msgstr ""
+
+#, javascript-format
+msgid "%s or newer required for this feature."
+msgstr ""
+
+msgid "This section requires activated Pro version."
+msgstr ""
+
+#, javascript-format
+msgid "This block is not available in the free version. %s"
+msgstr ""
+
+msgid "Go Pro"
+msgstr ""
+
+msgid "Editor settings"
+msgstr "Настройки редактора"
+
+msgid "Upgrade to Pro"
+msgstr ""
+
+msgid "Guide settings"
+msgstr ""
+
+msgid "Smart snap"
+msgstr ""
+
+msgid "Round to 5px"
+msgstr "Закруглить до 5 пикселей"
+
+msgid "Ruler"
+msgstr "Линейка"
+
+#, fuzzy
+#| msgid "Clear Guides"
+msgid "Clear guides"
+msgstr "Очистить состояние подсказок"
+
+msgid "Activate Smart Slider 3 Pro"
+msgstr ""
+
+msgid "Activation is required to unlock all features!"
+msgstr ""
+
+msgid ""
+"Register Smart Slider 3 Pro on this domain to enable auto update, slider "
+"templates and slide library."
+msgstr ""
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid "Activate"
+msgstr "Активировать"
+
+msgid "Smart Slider 3 activated!"
+msgstr "Smart Slider 3 активирован!"
+
+msgid "Laptop"
+msgstr ""
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Height"
+msgstr "Высота"
+
+#, javascript-format
+msgid "Below %s pixels."
+msgstr ""
+
+#, javascript-format
+msgid "Above %s pixels."
+msgstr ""
+
+#, javascript-format
+msgid "Between %s and %s pixels."
+msgstr ""
+
+#, javascript-format, php-format
+msgid "This slide is hidden on the following devices: %s"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Clean HTML"
+msgstr "Очистить HTML"
+
+msgid "Remove HTML"
+msgstr "Удалить HTML"
+
+msgid "Split by Chars"
+msgstr ""
+
+msgid "Strict"
+msgstr "Строгий"
+
+msgid "Respect words"
+msgstr "Учитывать слова"
+
+msgid "Find image"
+msgstr "Найти изображение"
+
+msgid "Find link"
+msgstr "Найти ссылку"
+
+msgid "Remove links"
+msgstr "Удалить ссылки"
+
+msgid "Remove line breaks"
+msgstr "Удалить разрывы строк"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "Change slider type"
+msgstr ""
+
+msgid ""
+"Changing your slider type is irreversible. After changing your slider type, "
+"<b>you will lose all slider type related settings</b>."
+msgstr ""
+
+msgid "Slider type"
+msgstr ""
+
+msgid "Convert"
+msgstr ""
+
+msgid "What do you want to create today?"
+msgstr ""
+
+msgid ""
+"Use our powerful visual editor, or simply import one of our existing "
+"template."
+msgstr ""
+
+msgid "Create a New Project"
+msgstr ""
+
+msgid ""
+"Start a new project from scratch and build exactly what you’ve imagined. You "
+"can easily customize every pixels and create anything with layers."
+msgstr ""
+
+msgid "Start with a Template"
+msgstr ""
+
+msgid ""
+"Start with a template and make it your own with the innovative drag and drop "
+"interface. You can choose from hundreds of premade templates."
+msgstr ""
+
+#, fuzzy
+#| msgid "Local import file"
+msgid "or import your own files"
+msgstr "Локальный импорт файла"
+
+#, fuzzy
+#| msgid "Create set"
+msgid "Create new project"
+msgstr "Создать набор"
+
+#, fuzzy
+#| msgid "Product types"
+msgid "Project type"
+msgstr "Типы товаров"
+
+msgid "Slider"
+msgstr "Слайдер"
+
+msgid "Block"
+msgstr "Блок"
+
+msgid "Full page"
+msgstr "Во всю страницу"
+
+msgid "Carousel"
+msgstr "Карусель"
+
+msgid "Showcase"
+msgstr "Витрина"
+
+msgid "Pro"
+msgstr ""
+
+msgid "Settings"
+msgstr "Настройки"
+
+#, fuzzy
+#| msgid "My photos"
+msgid "My project"
+msgstr "Мои фотографии"
+
+msgid "Boxed"
+msgstr ""
+
+msgid "Full width"
+msgstr "Во всю ширину"
+
+msgid "Layout"
+msgstr "Макет"
+
+msgid "Slide width"
+msgstr ""
+
+msgid "Slide height"
+msgstr ""
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Join The Smart Slider 3 Community"
+msgstr ""
+
+msgid ""
+"Join more than 120,000 subscribers and get access to the latest slider "
+"templates, tips, tutorials and other exclusive contents directly to your "
+"inbox."
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Change group"
+msgstr "Выбрать группу"
+
+msgid "Groups"
+msgstr "Группы"
+
+msgid "Set"
+msgstr "Настроить"
+
+msgid "Up"
+msgstr ""
+
+msgid "Insert group"
+msgstr "Вставить группу"
+
+msgid "Group"
+msgstr "Группа"
+
+msgid "Move to trash"
+msgstr "Переместить в корзину"
+
+msgid "empty the trash"
+msgstr "очистить корзину"
+
+msgid "Delete permanently"
+msgstr "Удалить навсегда"
+
+msgid "delete this slider"
+msgstr "удалить этот объект"
+
+msgid "Publish"
+msgstr "Публикация"
+
+msgid "Unpublish"
+msgstr "Снять с публикации"
+
+msgid "Edit generator"
+msgstr "Редактировать генератор"
+
+msgid "Set as first"
+msgstr "Сделать первым"
+
+#, fuzzy
+#| msgid "Go to slide"
+msgid "Convert to slide"
+msgstr "Перейти к слайду"
+
+msgid "Copy slide to"
+msgstr ""
+
+msgid "Add post"
+msgstr "Добавить статью"
+
+msgid "Please select a Post first!"
+msgstr ""
+
+msgid "delete these slides"
+msgstr "удалить эти объекты"
+
+msgid "delete this slide"
+msgstr "удалить этот объект"
+
+msgid "Animations"
+msgstr "Анимация"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Shape divider"
+msgstr "Разделитель фигуры"
+
+msgid "Particle effect"
+msgstr "Эффект частиц"
+
+msgid "Layer animations"
+msgstr "Анимация слоев"
+
+msgid "Play on load"
+msgstr ""
+
+msgid ""
+"Plays the layer animations on the first slide when it appears for the first "
+"time."
+msgstr ""
+
+msgid "Play once"
+msgstr "Однократное воспроизведение"
+
+msgid "Plays the layer animations only during the first loop."
+msgstr ""
+
+msgid "Play on"
+msgstr "Воспроизведение"
+
+msgid "Main animation start"
+msgstr "После начала основной анимации"
+
+msgid "Main animation end"
+msgstr "После окончания основной анимации"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Skippable"
+msgstr "Пропускаемое"
+
+msgid "Forced"
+msgstr "Принудительно"
+
+msgid ""
+"You can make the outgoing layer animations, which don't have events, to play "
+"on slide switching."
+msgstr ""
+
+msgid "Layer parallax"
+msgstr ""
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Animate"
+msgstr "Анимировать"
+
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+msgid "Mouse"
+msgstr "Мышь"
+
+msgid "Invert"
+msgstr "Инвертировать"
+
+msgid "Vertical"
+msgstr "Вертикально"
+
+msgid "Scroll"
+msgstr "Прокрутка"
+
+msgid "Mouse origin"
+msgstr "Позиция мыши"
+
+msgid "Slider center"
+msgstr "Центр слайдера"
+
+msgid "Mouse enter position"
+msgstr "Входная позиция мыши"
+
+msgid "Scroll move"
+msgstr "Шаг прокрутки"
+
+msgid "Both"
+msgstr "Оба"
+
+msgid "To bottom"
+msgstr "Вниз"
+
+msgid "To top"
+msgstr "Вверх"
+
+msgid "Autoplay"
+msgstr "Автовоспроизведение"
+
+msgid "Slide duration"
+msgstr "Продолжительность слайда"
+
+msgid "Autostart"
+msgstr "Автозапуск"
+
+msgid "Allow restart"
+msgstr ""
+
+msgid ""
+"Keeps the autoplay control visible after the autoplay has finished to allow "
+"starting it again."
+msgstr ""
+
+msgid "Infinite loop"
+msgstr ""
+
+msgid "Finish autoplay"
+msgstr ""
+
+msgid "Stop on click"
+msgstr ""
+
+msgid "Stop on mouse"
+msgstr ""
+
+msgid "Enter"
+msgstr "Наведение"
+
+msgid "Leave"
+msgstr "Отведение"
+
+msgid "Stop on media"
+msgstr ""
+
+msgid "Resume on click"
+msgstr ""
+
+msgid "Resume on mouse"
+msgstr ""
+
+msgid "Resume on media"
+msgstr ""
+
+msgid "Controls"
+msgstr "Элементы управления"
+
+msgid "Drag"
+msgstr ""
+
+msgid "Defines the drag (and touch) direction for your slider."
+msgstr ""
+
+msgid "Mouse wheel"
+msgstr ""
+
+msgid "Allows switching slides with the mouse wheel."
+msgstr ""
+
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+msgid "Allows switching slides with the keyboard."
+msgstr ""
+
+msgid "Developer"
+msgstr "Для разработчика"
+
+msgid "Block right click"
+msgstr "Блокировать щелчок правой кнопкой мыши"
+
+msgid "Block carousel"
+msgstr ""
+
+msgid ""
+"Stops the carousel at the last slide when the source of interaction is "
+"vertical touch, vertical pointer, mouse wheel or vertical keyboard."
+msgstr ""
+
+msgid "Clear before"
+msgstr ""
+
+msgid "Closes the unclosed float CSS codes before the slider."
+msgstr ""
+
+msgid "Clear after"
+msgstr ""
+
+msgid "Allows you to put your slider next to your text."
+msgstr ""
+
+msgid "Hide scrollbar"
+msgstr ""
+
+msgid ""
+"Your website won't be scrollable anymore! All out of screen elements will be "
+"hidden."
+msgstr ""
+
+msgid "Scroll to slider"
+msgstr ""
+
+msgid "The page scrolls back to the slider when the user interacts with it."
+msgstr ""
+
+msgid "Edge"
+msgstr ""
+
+msgid "Top - when needed"
+msgstr ""
+
+msgid "Top - always"
+msgstr ""
+
+msgid "Bottom - when needed"
+msgstr ""
+
+msgid "Bottom - always"
+msgstr ""
+
+msgid "Delayed (for lightbox/tabs)"
+msgstr "Задержка (для лайтбокса/вкладок)"
+
+msgid ""
+"Delays the loading of the slider until its container gets visible. Useful "
+"when you display the slider in a lightbox or tab."
+msgstr ""
+
+msgid "Legacy font scale"
+msgstr ""
+
+msgid ""
+"This feature brings back the non-adaptive font size for absolute layers "
+"which were made before version 3.5. Turning on can affect website "
+"performance, so we suggest to keep it disabled.\n"
+msgstr ""
+
+msgid "Slider CSS classes"
+msgstr ""
+
+msgid "You can put custom CSS classes to the slider's container."
+msgstr ""
+
+msgid "JavaScript callbacks"
+msgstr "Обратные вызовы JavaScript"
+
+msgid "Post IDs"
+msgstr "ID сообщений"
+
+msgid "one per line"
+msgstr "по одному в каждой строке"
+
+msgid "The cache of the posts with the given ID will be cleared upon save."
+msgstr ""
+"Кэш сообщений с указанным идентификатором будет очищен после сохранения."
+
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+msgid "Slider thumbnail which appears in the slider list."
+msgstr ""
+
+msgid "ARIA label"
+msgstr ""
+
+msgid "It allows you to label your slider for screen readers."
+msgstr ""
+
+msgid "Alias"
+msgstr "Псевдоним"
+
+msgid "You can use this alias in the slider's shortcode."
+msgstr ""
+
+msgid "Use as anchor"
+msgstr ""
+
+msgid ""
+"Creates an empty div before the slider, using the alias as the ID of this "
+"div. As a result, you can use #your-alias in the URL to make the page jump "
+"to the slider."
+msgstr ""
+
+msgid "Smooth scroll"
+msgstr ""
+
+msgid ""
+"The #your-alias urls in links would be forced to smooth scroll to the slider."
+msgstr ""
+
+msgid "Switch slide"
+msgstr ""
+
+msgid ""
+"Use #your-alias-2 as an anchor to jump to the slider and switch to the 2nd "
+"slide immediately. Use #your-alias-3 for the 3rd slide and so on."
+msgstr ""
+
+msgid "Scroll to slide"
+msgstr ""
+
+msgid ""
+"The \"Switch slide\" option won't scroll you to the slider. Only the slides "
+"will switch."
+msgstr ""
+
+msgid "Slider design"
+msgstr "Оформление слайда"
+
+msgid "Slider background image"
+msgstr "Фоновое изображение слайдера"
+
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+msgid "Background video"
+msgstr "Фоновое видео"
+
+msgid "Muted"
+msgstr "Приглушенный"
+
+msgctxt "Video/Audio play"
+msgid "Loop"
+msgstr ""
+
+msgid "Fill mode"
+msgstr "Режим заполнения"
+
+msgid "Align"
+msgstr "Выравнивание"
+
+msgid "Margin"
+msgstr "Внешний отступ"
+
+msgid "Puts a fix margin around your slider."
+msgstr ""
+
+msgid "Perspective"
+msgstr "Перспектива"
+
+msgid "Optimize"
+msgstr "Оптимизировать"
+
+msgid "Loading"
+msgstr "Загрузка"
+
+msgid "Instant"
+msgstr ""
+
+msgid "After page loaded"
+msgstr ""
+
+msgid "After delay"
+msgstr ""
+
+#, fuzzy
+#| msgid "Loading"
+msgid "Loading type"
+msgstr "Загрузка"
+
+msgid ""
+"If your slider is above the fold, you can load it immediately. Otherwise, "
+"you can load it only after the page has loaded."
+msgstr ""
+
+msgid "Load delay"
+msgstr ""
+
+msgid "Play when visible"
+msgstr "Воспроизведение при отображении"
+
+msgid ""
+"Makes sure that the autoplay and layer animations only start when your "
+"slider is visible."
+msgstr ""
+
+msgid "At"
+msgstr "В"
+
+#, fuzzy
+#| msgid "Slider background image"
+msgid "Slide background images"
+msgstr "Фоновое изображение слайдера"
+
+msgid "Loading mode"
+msgstr ""
+
+msgid "Delayed loading"
+msgstr "Задержка загрузки"
+
+msgid "Lazy loading"
+msgstr "Отложенная загрузка"
+
+msgid ""
+"You can speed up your site's loading by delaying the slide background images."
+msgstr ""
+
+msgid "Load neighbor"
+msgstr "Загрузка следующих"
+
+msgctxt "Unit"
+msgid "slides"
+msgstr ""
+
+#, php-format
+msgid ""
+"Convert to WebP and image resizing require a lot of memory. Lift the memory "
+"limit%s if you get a blank page."
+msgstr ""
+
+#, fuzzy
+#| msgid "Go to slide"
+msgid "Convert to WebP"
+msgstr "Перейти к слайду"
+
+msgid "Resize"
+msgstr ""
+
+msgid "Quality"
+msgstr "Качество"
+
+#, fuzzy
+#| msgid "Default width percentage"
+msgid "Default width"
+msgstr "Процентое значение ширины по умолчанию"
+
+#, fuzzy
+#| msgid "Medium Light"
+msgid "Medium width"
+msgstr "Средний светлый"
+
+#, fuzzy
+#| msgid "Medium Light"
+msgid "Medium height"
+msgstr "Средний светлый"
+
+#, fuzzy
+#| msgid "Full width"
+msgid "Small width"
+msgstr "Во всю ширину"
+
+#, fuzzy
+#| msgid "Small Light"
+msgid "Small height"
+msgstr "Слабый светлый"
+
+msgid "Retina"
+msgstr ""
+
+msgid "Instruction"
+msgstr ""
+
+msgid ""
+"If your images look blurry on small screens, use the available height option "
+"to match the aspect ratio of the slider and image on that device."
+msgstr ""
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Resize Thumbnail"
+msgstr "Миниатюра"
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Thumbnail Quality"
+msgstr "Миниатюра"
+
+msgid "Thumbnail width"
+msgstr ""
+
+msgid "Thumbnail height"
+msgstr ""
+
+msgid "Layer images"
+msgstr "Изображения слоев"
+
+msgid "Base64 embed"
+msgstr ""
+
+msgid "Embeds the layer images to the page source, reducing the requests."
+msgstr ""
+
+msgid "Max file size"
+msgstr ""
+
+msgid "Other"
+msgstr "Другое"
+
+msgid "JetPack Photon image optimizer"
+msgstr "Оптимизатор изображений Jetpack Photon"
+
+msgid "Background video on mobile"
+msgstr ""
+
+msgid "Slider size"
+msgstr "Размер слайдера"
+
+msgid "Limit slide width"
+msgstr "Ограничить ширину слайда"
+
+msgid ""
+"Limits the width of the slide and prevents the slider from getting too tall."
+msgstr ""
+
+msgid "Max"
+msgstr "Макс."
+
+msgid "Breakpoints"
+msgstr ""
+
+msgid ""
+"Breakpoints define the browser width in pixel when the slider switches to a "
+"different device."
+msgstr ""
+
+msgid "Global breakpoints"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can use the global breakpoints, or adjust them locally here. You can "
+"configure the Global breakpoints at <a href=\"%1$s\" target=\"_blank"
+"\">Global settings</a> > General > Breakpoints"
+msgstr ""
+
+msgid "Custom size"
+msgstr ""
+
+#, php-format
+msgid ""
+"Use this option to customize the aspect ratio for each device. %1$s Read "
+"more in the documentation%2$s. <b>Beware:</b> This option is rarely needed "
+"and might be hard to set properly!"
+msgstr ""
+
+msgid "Slides"
+msgstr "Слайды"
+
+msgid "Slides design"
+msgstr ""
+
+msgid "Slide background image fill"
+msgstr "Заливка фонового изображения слайда"
+
+msgid ""
+"If the size of your image is not the same as your slider's, you can improve "
+"the result with the filling modes."
+msgstr ""
+
+msgid "Randomize"
+msgstr "Выбрать случайным образом"
+
+msgid "Randomize slides"
+msgstr "Выбирать слайды случайным образом"
+
+msgid "Randomize first"
+msgstr ""
+
+msgid "Cache support"
+msgstr "Поддержка кеша"
+
+msgid "Cache variations"
+msgstr "Вариантов кеша"
+
+msgid "Reverse"
+msgstr ""
+
+msgid "You can make your slides appear in the slider in a reversed order."
+msgstr ""
+
+msgid "Max count"
+msgstr ""
+
+msgid ""
+"You can limit how many slides you want to show from your slider. It's best "
+"used with the Randomize feature, to improve the experience."
+msgstr ""
+
+msgid "Maintain session"
+msgstr ""
+
+msgid ""
+"The slider continues from the last viewed slide when the visitor comes back "
+"to the page."
+msgstr ""
+
+msgid "Backgrounds in lightbox"
+msgstr ""
+
+msgid ""
+"Creates a lightbox from your slide background images. This feature only "
+"works if all slides have background images."
+msgstr ""
+
+msgid "Show label"
+msgstr "Показывать метку"
+
+msgid "Only slide name"
+msgstr "Только название слайда"
+
+msgid "Slide name and description"
+msgstr "Название и описание слайда"
+
+msgid "Background parallax"
+msgstr ""
+
+msgid "Strength"
+msgstr "Интенсивность"
+
+msgid "Super soft"
+msgstr "Супер мягко"
+
+msgid "Soft"
+msgstr "Мягко"
+
+msgid "Strong"
+msgstr "Сильно"
+
+msgid "Super strong"
+msgstr "Супер сильно"
+
+msgid "Generator created."
+msgstr "Генератор создан."
+
+msgid "Generator updated and cache cleared."
+msgstr "Генератор обновлен, а кэш очищен."
+
+msgid "Generator group not found"
+msgstr ""
+
+msgid "Generator source not found"
+msgstr ""
+
+msgid "No records found for the filter"
+msgstr ""
+
+msgid "Authentication successful."
+msgstr "Аутентификация прошла успешно."
+
+msgid "Not installed"
+msgstr "Не установлено"
+
+msgid "Visit"
+msgstr ""
+
+msgid "Add dynamic slides"
+msgstr "Добавить динамические слайды"
+
+msgid "Configure"
+msgstr "Настроить"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Generator"
+msgstr "Генератор"
+
+msgid "How to upgrade to Smart Slider 3 Pro?"
+msgstr ""
+
+#, php-format
+msgid ""
+"After making your purchase, %1$slog in to your account%3$s and download the "
+"Pro installer. To get started with Smart Slider 3 Pro, simply %2$sinstall it "
+"on your website%3$s."
+msgstr ""
+
+msgid "Download Pro"
+msgstr ""
+
+msgid ""
+"Feel free to remove the Free version, as you no longer need it. Your sliders "
+"will stay!"
+msgstr ""
+
+msgid "Ready to go Pro?"
+msgstr ""
+
+msgid "Supercharge Smart Slider 3 with powerful functionality!"
+msgstr ""
+
+msgid "Already purchased?"
+msgstr ""
+
+msgid "Get started with the Pro version now!"
+msgstr ""
+
+#, php-format
+msgid "Unable to connect to the API (%s)."
+msgstr ""
+
+msgid "See <b>Debug Information</b> for more details!"
+msgstr ""
+
+msgid "Successful connection with the API."
+msgstr "Успешное соединение с API."
+
+msgid "Welcome to Help Center"
+msgstr ""
+
+msgid ""
+"To help you get started, we've put together a super tutorial video that "
+"shows you the basic settings."
+msgstr ""
+
+#, fuzzy
+#| msgid "Possible Conflicts"
+msgid "Possible conflicts"
+msgstr "Возможные конфликты"
+
+#, fuzzy
+#| msgid "Reset position"
+msgid "Test connection"
+msgstr "Сбросить позицию"
+
+msgid "No conflicts detected."
+msgstr ""
+
+msgid "Hello! How can we help you today?"
+msgstr ""
+
+msgid "Search in the knowledge base"
+msgstr "Поиск в базе знаний"
+
+msgid "Documentation"
+msgstr "Документация"
+
+msgid ""
+"To get started with Smart Slider 3, please refer to this guide for "
+"downloading, installing, and using."
+msgstr ""
+"Чтобы начать работу со Smart Slider 3, пожалуйста, обратитесь к этому "
+"руководству для загрузки, установки и использования."
+
+msgid "Email support"
+msgstr "Поддержка по email"
+
+msgid ""
+"Need one-to-one assistance? Get in touch with our Support team! We'd love "
+"the opportunity to help you."
+msgstr ""
+"Нужна индивидуальная помощь? Свяжитесь с нашей Службой поддержки! Мы будем "
+"рады помочь вам."
+
+#, fuzzy
+#| msgid "Tutorial Videos"
+msgid "Tutorial videos"
+msgstr "Учебные видеоролики"
+
+msgid ""
+"Check our video tutorials which cover everything you need to know about "
+"Smart Slider 3."
+msgstr ""
+"Ознакомьтесь с нашими видеоуроками, которые охватывают все, что вам нужно "
+"знать о Smart Slider 3."
+
+msgid "Selected articles"
+msgstr ""
+
+#, fuzzy
+#| msgid "Debug Information"
+msgid "Debug information"
+msgstr "Отладочная информация"
+
+#, php-format
+msgid "%s or later"
+msgstr ""
+
+msgid "You are using an unsupported browser!"
+msgstr ""
+
+#, php-format
+msgid ""
+"Smart Slider 3 does not support your current browser for editing. Supported "
+"browsers are the following: %s."
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider center"
+msgid "Help center"
+msgstr "Центр слайдера"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Read more"
+msgstr "Читать далее"
+
+msgid "Need more?"
+msgstr ""
+
+msgid "Unlock all the pro features by upgrading to Smart Slider 3 Pro."
+msgstr ""
+
+msgid "Changelog"
+msgstr "Журнал изменений"
+
+msgid "Check for update"
+msgstr ""
+
+msgid "Check"
+msgstr ""
+
+msgid "Your license is active"
+msgstr ""
+
+msgid "Deactivate license"
+msgstr "Деактивировать лицензию"
+
+msgid "Activate your license"
+msgstr ""
+
+msgid "Don’t miss any update"
+msgstr ""
+
+msgid "Let us know how we're doing"
+msgstr ""
+
+msgid ""
+"If you are happy with Smart Slider 3 and can take a minute please leave a "
+"review. This will help to spread its popularity and to make this plugin a "
+"better one."
+msgstr ""
+
+msgid "Rate your experience"
+msgstr ""
+
+msgid "Hated it"
+msgstr "Ненавижу"
+
+msgid "Disliked it"
+msgstr "Не понравилось"
+
+msgid "It was ok"
+msgstr "Все нормально"
+
+msgid "Liked it"
+msgstr "Понравилось"
+
+msgid "Loved it"
+msgstr "Очень понравилось"
+
+msgid "Why upgrade to Smart Slider 3 Pro?"
+msgstr ""
+
+msgid "120+ slider templates"
+msgstr ""
+
+msgid "Full slide library access"
+msgstr ""
+
+#, fuzzy
+#| msgid "Text layer"
+msgid "20 new layers"
+msgstr "Текстовый слой"
+
+msgid "Extra advanced options"
+msgstr ""
+
+msgid "New animations & effects"
+msgstr ""
+
+msgid "Lifetime update & support"
+msgstr ""
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Layers"
+msgstr "Слои"
+
+msgid "Library"
+msgstr "Библиотека"
+
+msgid "Absolute"
+msgstr ""
+
+msgctxt "Layer group"
+msgid "Basic"
+msgstr "Основное"
+
+msgid "Inner align"
+msgstr "Внутреннее выравнивание"
+
+msgid "Positions the layers inside horizontally."
+msgstr ""
+
+msgid "Vertical align"
+msgstr "Выравнивание по вертикали"
+
+msgid "Positions the layers inside vertically."
+msgstr ""
+
+msgid "Target window"
+msgstr "Целевое окно"
+
+msgid "Background image"
+msgstr "Фоновое изображение"
+
+msgid "Focus"
+msgstr "Фокус"
+
+msgid ""
+"You can set the starting position of a background image. This makes sure "
+"that the selected part will always remain visible, so you should pick the "
+"most important part."
+msgstr ""
+
+msgid "Background"
+msgstr "Фон"
+
+msgid "Gradient"
+msgstr "Градиент"
+
+msgid "Color end"
+msgstr "Завершающий цвет"
+
+msgid "Max width"
+msgstr "Max ширина"
+
+msgid "Position"
+msgstr "Позиция"
+
+msgid "The editing mode the layer is positioned in."
+msgstr ""
+
+msgid "Positions the layer horizontally within its parent."
+msgstr ""
+
+msgid "You can set a fix height for your layer."
+msgstr ""
+
+msgid "With margins you can create distance between your layers."
+msgstr ""
+
+msgid "Responsive"
+msgstr "Адаптивный"
+
+msgid "Linked to"
+msgstr ""
+
+msgid ""
+"You can link your layer to another layer on the same level. This way your "
+"layer won't be positioned to the slide, but the other layer."
+msgstr ""
+
+msgid "Hide when variable empty"
+msgstr ""
+
+msgid "Text scale"
+msgstr ""
+
+msgid "Device specific settings"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Erases all device specific changes you made on the current device."
+msgstr ""
+
+msgid "Effect"
+msgstr "Эффект"
+
+msgid "Parallax"
+msgstr "Параллакс"
+
+msgid "More parallax options in slider settings -> Layer animations tab."
+msgstr ""
+"Дополнительные параметры параллакса в настройках слайдера -> вкладка "
+"Анимация слоев."
+
+msgid "Crop"
+msgstr "Обрезать"
+
+msgid "Mask"
+msgstr "Маска"
+
+msgid "If your content is larger than the layer, you can crop it to fit."
+msgstr ""
+
+msgid "Rotation"
+msgstr "Поворот"
+
+msgid "CSS Class"
+msgstr "CSS класс"
+
+msgid "You can add a custom CSS class on the layer container."
+msgstr ""
+
+#, fuzzy
+#| msgid "Loading background"
+msgid "Content background"
+msgstr "Загрузка фона"
+
+msgid "Spacing"
+msgstr "Интервал"
+
+msgid "Typography"
+msgstr ""
+
+msgid ""
+"You can select a font family from the preset, or type your custom family."
+msgstr ""
+
+msgid ""
+"Need to change the font size device specifically? Use the Text scale option."
+msgstr ""
+
+msgid "Columns"
+msgstr "Столбцы"
+
+msgid "Gutter"
+msgstr "Расстояние меж колонок"
+
+msgid "Creates space between the columns"
+msgstr ""
+
+msgid "Wrap after"
+msgstr "Колонки"
+
+msgid "Breaks the columns to the given amount of rows."
+msgstr ""
+
+msgid "Makes the row fill the available vertical space"
+msgstr ""
+
+msgid "Slide title"
+msgstr "Название слайда"
+
+msgid "Description"
+msgstr "Описание"
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Thumbnail alt"
+msgstr "Миниатюра"
+
+msgid "Custom lightbox image"
+msgstr "Пользовательское изображение для лайтбокса"
+
+msgid "Published"
+msgstr "Опубликованно"
+
+msgid "Publish on"
+msgstr "Запланировать публ."
+
+msgid "Unpublish on"
+msgstr "Снять с публикации"
+
+msgid "Thumbnail type"
+msgstr "Тип превью"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid ""
+"If you have a video on your slide, you can put a play icon on the thumbnail "
+"image to indicate that."
+msgstr ""
+
+#, php-format
+msgid ""
+"Video autoplaying has a lot of limitations made by browsers. %1$sLearn about "
+"them.%2$s"
+msgstr ""
+"Автовоспроизведение видео имеет ограничения, налагаемые браузерами. "
+"%1$sУзнайте о них.%2$s"
+
+msgid "Slide background video"
+msgstr "Фоновое видео"
+
+msgid "Restart on slide change"
+msgstr ""
+
+msgid "Starts the video from the beginning when the slide is viewed again."
+msgstr ""
+
+msgid "Slide background"
+msgstr "Фоновое изображение"
+
+msgid ""
+"Select a background image for the slide. By clicking the small screen icon, "
+"you can pick different images for different devices."
+msgstr ""
+
+#, php-format
+msgid ""
+"Please read %1$sour detailed guide%2$s about setting your own slide "
+"background correctly."
+msgstr ""
+"Пожалуйста, прочтите %1$sнаше подробное руководство%2$s по правильной "
+"настройке собственного фона слайда."
+
+msgid "Blur"
+msgstr "Размытие"
+
+msgid "Overlay"
+msgstr "Наложение"
+
+msgid "Puts the color in front of the image."
+msgstr ""
+
+msgid "SEO"
+msgstr ""
+
+#, fuzzy
+msgid "Image alt"
+msgstr "Изобр. альтерн."
+
+#, fuzzy
+msgid "Image title"
+msgstr "Заголовок изображения"
+
+msgctxt "Layer animation"
+msgid "In"
+msgstr ""
+
+msgctxt "Layer animation"
+msgid "Out"
+msgstr ""
+
+msgctxt "Layer animation"
+msgid "Events"
+msgstr ""
+
+msgid "Plays in when"
+msgstr "Входное вопроизведение когда"
+
+msgid "Plays out when"
+msgstr "Выходное воспроизведение когда"
+
+msgid "Plays loop when"
+msgstr "Воспроизведение цикла когда"
+
+msgid "Pauses loop when"
+msgstr "Приостановка цикла когда"
+
+msgid "Stops loop when"
+msgstr "Остановка цикла когда"
+
+msgid "Repeatable"
+msgstr "Повторяемо"
+
+msgid "Allows the layer animations to play more than once."
+msgstr ""
+
+msgid "Start delay"
+msgstr "Задержка запуска"
+
+msgid "End delay"
+msgstr "Окончания задержка"
+
+msgid "Repeat loop only"
+msgstr ""
+
+msgid "Allows the stopped loop to start again."
+msgstr ""
+
+msgid "Trigger custom event on"
+msgstr "Запуск пользовательского события в момент"
+
+msgid "Click"
+msgstr "Щелчок"
+
+msgid "Mouse enter"
+msgstr "При наведении указателя мыши"
+
+msgid "Mouse leave"
+msgstr "При отводе указателя мыши"
+
+msgid "Media started"
+msgstr "Медиа запущено"
+
+msgid "Media paused"
+msgstr "Медиа приостановлено"
+
+msgid "Media stopped"
+msgstr "Медиа остановлено"
+
+msgid "Duration"
+msgstr "Продолжительность"
+
+msgid "Delay"
+msgstr "Задержка"
+
+msgid "Easing"
+msgstr "Функция плавности"
+
+msgid "Offset"
+msgstr "Смещение"
+
+msgid "Rotate"
+msgstr "Поворот"
+
+msgid "Scale"
+msgstr "Масшабирование"
+
+msgid "Skew"
+msgstr "Деформация"
+
+msgid "Transform origin"
+msgstr "Начало трансформации"
+
+msgid ""
+"Makes the last keyframe to be the origin of the layer animation, instead of "
+"its canvas position."
+msgstr ""
+
+#, fuzzy
+#| msgid "Rate count"
+msgid "Repeat count"
+msgstr "Количество голосов"
+
+msgid "loops"
+msgstr "цикл(а,ов)"
+
+msgid ""
+"You can restrict the loop to play only a certain amount of loops, instead of "
+"infinite."
+msgstr ""
+
+msgctxt "Animation"
+msgid "Slide"
+msgstr ""
+
+msgid "Curtains"
+msgstr ""
+
+msgid "Diagonal"
+msgstr ""
+
+msgid "Circle"
+msgstr "Маркер в виде кружка"
+
+msgid "From"
+msgstr "Выход"
+
+msgid "To"
+msgstr "Вход"
+
+msgid "Fade"
+msgstr "Выцветание"
+
+msgid "Scale up"
+msgstr "Увеличить масштаб"
+
+msgid "Scale down"
+msgstr "Уменьшить масштаб"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Static overlay"
+msgstr "Статическое наложение"
+
+msgid "First slide"
+msgstr "Первый слайд"
+
+msgid "Unpublished"
+msgstr "Снято с публикации"
+
+msgid "Bulk actions"
+msgstr "Групповые действия"
+
+msgid "Select all"
+msgstr "Выбрать всё"
+
+msgid "Select none"
+msgstr "Снять выделение"
+
+msgid "Select published"
+msgstr "Выбрать опубликованные"
+
+msgid "Select unpublished"
+msgstr "Выбрать снятые с публикации"
+
+msgid "Blank"
+msgstr "Пустой"
+
+msgid "Post"
+msgstr "Статья"
+
+msgid "Dynamic slides"
+msgstr "Динамичные слайды"
+
+msgid "Add slide"
+msgstr "Добавить слайд"
+
+msgid "Block must contain only one slide. Need more?"
+msgstr ""
+
+msgid "Convert to slider"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide index"
+msgid "Slide one"
+msgstr "Индекс слайда"
+
+#, fuzzy
+#| msgid "Slide to top"
+msgid "Slide two"
+msgstr "Слайд вверх"
+
+#, fuzzy
+#| msgid "Drop your images here!"
+msgid "Drop images here"
+msgstr "Перетащите ваши изображения сюда!"
+
+msgid "Edit slider"
+msgstr ""
+
+msgid "View trash"
+msgstr "Посмотреть корзину"
+
+msgid "Order by"
+msgstr "Сортировать по"
+
+msgid "Manual order"
+msgstr "Сортировка вручную"
+
+msgid "A-Z"
+msgstr "А-Я"
+
+msgid "Z-A"
+msgstr "Я-А"
+
+msgid "Newest first"
+msgstr "Сначала новые"
+
+msgid "Oldest first"
+msgstr "Сначала старые"
+
+msgid "Export"
+msgstr "Экспортировать в формате ss3"
+
+msgid "New project"
+msgstr "Новый проект"
+
+msgid "Module"
+msgstr "Модуль"
+
+msgid "Displays the slider in a template module position."
+msgstr ""
+
+msgid "Create module"
+msgstr "Создать модуль"
+
+msgid "Related modules"
+msgstr "Связанные модули"
+
+msgid "Articles"
+msgstr "Статьи"
+
+msgid "Paste the code into article:"
+msgstr "Вставить код в статью:"
+
+msgid "PHP code"
+msgstr "PHP код"
+
+msgid "Paste the PHP code into source code:"
+msgstr "Вставить PHP код в исходный код:"
+
+msgid "Shortcode"
+msgstr "Короткий код"
+
+msgid "Copy and paste this shortcode into your posts or pages:"
+msgstr "Скопируйте и вставьте этот код в свои сообщения или на страницы:"
+
+msgid "Pages and Posts"
+msgstr ""
+
+#, php-format
+msgid "Smart Slider 3 has integration with %s."
+msgstr ""
+
+msgid "Paste the PHP code into your theme's file:"
+msgstr "Вставить PHP код в файл вашей темы :"
+
+msgid "Trash is empty."
+msgstr "Корзина пуста."
+
+msgid "Restore"
+msgstr "Восстановить"
+
+msgid "Toggle orientation"
+msgstr ""
+
+msgid "Reload preview"
+msgstr ""
+
+msgid "Open preview in full"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Reason"
+msgstr ""
+
+msgid "Framework"
+msgstr ""
+
+msgid "Fonts"
+msgstr "Шрифты"
+
+msgid "Layer defaults"
+msgstr ""
+
+msgid "Generators"
+msgstr ""
+
+msgid "Saved and slider cache invalidated."
+msgstr "Сохранено, а кэш слайдера недействителен."
+
+msgid "Cache cleared."
+msgstr "Кэш очищен."
+
+msgid "Clear cache"
+msgstr "Сбросить кэш"
+
+#, fuzzy
+#| msgid "Clear cache"
+msgid "Clear cache options"
+msgstr "Сбросить кэш"
+
+msgid "Delete resized image cache"
+msgstr ""
+
+#, php-format
+msgid "If enabled the following folder will be <b>permanently deleted</b>: %s"
+msgstr ""
+
+msgid "Configuration"
+msgstr "Настройки"
+
+#, php-format
+msgid ""
+"Here you can configure the default font your layers have, and the dropdown "
+"list of the fonts. Google Fonts are recognized automatically, but you can "
+"use your own custom fonts, too. %1$sLearn how to do that.%2$s"
+msgstr ""
+
+msgid "Default family"
+msgstr "Семейство по умолчанию"
+
+msgid "This font family is used for the newly added layers."
+msgstr ""
+
+msgid "Preset font families"
+msgstr "Предустановленные семейства шрифтов"
+
+msgid "These font families appear in the dropdown list."
+msgstr ""
+
+msgid "Use protocol-relative URL"
+msgstr "Использовать URL-адрес, соответствующий протоколу"
+
+msgid "Loads the URLs without a http or https protocol."
+msgstr ""
+
+msgid "Header preload"
+msgstr ""
+
+msgid ""
+"If the slider is an important part of your site, tell the browser to preload "
+"its files."
+msgstr ""
+
+msgid "English UI"
+msgstr ""
+
+msgid ""
+"You can keep using Smart Slider 3 in English, even if your backend isn't in "
+"English."
+msgstr ""
+
+msgid "Improved frontend accessibility"
+msgstr "Улучшенная доступность интерфейса"
+
+msgid ""
+"Keeps the clicked element (like a button) in focus unless the focus is "
+"changed by clicking away."
+msgstr ""
+
+msgid "Script attributes"
+msgstr "Атрибуты скрипта"
+
+msgid "Slider's inline JavaScript"
+msgstr "Встраивать JavaScript слайдера в"
+
+msgid "Head"
+msgstr "Head"
+
+msgid "Into the slider"
+msgstr "Слайдер"
+
+msgid "Async non-primary CSS"
+msgstr ""
+
+msgid ""
+"Google Fonts, icon and lightbox CSS are loaded in a non-blocking way. "
+"Disable if you see missing icons, fonts or styles."
+msgstr ""
+
+msgid "Load Font Awesome 4"
+msgstr ""
+
+msgid "API requests"
+msgstr "Запросы API"
+
+#, php-format
+msgctxt "Curl"
+msgid "Use %s"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Clean HTML"
+msgctxt "curl proxy"
+msgid "Clean %s"
+msgstr "Очистить HTML"
+
+msgid "General settings"
+msgstr "Основные настройки"
+
+msgid "Automatic update check"
+msgstr "Автоматически проверять обновления"
+
+msgid "Alternative save slide"
+msgstr ""
+
+msgid ""
+"If you experience problems during the save this option might solve them."
+msgstr ""
+
+msgid "Preview in new window"
+msgstr ""
+
+msgid "Lightbox videos in new tab on Mobile"
+msgstr ""
+
+msgid ""
+"Opens the lightbox videos in the YouTube app to avoid the mobile disabling "
+"the video."
+msgstr ""
+
+msgid "YouTube and Vimeo privacy enhanced mode"
+msgstr ""
+
+msgid "Smooth scroll speed"
+msgstr "Плавная скорость прокрутки"
+
+msgid "Editor - additional CSS files"
+msgstr "Редактор - дополнительные файлы CSS"
+
+msgid ""
+"You can call your own CSS files to our backend, for example, to be able to "
+"use custom fonts. Write each URL to a new line."
+msgstr ""
+
+#, fuzzy
+#| msgid "Font settings"
+msgid "WordPress settings"
+msgstr "Настройки шрифта"
+
+msgid "Show editor icon"
+msgstr "Показывать значок редактора"
+
+msgid "Show in admin bar"
+msgstr ""
+
+msgid "YOAST SEO sitemap - add images"
+msgstr "YOAST SEO sitemap - добавить изображения"
+
+msgid "Create widget area"
+msgstr ""
+
+msgid "widget area(s)"
+msgstr ""
+
+msgid ""
+"Creates new widget areas which you can place to your theme for easy "
+"publishing."
+msgstr ""
+
+msgid "Use iframe in AJAX calls"
+msgstr ""
+
+msgid ""
+"Loads the slider using an iframe when the page is loaded via AJAX to avoid "
+"problems."
+msgstr ""
+
+msgid "Joomla settings"
+msgstr ""
+
+msgid "Force RTL backend"
+msgstr ""
+
+msgid "Run content plugins on sliders"
+msgstr "Запускать плагины контента на слайдерах"
+
+msgid "Exclude plugins"
+msgstr "Исключить плагины"
+
+msgid ""
+"At each slider you can override the global breakpoints with local values."
+msgstr ""
+
+msgid "Focus offset"
+msgstr ""
+
+msgid ""
+"This option is used at the full page layout to decrease the slider height. "
+"The \"Scroll to slider\" option also uses this option to determine where to "
+"scroll the slider."
+msgstr ""
+
+msgid "Translate url"
+msgstr "Преобразовывать URL-адрес"
+
+msgid ""
+"You can change the frontend URL our assets are loading from. It can be "
+"useful after moving to a new domain."
+msgstr ""
+
+msgid "The old URL you want to replace. E.g. https://oldsite.com/"
+msgstr ""
+
+msgid "The new URL you want to use. E.g. https://newsite.com"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider created."
+msgid "Slider restored."
+msgstr "Слайдер создан."
+
+#, fuzzy
+#| msgid "Slider deleted."
+msgid "Slider permanently deleted."
+msgstr "Слайдер удален."
+
+msgid "Slider created."
+msgstr "Слайдер создан."
+
+msgid "Slider renamed."
+msgstr ""
+
+msgid "Slider saved."
+msgstr "Слайдер сохранен."
+
+#, php-format
+msgid "Import url is not valid: %s"
+msgstr "Недопустимый URL-адрес для импорта: %s"
+
+msgid "License key required for premium features!"
+msgstr "Для включения премиум функций требуется лицензионный ключ!"
+
+msgid "Slider imported."
+msgstr "Слайдер импортирован."
+
+msgid "Import error!"
+msgstr "Ошибка импорта!"
+
+msgid "Slide duplicated."
+msgstr "Слайд продублирован."
+
+#, php-format
+msgid "%s slider type is not available."
+msgstr ""
+
+msgid "Groups are only available in the Pro version."
+msgstr ""
+
+msgid "Slider moved to the trash."
+msgstr ""
+
+#, fuzzy
+#| msgid "Remove from group"
+msgid "Slider removed from the group."
+msgstr "Удалить из группы"
+
+msgid "Slider duplicated."
+msgstr "Слайдер продублирован."
+
+msgid "Slider settings"
+msgstr ""
+
+msgid "Delete slider"
+msgstr ""
+
+msgid "Edit slide"
+msgstr ""
+
+msgid "Delete slide"
+msgstr ""
+
+msgid "Ordering"
+msgstr "Сортировка"
+
+msgid "Video url"
+msgstr "Ссылка на видео"
+
+msgid "Actions"
+msgstr "Действия"
+
+#, php-format
+msgid "Export %1$s as HTML"
+msgstr ""
+
+msgid "Duplicate slider"
+msgstr "Дублировать слайдер"
+
+msgid "Simple edit"
+msgstr ""
+
+msgid "Slider order saved."
+msgstr "Порядок слайдеров сохранён."
+
+msgid "Slider(s) moved to the trash."
+msgstr ""
+
+#, fuzzy
+#| msgid "Remove from group"
+msgid "Slider(s) removed from the group."
+msgstr "Удалить из группы"
+
+msgid "Slider(s) deleted permanently from the trash."
+msgstr ""
+
+#, php-format
+msgid ""
+"Your server has an upload file limit at %s, so if you have bigger export "
+"file, please use the local import file method."
+msgstr ""
+"На вашем сервере установлен лимит на размер загружаемого файла в %s, если "
+"ваш файл большего размера, используйте метод локального импорта файла."
+
+msgid "You have to unzip your "
+msgstr "Вы должны распаковать"
+
+msgid "Only *.ss3 files can be uploaded!"
+msgstr ""
+
+msgid "The imported file is not readable!"
+msgstr "Импортируемый файл не может быть прочитан!"
+
+msgid "Go to dashboard"
+msgstr ""
+
+#, fuzzy
+#| msgid "Activate Smart Slider 3"
+msgid "Welcome to Smart Slider 3"
+msgstr "Активировать Smart Slider 3"
+
+msgid "Don't show again"
+msgstr ""
+
+msgid "Import project"
+msgstr ""
+
+msgid "You can upload *.ss3 files which were exported by Smart Slider 3."
+msgstr ""
+
+msgid "Local import"
+msgstr "Локальный импорт"
+
+msgid "Upload file"
+msgstr ""
+
+#, php-format
+msgid ""
+"Your server's upload filesize limitation is %s, so if your file is bigger, "
+"use the local import."
+msgstr ""
+
+msgid "File"
+msgstr "Файл"
+
+#, php-format
+msgid "Files with <i>.ss3</i> extension are listed from: %s"
+msgstr ""
+
+msgid "Delete file"
+msgstr ""
+
+msgid "Removes the selected .ss3 file from your sever after the import."
+msgstr ""
+
+msgid "Restore slider"
+msgstr "Восстановить слайдер"
+
+msgid ""
+"The imported slider will have the same ID as the original export has. If you "
+"have a slider with the same ID, it will be overwritten."
+msgstr ""
+
+msgid "Image mode"
+msgstr "Режим изображения"
+
+msgid "Clone"
+msgstr "Дублировать"
+
+msgid "Old site url"
+msgstr "Старый URL-адрес сайта"
+
+msgid "Original"
+msgstr "Оригинал"
+
+msgid "You can choose how the slide images are loaded."
+msgstr ""
+
+msgid "Trash"
+msgstr "В корзине"
+
+#, fuzzy
+#| msgid "empty the trash"
+msgid "Empty trash"
+msgstr "очистить корзину"
+
+msgid "Slide saved."
+msgstr "Слайд сохранён."
+
+#, php-format
+msgid "%d static slides generated."
+msgstr "Создано %d статических слайда(ов)."
+
+msgid "Slide renamed."
+msgstr ""
+
+msgid "First slide changed."
+msgstr "Начальный слайд изменён."
+
+msgid "Static overlay converted to slide."
+msgstr ""
+
+msgid "Slide published."
+msgstr "Слайд опубликован."
+
+msgid "Slide unpublished."
+msgstr "Слайд снят с публикации."
+
+msgid "Slide order saved."
+msgstr "Порядок слайдов сохранён."
+
+msgid "Slide(s) copied."
+msgstr "Слайд(ы) скопирован(ы)."
+
+msgid "Slide deleted."
+msgstr "Слайд удален."
+
+msgid "Slides created."
+msgstr ""
+
+#, fuzzy
+#| msgid "Slide created."
+#| msgid_plural "Slides created."
+msgid "Slide created."
+msgstr "Слайд создан."
+
+msgid "Failed to create slides."
+msgstr ""
+
+msgid "Static save"
+msgstr "Сохранить как статический"
+
+msgid "Generator settings"
+msgstr "Настройки генератора"
+
+msgid "Cache expiration"
+msgstr "Срок действия кэша"
+
+msgid "hours"
+msgstr "часа(ов)"
+
+msgid "Start index"
+msgstr "Начальный индекс"
+
+msgid "Group result"
+msgstr "Результат группы"
+
+msgid "Smart Slider 3 deactivated on this site!"
+msgstr ""
+
+msgid "New slider"
+msgstr "Новый слайдер"
+
+msgid "Alias removed"
+msgstr "Псевдоним удален"
+
+msgid "Alias must contain one or more letters"
+msgstr "Псевдоним должен содержать одну или несколько букв"
+
+#, php-format
+msgid "Alias updated to: %s"
+msgstr "Установлен новый псевдоним: %s"
+
+msgid "Background animation"
+msgstr "Анимация фона"
+
+msgid "Animation type"
+msgstr ""
+
+msgid "The importing failed at the unzipping part."
+msgstr "Ошибка импорта на этапе распаковки."
+
+msgid "You can't import sliders from Smart Slider 2."
+msgstr "Вы не можете импортировать слайдеры из Smart Slider 2."
+
+msgid "Export file corrupted! Slider data is missing."
+msgstr ""
+
+msgid "Learn more"
+msgstr "Подробнее"
+
+#, php-format
+msgid "Increase %1$s in php.ini to 1000 or more. Current value: %2$s"
+msgstr ""
+
+#, fuzzy, php-format
+#| msgid "Increase <b>%1$s</b> in php.ini to 1000 or more. Current value: %2$s"
+msgid ""
+"Decrease %1$s below 15 in php.ini to prevent fatal errors on plugin updates. "
+"Current value: %2$s"
+msgstr ""
+"Увеличьте <b>%1$s</b> в php.ini до 1000 или более. Текущее значение: %2$s"
+
+msgid "Unable to connect to the API"
+msgstr "Невозможно подключиться к API"
+
+msgid "MySQL table missing"
+msgstr "Отсутствует таблица MySQL"
+
+msgid "Your theme uses an outdated MooTools library which is not compatible."
+msgstr ""
+
+msgid ""
+"JCH Optimize could have a conflict with Smart Slider's Global settings -> "
+"Framework settings -> Async Non-Primary CSS. If your Google fonts are not "
+"loading, turn this option off."
+msgstr ""
+
+msgid ""
+"This plugin breaks JavaScript in the admin area, deactivate it and use "
+"alternative plugin."
+msgstr ""
+"Этот плагин ломает JavaScript в административной части сайта, деактивируйте "
+"его и используйте альтернативный плагин."
+
+msgid ""
+"This plugin breaks Smart Slider 3 ajax calls if custom admin url enabled."
+msgstr ""
+"Этот плагин ломает ajax вызовы Smart Slider 3, если включен пользовательский "
+"URL-адрес."
+
+msgid "This plugin adds a background image to every SVG and breaks SSL."
+msgstr "Этот плагин добавляет фоновое изображение к каждому SVG и ломает SSL."
+
+msgid "This plugin has a JavaScript error which might break Smart Slider."
+msgstr ""
+
+#, php-format
+msgid ""
+"This plugin breaks the filtering options of the dynamic slide generators "
+"when %1$s is set to %2$s. Also it has not received any updates since "
+"WordPress 3.9."
+msgstr ""
+
+msgid "Add column"
+msgstr ""
+
+msgid "Year"
+msgstr "Год"
+
+msgid "Month"
+msgstr "Месяц"
+
+msgid "Day"
+msgstr "День"
+
+msgid "Hour"
+msgstr "Час"
+
+msgid "Minute"
+msgstr "Минута"
+
+msgid "Stack"
+msgstr "Стек"
+
+msgid "No description."
+msgstr ""
+
+#, fuzzy
+#| msgid "Folder not found."
+msgid "Generator not found"
+msgstr "Папка не найдена."
+
+msgid "Test generator."
+msgstr ""
+
+msgid "Generator type not found"
+msgstr ""
+
+#, php-format
+msgid "%1$s generator missing the following source: %2$s"
+msgstr "У генератора %1$s отсутствует следующий источник: %2$s"
+
+msgid "Joomla articles"
+msgstr "Статьи Joomla"
+
+msgid "Creates slides from your Joomla articles or categories."
+msgstr ""
+
+msgid "Article"
+msgstr "Статья"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Creates slides from your Joomla articles in the selected categories."
+msgstr ""
+
+msgid "Tags"
+msgstr "Теги"
+
+msgid "Featured"
+msgstr "Избранное"
+
+msgid "User ID"
+msgstr "ID пользователя"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Extra variables"
+msgstr "Дополнительные переменные"
+
+msgid "Turn on these options to generate more variables for the slides."
+msgstr ""
+
+msgid "Date format"
+msgstr "Формат даты"
+
+msgid "Time format"
+msgstr "Формат времени"
+
+msgid "Translate date and time"
+msgstr "Преобразование даты и времени"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "User name"
+msgstr "Имя пользователя"
+
+msgid "Hits"
+msgstr "Просмотры"
+
+msgid "Creation time"
+msgstr "Время создания"
+
+msgid "Modification time"
+msgstr "Время изменения"
+
+msgid "Publish time"
+msgstr ""
+
+msgid "Featured article ordering"
+msgstr "Сортировка избранных статей"
+
+msgid "View article"
+msgstr ""
+
+msgid ""
+"Creates slides from your Joomla categories. (Not the articles inside them.)"
+msgstr ""
+
+msgid "Parent category"
+msgstr "Родительская категория"
+
+msgid "View category"
+msgstr ""
+
+msgid "Nothing"
+msgstr "Ничего"
+
+#, php-format
+msgid "Creates slides from %1$s."
+msgstr ""
+
+msgid "Posts by filter"
+msgstr "Сообщения по фильтру"
+
+msgid "Posts by IDs"
+msgstr "Сообщения по ID"
+
+msgid "Custom"
+msgstr "Пользовательский"
+
+msgid "All custom posts"
+msgstr "Все пользовательские сообщения"
+
+msgid "Creates slides from the posts of all your post types."
+msgstr ""
+
+msgid "Post types"
+msgstr "Типы сообщений"
+
+msgid "Taxonomies"
+msgstr "Упорядочивание"
+
+msgid "Post IDs to display"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can make your generator display only the posts with the set ID. No other "
+"post will be fetched, even if they match the set filters. %1$s Write one ID "
+"per line."
+msgstr ""
+
+msgid "Sticky"
+msgstr "Залипающий"
+
+msgid "Post status"
+msgstr "Статус сообщения"
+
+msgid "Post meta comparison"
+msgstr ""
+
+msgid "Field name"
+msgstr "Имя поля"
+
+msgid ""
+"Only show posts, where the given meta key is equal to the given meta value."
+msgstr ""
+"Показывать только сообщения, где данный мета-ключ равен заданному мета-"
+"значению."
+
+msgid "Compare method"
+msgstr "Метод сравнения"
+
+msgid "Field value"
+msgstr "Значение поля"
+
+msgid "Meta comparison"
+msgstr ""
+
+msgid ""
+"Same as the previous option, just you can write down more comparisons. Read "
+"the \"Field name\" and \"Compare method\" out from the previous option. "
+"Example:"
+msgstr ""
+
+msgid "Post date"
+msgstr "Дата публикации"
+
+msgid "Modification date"
+msgstr "Дата изменения"
+
+msgid "Random"
+msgstr "Случайный"
+
+msgid "Given IDs"
+msgstr "Указанные ID"
+
+msgid "Menu order"
+msgstr "Порядок меню"
+
+#, php-format
+msgid "Creates slides from the following post type: %1$s."
+msgstr ""
+
+msgid "Relation"
+msgstr "Связь"
+
+msgid "Exclude posts"
+msgstr "Исключить сообщения"
+
+#, php-format
+msgid ""
+"The selected post IDs won't appear in the generator, even if they they match "
+"the set filters. %1$s Write one ID per line."
+msgstr ""
+
+#, php-format
+msgid ""
+"You can create other comparison based on the previous \"Field name\" and "
+"\"Compare method\" options. %1$s Use the following format: published||=||yes "
+"%1$s Write one comparison per line."
+msgstr ""
+
+msgid "Post option"
+msgstr ""
+
+msgid ""
+"Posts can have options, like a post can be \"sticky\" or not. You can choose "
+"to only display posts, which are selected to be IN or NOT IN this option."
+msgstr ""
+
+msgid "Post relationship with selected option"
+msgstr ""
+
+msgid "Date configuration"
+msgstr ""
+
+msgid "Identify datetime"
+msgstr "Определение даты и времени"
+
+msgid "Our system tries to identify the date and time in your variables."
+msgstr ""
+
+msgid "Datetime format"
+msgstr "Формат даты и времени"
+
+#, php-format
+msgid "You can use any %1$sPHP date format%2$s."
+msgstr ""
+
+msgid "Translate dates"
+msgstr "Перевод дат"
+
+#, php-format
+msgid ""
+"Write one per line in the following format: from||to %1$s E.g.: Monday||"
+"Montag"
+msgstr ""
+
+msgid "Replace variables"
+msgstr ""
+
+msgid "Timestamp variables"
+msgstr ""
+
+msgid "Replace timestamp variables"
+msgstr ""
+
+#, php-format
+msgid ""
+"The \"Datetime format\" will be used to create dates from the given "
+"timestamp containing variables. %1$s Separate them with comma."
+msgstr ""
+
+msgid "File variables"
+msgstr ""
+
+msgid "Replace file variables"
+msgstr ""
+
+#, php-format
+msgid ""
+"If you have IDs of files, you can replace those variables with the urls of "
+"the files instead. %1$s Separate them with comma."
+msgstr ""
+
+msgid "Remove duplicate results"
+msgstr ""
+
+msgid ""
+"You can remove results based on one variable's uniqueness. For example if "
+"you want the images to be unique, you could write the \"image\" variable "
+"into this field (without quotemarks)."
+msgstr ""
+
+msgid "Custom field name"
+msgstr "Имя пользовательского поля"
+
+msgid "If it's set, this will be used instead of the 'Field' value."
+msgstr ""
+
+msgid "Numeric"
+msgstr "Числовой"
+
+msgid "Alphabetic"
+msgstr "Буквенный"
+
+msgid "Creates slides from your posts in the selected categories."
+msgstr ""
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Remove shortcodes"
+msgstr ""
+
+msgid ""
+"You can remove shortcodes from variables to avoid 3rd party content "
+"rendering in your slider."
+msgstr ""
+
+msgid "Remove from variables"
+msgstr ""
+
+msgid ""
+"Write the name of the variables you want to remove the shortcodes from. "
+"Separate new variables with a comma and space. E.g. description, content"
+msgstr ""
+
+msgid "Custom date variables"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can create custom date variables from your existing date variables. "
+"Write each variable to a new line and use the following format: variable||"
+"format. %3$s The \"variable\" should be an existing variable. Based on this "
+"existing variable, we create a new one with the \"_datetime\" suffix. (E.g. "
+"date_datetime.) %3$s The \"format\" can be any %1$sPHP date format%2$s."
+msgstr ""
+
+msgid "Translate custom dates"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can translate the content of the newly created variables. %1$s Use the "
+"following format: from||to. Eg.: Monday||Montag"
+msgstr ""
+
+msgid "Date function"
+msgstr "Функция даты"
+
+msgid ""
+"This function will be used to format these custom date variables. Usually "
+"the date_i18n works, but if your date will be off a little bit, then try out "
+"the other one."
+msgstr ""
+"Эта функция будет использоваться для форматирования этих пользовательских "
+"переменных даты. Обычно date_i18n работает, но если ваша дата немного \"уйдет"
+"\", попробуйте другую."
+
+msgid "Comment count"
+msgstr "Количество комментариев"
+
+msgid "Creates slides from the posts with the set IDs."
+msgstr ""
+
+msgid "Post or Page IDs"
+msgstr ""
+
+#, php-format
+msgid ""
+"You can write the ID of the page you want to show in your generator. %1$s "
+"Write one ID per line."
+msgstr ""
+
+msgid "Whole group"
+msgstr "Вся группа"
+
+msgid "Select slider"
+msgstr "Выбрать слайдер"
+
+msgid "OR"
+msgstr "ИЛИ"
+
+msgid "Select A Slider"
+msgstr ""
+
+msgctxt "Button layer default text"
+msgid "MORE"
+msgstr ""
+
+msgid "Label"
+msgstr "Метка"
+
+msgid "No wrap"
+msgstr "Без обертки"
+
+msgid "Prevents the text from breaking into more lines"
+msgstr ""
+
+msgid "Rel"
+msgstr "Rel"
+
+#, php-format
+msgid ""
+"Enter the %1$s rel attribute %2$s that represents the relationship between "
+"the current document and the linked document. Multiple rel attributes can be "
+"separated with space. E.g. nofollow noopener noreferrer"
+msgstr ""
+
+msgid "Icon"
+msgstr "Значок"
+
+msgid "Placement"
+msgstr "Размещение"
+
+#, php-format
+msgid "Class on the %s element."
+msgstr ""
+
+msgid "Heading layer"
+msgstr "Слой заголовка"
+
+msgid "Text animation"
+msgstr ""
+
+msgid "Incoming"
+msgstr ""
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Backface visibility"
+msgstr "Видимость задней поверхности"
+
+#, php-format
+msgid "Fix width for the %1$s."
+msgstr ""
+
+#, php-format
+msgid "Fix height for the %1$s."
+msgstr ""
+
+msgid "Alt tag"
+msgstr "Тег Alt"
+
+msgid "Optimize image"
+msgstr "Оптимизировать изображение"
+
+msgid ""
+"You can turn off the Layer image optimization for this image, to resize it "
+"for tablet and mobile."
+msgstr ""
+
+msgctxt "Layer group"
+msgid "Special"
+msgstr "Специальный"
+
+msgctxt "Layer group"
+msgid "Media"
+msgstr "Медиа"
+
+msgctxt "Layer group"
+msgid "Advanced"
+msgstr "Расширенные"
+
+msgctxt "Layer"
+msgid "Missing"
+msgstr ""
+
+#, php-format
+msgid "Missing layer type: %s"
+msgstr ""
+
+msgid "Custom text for tablet"
+msgstr ""
+
+msgid "Tablet text"
+msgstr "Текст на планшете"
+
+msgid "Custom text for mobile"
+msgstr ""
+
+msgid "Mobile text"
+msgstr "Текст на телефоне"
+
+msgid "Vimeo url or Video ID"
+msgstr "URL-адрес Vimeo или ID видео"
+
+msgid "Cover image"
+msgstr "Изображение обложки"
+
+msgid "Aspect ratio"
+msgstr ""
+
+msgid "Fill layer height"
+msgstr ""
+
+msgid "Set on Style tab."
+msgstr ""
+
+msgid "Video settings"
+msgstr ""
+
+msgid "When ended"
+msgstr ""
+
+msgid "Do nothing"
+msgstr ""
+
+msgid "Go to next slide"
+msgstr ""
+
+msgid "Start time"
+msgstr "Время начала"
+
+msgid "Volume"
+msgstr "Громкость"
+
+msgid "Mute"
+msgstr "Без звука"
+
+msgid "Pause on scroll"
+msgstr "Пауза при прокрутке"
+
+msgid "Never"
+msgstr "Никогда"
+
+msgid "When partly visible"
+msgstr "Когда частично видимый"
+
+msgid "When not visible"
+msgstr "Когда невидимый"
+
+msgid "You can pause the video when the visitor scrolls away from the slider"
+msgstr ""
+
+msgid "Private video"
+msgstr "Частное видео"
+
+msgid ""
+"Turn it on to remove the admin warning that your video is not accessible."
+msgstr ""
+
+msgid "Display"
+msgstr "Показывать на экранах следующих устройств"
+
+msgid "Only works on videos of Vimeo Pro users."
+msgstr ""
+
+msgid "Remove controls"
+msgstr "Удалить элементы управления"
+
+msgid ""
+"Removes the controls of the video, but it only works on videos of Vimeo Pro "
+"users."
+msgstr ""
+
+msgid "Hides the title of the video, but only if video owner allows it."
+msgstr ""
+
+msgid "Users byline"
+msgstr "Подпись пользователя"
+
+msgid ""
+"Hides the user's byline of the video, but only if video owner allows it."
+msgstr ""
+
+msgid ""
+"Hides the profile image of the author, but only if video owner allows it. "
+msgstr ""
+
+msgid "Play button"
+msgstr "Кнопка воспроизведения"
+
+msgid "Play"
+msgstr "Воспроизведение"
+
+msgid "YouTube URL or Video ID"
+msgstr "URL YouTube или ID видео"
+
+msgid "End time"
+msgstr "Время окончания"
+
+msgid "Hide YouTube logo"
+msgstr "Скрыть логотип YouTube"
+
+msgid "Centered"
+msgstr "По центру"
+
+msgid "Scales up and crops the video to cover the whole layer."
+msgstr ""
+
+msgid "Show related videos"
+msgstr ""
+
+msgid "Anywhere"
+msgstr ""
+
+msgid "Same channel"
+msgstr ""
+
+msgid ""
+"YouTube no longer allows hiding the related videos at the end of the video. "
+"This setting defines whether the videos should come from the same channel as "
+"the video that was just played or from any other channel."
+msgstr ""
+
+msgid "Slider error! Generator group not found: "
+msgstr ""
+
+msgid "Slider error! Generator source not found: "
+msgstr ""
+
+msgid "Downscale"
+msgstr "Уменьшение"
+
+msgid "Allows the slider to scale down for smaller screens."
+msgstr ""
+
+msgid "Upscale"
+msgstr "Увеличение"
+
+msgid "Allows the slider to scale up for larger screens."
+msgstr ""
+
+msgid "Min height"
+msgstr ""
+
+msgid "Prevents the slider from getting smaller than the set value."
+msgstr ""
+
+msgid "Force full width"
+msgstr "Принудительно в полную ширину"
+
+msgid "The slider tries to fill the full width of the browser."
+msgstr "Слайдер будет пытаться заполнить всю ширину браузера."
+
+msgid "Overflow-X"
+msgstr ""
+
+msgid ""
+"Prevents the vertical scrollbar from appear during certain slide background "
+"animations."
+msgstr ""
+
+msgid "Adjust slider width to"
+msgstr ""
+
+msgid ""
+"You can make the slider fill up a selected parent element instead of the "
+"full browser width."
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Slider size is too small!"
+msgstr "Размер слайдера слишком мал!"
+
+msgid "Ken Burns effect"
+msgstr "Эффект Кена Бёрнса"
+
+msgid "Speed"
+msgstr "Скорость"
+
+msgid "Super slow"
+msgstr "Супер медленно"
+
+msgid "Slow"
+msgstr "Медленно"
+
+msgid "Fast"
+msgstr "Быстро"
+
+msgid "Super fast"
+msgstr "Очень быстро"
+
+msgid "Border width"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Super fast 4x"
+msgstr "Супер быстрый 4x"
+
+msgctxt "Slider type"
+msgid "Simple slider"
+msgstr ""
+
+msgid "Main animation"
+msgstr "Основная анимация"
+
+msgid "No animation"
+msgstr "Без анимации"
+
+msgid "Crossfade"
+msgstr "Затухание"
+
+msgid "Horizontal - reversed"
+msgstr "Горизонтально - в обратном порядке"
+
+msgid "Vertical - reversed"
+msgstr "Вертикально - в обратном порядке"
+
+msgctxt "Feature"
+msgid "Carousel"
+msgstr ""
+
+msgid ""
+"If you turn off this option, you can't switch to the first slide from the "
+"last one."
+msgstr ""
+"Если вы отключите эту опцию, Вы не сможете переключиться на первый слайд из "
+"последнего."
+
+msgid "Shifted"
+msgstr "Смещенный"
+
+msgid "The background and the main animation plays simultaneously or shifted."
+msgstr "Фон и основная анимация воспроизводятся или сдвигаются одновременно."
+
+msgid "Loop single slide"
+msgstr "Зациклить один слайд"
+
+msgid "In case of one slide, it repeats the animation of the slide."
+msgstr "В случае одного слайда, он повторяет анимацию слайда."
+
+msgid "Slider CSS Preset"
+msgstr ""
+
+msgid "Light shadow"
+msgstr "Светлая тень"
+
+msgid "Dark shadow"
+msgstr "Темная тень"
+
+msgid "Photo"
+msgstr "Фотография"
+
+msgid "Photo rounded"
+msgstr "Закругленная фотография"
+
+#, php-format
+msgid "Demo slider is not available with the following ID: %s"
+msgstr "Демонстрационный слайдер со следующим ID недоступен: %s"
+
+msgid "Blue"
+msgstr "Синий"
+
+msgid "White"
+msgstr "Белый"
+
+msgid "Green"
+msgstr "Зеленый"
+
+msgid "Purple"
+msgstr "Фиолетовый"
+
+msgid "Grey"
+msgstr "Серый"
+
+msgid "Black"
+msgstr "Черный"
+
+msgid "Rounded Blue"
+msgstr "Закруглённый синий"
+
+msgid "Rounded Green"
+msgstr "Закруглённый зеленый"
+
+msgid "Rounded Purple"
+msgstr "Закруглённый фиолетовый"
+
+msgid "Rounded Grey"
+msgstr "Закруглённый серый"
+
+msgid "Rounded White"
+msgstr "Закруглённый белый"
+
+msgid "Rounded Black"
+msgstr "Закруглённый чёрный"
+
+msgid "Border White"
+msgstr "Белая граница"
+
+msgid "Border Dark"
+msgstr "Темная граница"
+
+msgid "Rectangle Green"
+msgstr "Прямоугольный зелёный"
+
+msgid "Rectangle Blue"
+msgstr "Прямоугольный синий"
+
+msgid "Rectangle Purple"
+msgstr "Прямоугольный фиолетовый"
+
+msgid "Rectangle Grey"
+msgstr "Прямоугольный серый"
+
+msgid "Rounded Rectangle Green"
+msgstr "Закруглённый зеленый прямоугольник"
+
+msgid "Rounded Rectangle Blue"
+msgstr "Закруглённый синий прямоугольник"
+
+msgid "Rounded Rectangle Purple"
+msgstr "Закруглённый фиолетовый прямоугольник"
+
+msgid "Border Light"
+msgstr "Светящаяся граница"
+
+msgid "My styles"
+msgstr "Мои стили"
+
+msgid "X-small Light"
+msgstr "Экстра слабый светлый"
+
+msgid "X-small Dark"
+msgstr "Экстра слабый тёмный"
+
+msgid "Small Light"
+msgstr "Слабый светлый"
+
+msgid "Small Dark"
+msgstr "Слабый тёмный"
+
+msgid "Medium Light"
+msgstr "Средний светлый"
+
+msgid "Medium Dark"
+msgstr "Средний тёмный"
+
+msgid "Large Light"
+msgstr "Сильный светлый"
+
+msgid "Large Dark"
+msgstr "Сильный тёмный"
+
+msgid "X-large Light"
+msgstr "Экстра сильный светлый"
+
+msgid "X-large Dark"
+msgstr "Экстра сильный тёмный"
+
+msgid "My fonts"
+msgstr "Мои шрифты"
+
+msgid "Warp"
+msgstr "Искажение"
+
+msgid "Twirl"
+msgstr "Кручение"
+
+msgid "Domino"
+msgstr "Домино"
+
+msgid "Stand up"
+msgstr "Подъем"
+
+msgid "Rotate down"
+msgstr "Разворот вниз"
+
+msgid "Elastic"
+msgstr "Эластичный"
+
+#, fuzzy
+#| msgid "Random Elastic"
+msgid "Random elastic"
+msgstr "Эластичный случайным образом"
+
+msgid "My text animations"
+msgstr ""
+
+msgid "Slices - Single"
+msgstr "Слои - Одиночные"
+
+msgid "Slices - Simple rows and scale"
+msgstr "Слои - Простые строки и масштабирование"
+
+msgid "Slices - Simple rows and rotate"
+msgstr "Слои - Простые строки и поворот"
+
+msgid "Slices - Simple rows reversed"
+msgstr "Слои - Простые строки в обратном порядке"
+
+msgid "Slices - Simple rows and blur"
+msgstr "Слои - Простые строки и размытие"
+
+msgid "Slices - Triangle"
+msgstr "Слои - Треугольник"
+
+msgid "Slices - Reversed triangle"
+msgstr "Слои - Треугольник в обратном порядке"
+
+msgid "Scale to left"
+msgstr "Масштабирование влево"
+
+msgid "Rotate to left"
+msgstr "Поворот влево"
+
+msgid "Fixed to left"
+msgstr "Фиксация влево"
+
+msgid "Parallax to left"
+msgstr "Параллакс влево"
+
+msgid "Flow"
+msgstr "Поток"
+
+msgid "Flowing rows"
+msgstr "Плывущие строки"
+
+msgid "Flowing cols"
+msgstr "Плывущие столбцы"
+
+msgid "Flowing tiles"
+msgstr "Плывущие плитки"
+
+msgid "Slide to left"
+msgstr "Слайд влево"
+
+msgid "Stage"
+msgstr "Сцена"
+
+msgid "Zoom"
+msgstr "Уменьшение"
+
+msgid "Zoom out"
+msgstr "Увеличение"
+
+msgid "Curtain to left"
+msgstr "Занавес влево"
+
+msgid "Blocks to left"
+msgstr "Блоки влево"
+
+msgid "Slices to left"
+msgstr "Слои влево сверху"
+
+msgid "Reversed slices to left"
+msgstr "Слои влево снизу"
+
+msgid "Puzzle"
+msgstr "Мозаика"
+
+msgid "Switching to left"
+msgstr "Переключение влево"
+
+msgid "Explode"
+msgstr "Взрыв"
+
+msgid "Rebuild"
+msgstr "Сборка"
+
+msgid "Page turn to left"
+msgstr "Листание влево"
+
+msgid "3D bricks to left"
+msgstr "3D кирпичики влево"
+
+msgid "Vertical spin to left"
+msgstr "Вертикальное вращение влево"
+
+msgid "3D rows to left"
+msgstr "3D строки влево"
+
+msgid "3D columns to left"
+msgstr "3D столбцы влево"
+
+msgid "Spinning cuboid to left"
+msgstr "Вращение куба влево"
+
+msgid "Turning cuboid to left"
+msgstr "Поворот куба влево"
+
+msgid "Scale to top"
+msgstr "Масштабирование вверх"
+
+msgid "Scale to bottom"
+msgstr "Масштабирование вниз"
+
+msgid "Rotate to top"
+msgstr "Поворот вверх"
+
+msgid "Rotate to bottom"
+msgstr "Поворот вниз"
+
+msgid "Fixed to top"
+msgstr "Фиксированный сверху"
+
+msgid "Fixed to bottom"
+msgstr "Фиксированный снизу"
+
+msgid "Parallax to top"
+msgstr "Параллакс вверх"
+
+msgid "Parallax to bottom"
+msgstr "Параллакс вниз"
+
+msgid "Flowing tiles vertical"
+msgstr "Плывущие по вертикали плитки"
+
+msgid "Slide to bottom"
+msgstr "Слайд вниз"
+
+msgid "Slide to top"
+msgstr "Слайд вверх"
+
+msgid "Curtain to bottom"
+msgstr "Занавес вниз"
+
+msgid "Curtain to top"
+msgstr "Занавес вверх"
+
+msgid "Switching to bottom"
+msgstr "Переключение вниз"
+
+msgid "Switching to top"
+msgstr "Переключение вверх"
+
+msgid "Horizontal spin to bottom"
+msgstr "Горизонтальное вращение вниз"
+
+msgid "Horizontal spin to top"
+msgstr "Горизонтальное вращение вверх"
+
+msgid "3D bricks to bottom"
+msgstr "3D кирпичики вниз"
+
+msgid "3D bricks to top"
+msgstr "3D кирпичики вверх"
+
+msgid "3D rows to bottom"
+msgstr "3D строки вниз"
+
+msgid "3D rows to top"
+msgstr "3D строки вверх"
+
+msgid "3D columns to bottom"
+msgstr "3D столбцы вниз"
+
+msgid "3D columns to top"
+msgstr "3D столбцы вверх"
+
+msgid "Spinning cuboid to bottom"
+msgstr "Вращение куба вниз"
+
+msgid "Spinning cuboid to top"
+msgstr "Вращение куба вверх"
+
+msgid "Turning cuboid to bottom"
+msgstr "Поворот куба вниз"
+
+msgid "Turning cuboid to top"
+msgstr "Поворот куба вверх"
+
+msgid "Scale to right"
+msgstr "Масштабирование направо"
+
+msgid "Rotate to right"
+msgstr "Поворот направо"
+
+msgid "Fixed to right"
+msgstr "Фиксированный справа"
+
+msgid "Parallax to right"
+msgstr "Параллакс направо"
+
+msgid "Flow - reversed"
+msgstr "Поток - обратный"
+
+msgid "Slide to right"
+msgstr "Слайд направо"
+
+msgid "Curtain to right"
+msgstr "Занавес направо"
+
+msgid "Blocks to right"
+msgstr "Блоки вправо"
+
+msgid "Slices to right"
+msgstr "Слои вправо"
+
+msgid "Reversed slices to right"
+msgstr "Перевернутые слои вправо"
+
+msgid "Switching to right"
+msgstr "Переключение вправо"
+
+msgid "Page turn to right"
+msgstr "Листание вправо"
+
+msgid "Vertical spin to right"
+msgstr "Вертикальное вращение вправо"
+
+msgid "3D bricks to right"
+msgstr "3D кирпичики вправо"
+
+msgid "3D rows to right"
+msgstr "3D строки вправо"
+
+msgid "3D columns to right"
+msgstr "3D столбцы вправо"
+
+msgid "Spinning cuboid to right"
+msgstr "Вращение куба вправо"
+
+msgid "Turning cuboid to right"
+msgstr "Поворот куба направо"
+
+msgid "Downscale left"
+msgstr "Уменьшение размера влево"
+
+msgid "Downscale right"
+msgstr "Уменьшение размера вправо"
+
+msgid "Downscale top"
+msgstr "Уменьшение размера вверх"
+
+msgid "Downscale bottom"
+msgstr "Уменьшение размера вниз"
+
+msgid "Upscale left"
+msgstr "Увеличение размера влево"
+
+msgid "Upscale right"
+msgstr "Увеличение размера вправо"
+
+msgid "Upscale top"
+msgstr "Увеличение размера вверх"
+
+msgid "Upscale bottom"
+msgstr "Увеличение размера вниз"
+
+msgid "To left"
+msgstr "Налево"
+
+msgid "To right"
+msgstr "Направо"
+
+msgid "To top left"
+msgstr "В левый верхний угол"
+
+msgid "To top right"
+msgstr "В верхний правый угол"
+
+msgid "To bottom left"
+msgstr "В нижний левый угол"
+
+msgid "To bottom right"
+msgstr "В нижний правый угол"
+
+msgid "My layouts"
+msgstr "Мои макеты"
+
+msgctxt "Arrow direction"
+msgid "Previous"
+msgstr ""
+
+msgid "Previous image"
+msgstr "Предыдущее изображение"
+
+msgid "Hover color"
+msgstr "Цвет при наведении"
+
+msgid "Mirror"
+msgstr "Зеркально"
+
+msgctxt "Arrow direction"
+msgid "Next"
+msgstr ""
+
+msgid "Next image"
+msgstr "Следующее изображение"
+
+msgid "Arrow"
+msgstr "Стрелка"
+
+msgid "Previous position"
+msgstr "Позиция кнопки Предыдущий"
+
+msgid "Next position"
+msgstr "Позиция кнопки Следующий"
+
+msgid "Previous alt tag"
+msgstr ""
+
+msgid "Next alt tag"
+msgstr ""
+
+msgid "Base64"
+msgstr ""
+
+msgid ""
+"Base64 encoded arrow images are loading faster and they are colorable. But "
+"optimization plugins often have errors in their codes related to them, so if "
+"your arrow won't load, turn this option off."
+msgstr ""
+
+msgid "Image width - Desktop"
+msgstr ""
+
+#, fuzzy
+#| msgid "Image size"
+msgid "Image width - Tablet"
+msgstr "Размер изображения"
+
+#, fuzzy
+#| msgid "Image size"
+msgid "Image width - Mobile"
+msgstr "Размер изображения"
+
+msgid "Pause"
+msgstr "Пауза"
+
+#, fuzzy
+#| msgid "Pause autoplay"
+msgid "Play autoplay"
+msgstr "Приостановить автозапуск"
+
+msgid "Pause autoplay"
+msgstr "Приостановить автозапуск"
+
+msgid "Bar"
+msgstr "Панель"
+
+msgid "Slide count"
+msgstr ""
+
+msgid ""
+"The \"Title\" will be the index of the slide and \"Description\" will be the "
+"total number of slides."
+msgstr ""
+
+msgid "Separator"
+msgstr "Разделитель"
+
+#, php-format
+msgid ""
+"You can set what separates the Tex bar Title and Description. This separator "
+"is used at the Slide count option, too, to separate the current and total "
+"slide number. %1$s To put the Description to a new line, use the &lt;br&gt; "
+"HTML tag."
+msgstr ""
+
+msgid "Bar full size"
+msgstr "Полноразмерная панель"
+
+msgid "Shows on hover"
+msgstr "Показывать при наведении"
+
+msgid "Hide on slides"
+msgstr "Скрыть на слайдах"
+
+msgid ""
+"List the slides separated by commas on which you want the controls to be "
+"hidden."
+msgstr ""
+"Перечислите слайды, на которых необходимо скрыть элементы управления, "
+"разделяя их запятыми."
+
+#, fuzzy
+#| msgid "Text Bar"
+msgid "Text bar"
+msgstr "Текстовая панель"
+
+msgid "Bullets"
+msgstr "Точки"
+
+msgid "Bullet"
+msgstr ""
+
+msgid "Side"
+msgstr "Сторона"
+
+msgid "Before"
+msgstr "Над"
+
+msgid "After"
+msgstr "Под"
+
+msgid "Shadow"
+msgstr "Тень"
+
+msgid "Thumbnails"
+msgstr "Миниатюры"
+
+#, fuzzy
+#| msgid "Desktop"
+msgid "Desktop width"
+msgstr "Настольный компьютер"
+
+#, fuzzy
+#| msgid "Tablet text"
+msgid "Tablet width"
+msgstr "Текст на планшете"
+
+#, fuzzy
+#| msgid "Mobile text"
+msgid "Mobile width"
+msgstr "Текст на телефоне"
+
+msgid "Align thumbnails"
+msgstr "Выравнять миниатюры"
+
+msgid "Start"
+msgstr "Начало"
+
+msgid "End"
+msgstr "Окончание"
+
+msgid "Space between"
+msgstr "Расстояние между"
+
+msgid "Space around"
+msgstr "Пространство вокруг"
+
+msgid "Caption"
+msgstr "Подпись"
+
+msgid ""
+"The height (horizontal orientation) or width (vertical orientation) of the "
+"caption container."
+msgstr ""
+
+msgid "Next arrow image"
+msgstr ""
+
+msgid "The previous arrow image will be mirrored."
+msgstr "Предыдущее изображение стрелки будет зеркальным."
+
+msgid "Group by"
+msgstr ""
+
+msgctxt "Unit"
+msgid "thumbnails"
+msgstr ""
+
+msgid "You can break your thumbnails into rows or columns."
+msgstr ""
+
+msgid ""
+"The height (horizontal orientation) or width (vertical orientation) of the "
+"thumbnail container in px or %."
+msgstr ""
+
+#, javascript-format
+msgid "Switches %s slide(s)."
+msgstr ""
+
+#, javascript-format
+msgid "Loops %s and stops before starting slide."
+msgstr ""
+
+#, javascript-format
+msgid "Loops %s and returns to starting slide."
+msgstr ""
+
+#, javascript-format
+msgid "Switches to the %s. slide."
+msgstr ""
+
+msgid "Top and bottom"
+msgstr "Сверху и снизу"
+
+msgid "License key cannot be empty!"
+msgstr "Лицензионный ключ не может быть пустым!"
+
+msgid "License key is active!"
+msgstr "Лицензионный ключ активен!"
+
+msgid "Missing sliders!"
+msgstr "Слайдеры отсутствуют!"
+
+msgid "Line color"
+msgstr "Цвет линии"
+
+msgid "Number of particles"
+msgstr "Число частиц"
+
+msgid "Grab"
+msgstr "Захват"
+
+msgid "Bubble"
+msgstr "Пузырь"
+
+msgid "Repulse"
+msgstr "Отталкивание"
+
+msgid "Push"
+msgstr "Толчок"
+
+msgid "Remove"
+msgstr "Удаление"
+
+msgid "Hide on mobile"
+msgstr ""
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Secondary"
+msgstr "Вторичный"
+
+msgid "Flip"
+msgstr "Переворот"
+
+msgid "Grow"
+msgstr "Увеличение"
+
+msgid "Shrink"
+msgstr "Сжатие"
+
+msgid "Interval"
+msgstr "Интервал"
+
+#, fuzzy
+#| msgid "Font size modifier"
+msgid "Interval modifier"
+msgstr "Модификатор размера шрифта"
+
+msgctxt "Autoplay modifier"
+msgid "loops"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "slide count"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "slide index"
+msgstr ""
+
+msgid "Stops on"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "last slide"
+msgstr ""
+
+msgctxt "Autoplay modifier"
+msgid "next slide"
+msgstr ""
+
+msgid "Polygons"
+msgstr "Полигоны"
+
+msgid "Bloom"
+msgstr "Цветение"
+
+msgid "Web"
+msgstr "Паутина"
+
+msgid "Black widow"
+msgstr "Черная вдова"
+
+msgid "Zodiac"
+msgstr "Зодиак"
+
+msgid "Fading dots"
+msgstr "Исчезающие точки"
+
+msgid "Pirouette"
+msgstr ""
+
+msgid "Sparkling"
+msgstr "Искры"
+
+msgid "Curve 1"
+msgstr "Кривая 1"
+
+msgid "Curve 2"
+msgstr "Кривая 2"
+
+msgid "Curve 3"
+msgstr "Кривая 3"
+
+msgid "Curve 4"
+msgstr "Кривая 4"
+
+msgid "Curves"
+msgstr "Кривые"
+
+msgid "Fan 1"
+msgstr "Вентилятор 1"
+
+msgid "Fan 2"
+msgstr "Вентилятор 2"
+
+msgid "Fan 3"
+msgstr "Вентилятор 3"
+
+msgid "Hills"
+msgstr "Холмы"
+
+msgid "Incline 1"
+msgstr "Наклон 1"
+
+msgid "Incline 2"
+msgstr "Наклон 2"
+
+msgid "Incline 3"
+msgstr "Наклон 3"
+
+msgid "Inverse arrow"
+msgstr "Обратная стрелка"
+
+msgid "Rectangle"
+msgstr "Прямоугольник"
+
+msgid "Slopes"
+msgstr "Наклоны"
+
+msgid "Tilt 1"
+msgstr "Наклон 1"
+
+msgid "Tilt 2"
+msgstr "Наклон 2"
+
+msgid "Triangle 1"
+msgstr "Треугольник 1"
+
+msgid "Triangle 2"
+msgstr "Треугольник 2"
+
+msgid "Wave 1"
+msgstr "Волна 1"
+
+msgid "Wave 2"
+msgstr "Волна 2"
+
+msgid "Waves"
+msgstr "Волны"
+
+msgid "2 Colors"
+msgstr "2 цвета"
+
+msgid "Fan"
+msgstr "Вентилятор"
+
+msgid "Masked waves"
+msgstr "Замаскированные волны"
+
+msgid "Ribbon"
+msgstr "Лента"
+
+msgid "The secret is empty. Please insert that value too!"
+msgstr "Значение параметра secret пусто. Пожалуйста, вставьте значение!"
+
+msgid "The App ID is empty. Please insert that value too!"
+msgstr "Значение App ID пусто. Пожалуйста, вставьте значение!"
+
+#, php-format
+msgid ""
+"%1$s allows HTTPS Redirect URIs only! You must move your site to HTTPS in "
+"order to use this generator! - %2$s How to get SSL for my WordPress site? "
+"%3$s"
+msgstr ""
+
+#, php-format
+msgid ""
+"%2$s Check the documentation %3$s to learn how to configure your %1$s app."
+msgstr ""
+
+msgctxt "Facebook app permission"
+msgid "pages read engagement"
+msgstr ""
+
+msgid "Pages read engagement permission"
+msgstr ""
+
+msgid ""
+"You need \"pages_read_engagement\" permission if you want to access datas of "
+"Facebook pages, where you are an administrator. For other pages you still "
+"need to turn this option on, but request access to \"Page Public Content "
+"Access\" within your App."
+msgstr ""
+
+#, fuzzy
+#| msgid "No permission: %s"
+msgctxt "Facebook app permission"
+msgid "user photos"
+msgstr "Нет прав: %s"
+
+#, fuzzy
+#| msgid "No permission: %s"
+msgid "User photos permission"
+msgstr "Нет прав: %s"
+
+msgid ""
+"You need \"user_photos\" permission to access photos of users, except your "
+"own user."
+msgstr ""
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Callback url"
+msgstr "URL-адрес обратного вызова"
+
+msgid "The token expired. Please request new token! "
+msgstr "Срок действия токена истек. Пожалуйста, запросите новый токен! "
+
+msgid "Request token"
+msgstr "Запросить токен"
+
+msgid "Facebook photos or posts on your page"
+msgstr ""
+
+msgid "Photos by album"
+msgstr "Фотографии по альбомам"
+
+msgid "Posts by page"
+msgstr "Сообщения по страницам"
+
+msgid "User or page"
+msgstr "Пользователь или страница"
+
+msgid "Album"
+msgstr "Альбом"
+
+msgctxt "Facebook generator type"
+msgid "Facebook posts"
+msgstr ""
+
+msgid "Page"
+msgstr "Страница"
+
+msgid "Feed"
+msgstr "Канал"
+
+msgid "Remove special characters"
+msgstr "Удалять специальные символы"
+
+#, fuzzy
+#| msgid "Exclude posts"
+msgid "Exclude Types"
+msgstr "Исключить сообщения"
+
+msgid "Separate the types by a comma. E.g.: share,album"
+msgstr ""
+
+msgid "The key and secret is not valid!"
+msgstr "Значения параметров key и secret недействительны!"
+
+msgid "There are no photos in this album!"
+msgstr "В этом альбоме нет фотографий!"
+
+msgid "Please choose an album!"
+msgstr "Пожалуйста, выберите альбом!"
+
+msgid "There are no photos in this gallery!"
+msgstr "В этой галерее нет фотографий!"
+
+msgid "Please chooose a gallery!"
+msgstr "Пожалуйста, выберите галерею!"
+
+msgid "Privacy"
+msgstr "Конфиденциальность"
+
+msgid "There are no photos with this privacy filter!"
+msgstr "Нет фотографий с таким фильтром конфиденциальности!"
+
+msgctxt "Flickr generator type"
+msgid "Flickr search"
+msgstr ""
+
+msgid "User name or ID"
+msgstr "Имя пользователя или ID"
+
+msgid "Search in title, description or tags"
+msgstr "Поиск по названию, описанию или тегам"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "Images in folder"
+msgstr "Изображения в каталоге"
+
+msgid "Images in folder and subfolders"
+msgstr "Изображения в каталоге и подкаталогах"
+
+msgid "Videos in folder"
+msgstr "Видео в папке"
+
+msgid "Source folder"
+msgstr "Каталог источника"
+
+msgid "Remove resized images"
+msgstr ""
+
+msgid ""
+"This option removes files that match the \"-[number]x[number].[extension]\" "
+"pattern in the end of their file names. For example, \"myimage.jpg\" will "
+"stay in the generator result, but \"myimage-120x120.jpg\" will be removed, "
+"because it's the same image, just in a smaller size."
+msgstr ""
+
+msgid "Filename"
+msgstr "Имя файла"
+
+msgid "Creation date"
+msgstr "Дата создания"
+
+msgid ""
+"Wrong path. This is the default image folder path, so try to navigate from "
+"here:"
+msgstr ""
+"Неправильный путь. Это путь к каталогу изображений по умолчанию, попробуйте "
+"начать поиск здесь:"
+
+msgid "Folder not found."
+msgstr "Папка не найдена."
+
+msgid ""
+"Wrong path. This is the default upload/media folder path, so try to navigate "
+"from here:"
+msgstr ""
+
+msgid "JSON from url"
+msgstr ""
+
+msgid "JSON from input"
+msgstr ""
+
+msgid "Level separation"
+msgstr ""
+
+msgid ""
+"JSON codes can be customized to have many different levels. From a code it "
+"is impossible to know from which level do you want to use the given datas on "
+"the different slides, so you have to select that level from this list."
+msgstr ""
+
+#, php-format
+msgid ""
+"The given text is not valid XML! %1$sValidate your code%2$s to make sure it "
+"is correct."
+msgstr ""
+
+#, php-format
+msgid ""
+"The given text is not valid JSON! %1$sValidate your code%2$s to make sure it "
+"is correct."
+msgstr ""
+
+msgid ""
+"Try to change the \"Level separation\" or \"Remove levels from result\" "
+"setting."
+msgstr ""
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Timezone offset in hours. For example: +2 or -7."
+msgstr ""
+
+msgid "The data in the given url is not valid XML."
+msgstr "Данные в указанном URL-адресе не являются допустимым форматом XML."
+
+msgid "CSV from url"
+msgstr ""
+
+msgid "CSV from input"
+msgstr ""
+
+msgid "View tweet"
+msgstr "Просмотр твита"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Likes"
+msgstr "Нравится"
+
+msgid "Manual"
+msgstr "Вручную"
+
+#, fuzzy
+#| msgid "Modified Time"
+msgid "Modified time"
+msgstr "Время изменения"
+
+msgid "Plays"
+msgstr "Воспроизведение"
+
+msgid "Playlist"
+msgstr ""
+
+msgid "optional"
+msgstr "необязательный"
+
+#, php-format
+msgid "Creates slides from %1$s content."
+msgstr ""
+
+msgid "Items"
+msgstr "Элементы"
+
+msgid "Locations"
+msgstr "Местоположения"
+
+msgid "Types"
+msgstr "Типы"
+
+msgid "Expired"
+msgstr "С истекшим сроком"
+
+msgid "Started"
+msgstr "Запущенный"
+
+msgid "Auction"
+msgstr "Аукцион"
+
+msgid "Negotiable price"
+msgstr "Договорная цена"
+
+msgid "Blocked by User"
+msgstr "Заблокировано пользователем"
+
+msgid "Paid"
+msgstr "Оплачено"
+
+msgid "Buynow"
+msgstr "Купить"
+
+msgid "Menu item (item ID)"
+msgstr "Пункт меню (ID пункта)"
+
+msgid ""
+"Your url will point to the item within this menu item. You will only get a "
+"good result, if you will pick one of your DJ Classifields menu items or "
+"leave it on 'Default'."
+msgstr ""
+
+msgid "Start date"
+msgstr "Дата начала"
+
+msgid "Expiration date"
+msgstr "Срок годности"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Include subcategories"
+msgstr "Включая подкатегории"
+
+msgid "Frontpage"
+msgstr "Главная страница"
+
+msgid "Exclude ID"
+msgstr "Исключить ID"
+
+msgid "Category title"
+msgstr "Название категории"
+
+msgid "Username"
+msgstr "Имя пользователя"
+
+msgid "View post"
+msgstr ""
+
+msgid "Resolved"
+msgstr "Решенные"
+
+msgid "Only main discussions"
+msgstr "Только основные обсуждения"
+
+msgid "View discussion"
+msgstr ""
+
+msgid "Events"
+msgstr "События"
+
+msgid "Albums"
+msgstr "Альбомы"
+
+msgid "Videos"
+msgstr "Видео"
+
+msgid "Pages"
+msgstr "Страницы"
+
+msgid "Users"
+msgstr ""
+
+msgid "Allowed user IDs"
+msgstr ""
+
+msgid "Separate them by comma."
+msgstr ""
+
+msgid "Banned user IDs"
+msgstr "Заблокированные идентификаторы пользователей"
+
+msgid "Ended"
+msgstr "Остановленный"
+
+msgid "All day"
+msgstr "Весь день"
+
+msgid "Recurring events"
+msgstr "Повторяющиеся события"
+
+msgid "Open"
+msgstr "Открытые"
+
+msgid "Closed"
+msgstr "Закрытые"
+
+msgid "Invite only"
+msgstr "Только по приглашению"
+
+msgid "Location"
+msgstr "Место нахождения"
+
+msgid "Pull posts only from these users. Separate them by comma."
+msgstr ""
+
+msgid "Do not pull posts from these users. Separate them by comma."
+msgstr ""
+
+msgid "Public"
+msgstr "Открытые"
+
+msgid "Private"
+msgstr "Личный"
+
+msgid "Notification"
+msgstr ""
+
+#, fuzzy
+#| msgid "Email support"
+msgid "Email only"
+msgstr "Поддержка по email"
+
+#, fuzzy
+#| msgid "Invite only"
+msgid "Internal only"
+msgstr "Только по приглашению"
+
+msgid "Profiles"
+msgstr "Профили"
+
+msgid "Badges"
+msgstr ""
+
+msgid "Register date"
+msgstr ""
+
+msgid "Last visit date"
+msgstr ""
+
+msgid "Points"
+msgstr ""
+
+msgid "Products"
+msgstr "Товары"
+
+msgid "Manufacturer"
+msgstr "Производитель"
+
+msgid "On discount"
+msgstr "По скидке"
+
+msgid "In stock"
+msgstr "В наличии"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Product language"
+msgstr ""
+
+msgid "Category language"
+msgstr ""
+
+msgid "Manufacturer language"
+msgstr ""
+
+msgid "Product name"
+msgstr "Наименование товара"
+
+msgid "Product ID"
+msgstr "ID товара"
+
+msgid "Recurring"
+msgstr "Повторяющиеся"
+
+msgid "All, but from recurring ones only parent events"
+msgstr "Все, но только из повторяющихся родительских событий"
+
+msgid "Only recurring events"
+msgstr "Только повторяющиеся события"
+
+msgid "Only recurring event parents"
+msgstr "Только родители повторяющихся событий"
+
+msgid "Only not recurring events"
+msgstr "Только не повторяющиеся события"
+
+msgid "End date"
+msgstr "Дата окончания"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Discount"
+msgstr "Скидка"
+
+msgid "Registration start date"
+msgstr "Дата начала регистрации"
+
+msgid "Cut off date"
+msgstr "Дата окончания"
+
+msgid "Cancel before date"
+msgstr "Отмена до даты"
+
+msgid "Publish up date"
+msgstr "Публикация до даты"
+
+msgid "Publish down date"
+msgstr "Дата отмены публикации"
+
+msgid "Early bird discount date"
+msgstr "Дата для скидки для \"ранних пташек\""
+
+msgid "Early bird discount amount"
+msgstr "Размер скидки для \"ранних пташек\""
+
+msgid "Late fee date"
+msgstr "Дата штрафа за опоздание"
+
+msgid "Recurring end date"
+msgstr "Повторяющаяся дата окончания"
+
+msgid "Max end date"
+msgstr "Максимальная дата окончания"
+
+msgid "Only display items with these IDs"
+msgstr ""
+
+msgid "Brand"
+msgstr "Бренд"
+
+msgid "Tag"
+msgstr "Тег"
+
+msgid "Warehouse"
+msgstr "Склад"
+
+msgid "Include all images"
+msgstr "Включать все изображения"
+
+msgid "Sales"
+msgstr "Продажи"
+
+msgid "Average score"
+msgstr "Средний бал"
+
+msgid "Total vote"
+msgstr "Общее число голосов"
+
+msgid "Product IDs"
+msgstr ""
+
+msgid ""
+"Write the product IDs you want to display here, in the order you want them "
+"to appear in the generator. One product ID per line."
+msgstr ""
+
+msgid "One time events"
+msgstr ""
+
+msgid "Repeating events"
+msgstr ""
+
+msgid "Date language"
+msgstr ""
+
+msgid "Offset value"
+msgstr ""
+
+msgid ""
+"Timezone offset in hours. For example: +2 or -7. If you leave it empty, "
+"Joomla's System -> Global Configuration -> Server -> Server Time Zone "
+"setting will be used."
+msgstr ""
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Trashed"
+msgstr "В корзине"
+
+msgid "Ask down all product images"
+msgstr ""
+
+msgid "View item"
+msgstr ""
+
+msgid "Viewed"
+msgstr "Просмотренный"
+
+msgid "View image"
+msgstr "Просмотр изображения"
+
+msgid "Supplier"
+msgstr "Поставщик"
+
+msgid "On sale"
+msgstr "В продаже"
+
+msgid "Discount price"
+msgstr "Цена со скидкой"
+
+msgid "All day event"
+msgstr "Событие на весь день"
+
+msgid "Fallback language"
+msgstr ""
+
+msgid "Show parent products only"
+msgstr "Показывать только родительские продукты"
+
+#, php-format
+msgid "Creates slides from %1$s events."
+msgstr ""
+
+msgid "Create custom date variables"
+msgstr "Создание пользовательских переменных даты"
+
+msgid ""
+"You can write any date format (http://php.net/manual/en/function.date.php) "
+"in separate lines, and new variables will be created for them."
+msgstr ""
+"Вы можете использовать любой формат даты (http://php.net/manual/en/function."
+"date.php) в отдельных строках, и для них будут созданы новые переменные."
+
+msgid ""
+"Write the original text, like 'Monday' then two | signs, and the text you "
+"want it to be translated to, for example 'Montag'. Together: Monday||Montag"
+msgstr ""
+"Напишите исходный текст, например «Monday», затем два знака | и текст, на "
+"который вы хотите выполнить перевод, например, «Понедельник». Вместе: "
+"Monday||Понедельник"
+
+msgid "Event start date"
+msgstr "Дата начала события"
+
+msgid "Event end date"
+msgstr "Дата окончания события"
+
+msgid "Event creation date"
+msgstr "Дата создания события"
+
+msgid "Event modification date"
+msgstr "Дата изменения события"
+
+#, php-format
+msgid "Creates slides from %1$s galleries."
+msgstr ""
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "View gallery"
+msgstr ""
+
+msgid "Creates slides by your custom settings."
+msgstr ""
+
+#, php-format
+msgid ""
+"You don't have custom generators yet. %1$s Check the documentation %2$s to "
+"learn how to create your own generator."
+msgstr ""
+
+msgid "No options given"
+msgstr ""
+
+msgid "Exclude event IDs (One ID per line)"
+msgstr ""
+
+msgid "Location town"
+msgstr "Город местонахождения"
+
+msgid "Location state"
+msgstr "Область (штат) местонахождения"
+
+msgid "Get all multisite events"
+msgstr "Получить все многосайтовые события"
+
+msgid "Order result"
+msgstr "Результат заказа"
+
+msgid "Events per site"
+msgstr "Событий на сайт"
+
+msgid "Format date variables"
+msgstr ""
+
+msgid ""
+"With the WordPress Settings -> General -> Timezone and Date format, new "
+"variables will be generated from the given variables. Separate them with "
+"comma."
+msgstr ""
+
+msgid "Start time text"
+msgstr "Текст времени начала"
+
+msgid "End date text"
+msgstr "Текст даты окончания"
+
+msgid "End time text"
+msgstr "Текст времени окончания"
+
+msgid "Rsvp date"
+msgstr "Дата Rsvp"
+
+msgid "Multisite Posts"
+msgstr ""
+
+msgid "Source gallery"
+msgstr "Галерея-источник"
+
+msgid "Organizers"
+msgstr "Организаторы"
+
+msgid "Venues"
+msgstr "Места проведения"
+
+msgid "Hide From Event Listings"
+msgstr "Скрыть из списков событий"
+
+msgid "Event cost"
+msgstr "Стоимость мероприятия"
+
+msgid "Metakey name"
+msgstr "Имя мета-ключа"
+
+msgid "If its set, this will be used instead of the 'Field' value."
+msgstr "Если установлено, то будет использоваться вместо значения 'Поле'."
+
+msgid "Sorting method"
+msgstr ""
+
+msgid "Galleries"
+msgstr "Галереи"
+
+msgid "Upload date"
+msgstr "Дата загрузки"
+
+msgid "Average rating"
+msgstr "Средний рейтинг"
+
+msgid "Rate count"
+msgstr "Количество голосов"
+
+msgid "Hit count"
+msgstr "Количество просмотров"
+
+msgid "Root"
+msgstr "Верхний уровень"
+
+msgid "Products by filter"
+msgstr "Товары по фильтру"
+
+msgid "Products by IDs and/or SKUs"
+msgstr ""
+
+msgid ""
+"Creates slides from your WooCommece categories. (Not from the products "
+"inside them.)"
+msgstr ""
+
+msgid "Submenu limit"
+msgstr "Ограничение на количество вложенных пунктов"
+
+msgid "No limit"
+msgstr "Без ограничений"
+
+msgid "Downloadable"
+msgstr "Доступные для скачивания"
+
+msgid "Virtual"
+msgstr "Виртуальные"
+
+msgid "Create text variables (one per line)"
+msgstr "Создание текстовых переменных (по одной в строке)"
+
+msgid ""
+"if 'variable' equals to 'equalvalue', then you will get the text 'true', but "
+"if it's not equal, the text will be 'false'. The new variable's name will be "
+"textvariable (the 'variable' replaced by your variable's name)."
+msgstr ""
+"если «переменная» равна «equalvalue», тогда вы получите текст «true», а если "
+"не равна, текст будет «false». Имя новой переменной будет textvariable "
+"(«переменная» будет заменена на имя вашей переменной)."
+
+msgid "Round rating"
+msgstr "Округлять рейтинг"
+
+msgid "Half"
+msgstr "В половину"
+
+msgid "Third"
+msgstr "На треть"
+
+msgid "Quarter"
+msgstr "На четверть"
+
+msgid "Visibility"
+msgstr "Видимость"
+
+msgid "Shop and search results"
+msgstr "Магазин и результаты поиска"
+
+msgid "Shop only"
+msgstr "Только магазин"
+
+msgid "Search results only"
+msgstr "Только результаты поиска"
+
+msgid "Replace these timestamp variables"
+msgstr "Замените эти переменные меток времени"
+
+#, php-format
+msgid "Any PHP date format can be used: %s"
+msgstr "Можно использовать любой формат даты PHP: %s"
+
+msgid "Total sales"
+msgstr "Общий объем продаж"
+
+msgid "Regular price"
+msgstr "Обычная цена"
+
+msgid "Sale price"
+msgstr "Цена продажи"
+
+msgid "IDs (one per line)"
+msgstr "ID (по одному в каждой строке)"
+
+msgid "SKUs (one per line)"
+msgstr ""
+
+msgid "Move"
+msgstr "Переместить"
+
+msgid "Reveal"
+msgstr ""
+
+msgid "Bounce"
+msgstr "Отскок"
+
+msgid "Special"
+msgstr "Специальный"
+
+msgid "Left fade"
+msgstr "Выцветание слева"
+
+msgid "Right fade"
+msgstr "Выцветание справа"
+
+msgid "Top fade"
+msgstr "Выцветание сверху"
+
+msgid "Bottom fade"
+msgstr "Выцветание снизу"
+
+msgid "Flash"
+msgstr "Вспышка"
+
+msgid "Left to Right"
+msgstr "Слева направо"
+
+msgid "Top to Bottom"
+msgstr "Сверху вниз"
+
+msgid "Skew Left to Right"
+msgstr ""
+
+msgid "Downscale back out"
+msgstr ""
+
+msgid "Upscale back out"
+msgstr ""
+
+msgid "Pulse"
+msgstr "Импульс"
+
+msgid "Flip left"
+msgstr "Переворот слева"
+
+msgid "Flip right"
+msgstr "Переворот справа"
+
+msgid "Flip down"
+msgstr "Переворот вниз"
+
+msgid "Flip up"
+msgstr "Переворот вверх"
+
+msgid "Flip in X"
+msgstr "Переворот по X"
+
+msgid "Flip in Y"
+msgstr "Переворот по Y"
+
+msgid "Flap"
+msgstr "Откидывание"
+
+msgid "Rotate top left"
+msgstr "Поворот от верхнего левого угла"
+
+msgid "Rotate top right"
+msgstr "Поворот от правого верхнего угла"
+
+msgid "Roll in"
+msgstr "Анимация с разворотом"
+
+msgid "Rotate top left back out"
+msgstr ""
+
+msgid "Rotate all axis"
+msgstr ""
+
+msgid "Bounce in"
+msgstr "Отскок"
+
+msgid "Bounce in left"
+msgstr "Отскок слева"
+
+msgid "Bounce in right"
+msgstr "Отскок справа"
+
+msgid "Bounce in down"
+msgstr "Отскок вниз"
+
+msgid "Bounce in up"
+msgstr "Отскок вверх"
+
+msgid "Rubber band"
+msgstr "Резинка"
+
+msgid "Shake"
+msgstr "Встряска"
+
+msgid "Swing"
+msgstr "Качание"
+
+msgid "Wooble"
+msgstr "Колебание"
+
+msgid "Roll"
+msgstr "Разворот"
+
+msgid "Grow rotate"
+msgstr "Увеличение с вращением"
+
+msgid "Pendulum"
+msgstr "Маятник"
+
+msgid "Pendulum 3D"
+msgstr "Маятник 3D"
+
+msgid "Vertical pendulum 3D"
+msgstr "Вертикальный маятник 3D"
+
+msgid "Before text"
+msgstr "Перед текстом"
+
+msgid "Animated text"
+msgstr "Анимация текста"
+
+msgid "After text"
+msgstr "После текста"
+
+msgid "Rotating"
+msgstr ""
+
+msgid "Drop-in"
+msgstr ""
+
+msgid "Slide down"
+msgstr ""
+
+msgid "Typewriter"
+msgstr ""
+
+msgid "Chars"
+msgstr "Символы"
+
+msgid "Chars 2"
+msgstr ""
+
+msgid "Auto width"
+msgstr "Автоматическая ширина"
+
+#, fuzzy
+#| msgid "Cursor Color"
+msgid "Cursor color"
+msgstr "Цвет Курсора"
+
+msgctxt "Effect"
+msgid "Loop"
+msgstr ""
+
+msgid "Show duration"
+msgstr "Показать продолжительность"
+
+msgid "Class on the selected tag element."
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid "Write custom CSS codes here without selectors."
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "MP3 audio"
+msgstr "MP3-аудио"
+
+msgid "Main color"
+msgstr "Основной цвет"
+
+msgid "Secondary color"
+msgstr "Вторичный цвет"
+
+msgid "Audio settings"
+msgstr ""
+
+#, php-format
+msgid ""
+"Audio autoplaying has a lot of limitations made by browsers. You can read "
+"about them %1$shere%2$s."
+msgstr ""
+
+msgid "Starts the audio from the beginning when the slide is viewed again."
+msgstr ""
+
+msgid "Progress"
+msgstr "Прогресс"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Full"
+msgstr "Полный"
+
+msgid "Scales up the image on hover"
+msgstr ""
+
+msgid "Overlay background"
+msgstr "Фон наложения"
+
+msgid "Positions the text inside the overlay."
+msgstr ""
+
+msgid "Circle counter"
+msgstr "Круглый счетчик"
+
+msgid "Counter"
+msgstr "Счётчик"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Start from"
+msgstr "Начиная с"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Active color"
+msgstr "Цвет при активации"
+
+msgid "Stroke width"
+msgstr "Ширина обводки"
+
+msgid "Labels"
+msgstr ""
+
+msgid "Inner before"
+msgstr "Внутренний до"
+
+msgid "Inner after"
+msgstr "Внутренний после"
+
+msgid "Pre"
+msgstr "До"
+
+msgid "Animation duration"
+msgstr "Продолжительность анимации"
+
+msgid "Circle 1"
+msgstr "Круг 1"
+
+msgid "Circle 2"
+msgstr "Круг 2"
+
+msgid "Circle 3"
+msgstr "Круг 3"
+
+msgid "Curly 1"
+msgstr "Кудрявый 1"
+
+msgid "Curly 2"
+msgstr "Кудрявый 2"
+
+msgid "Highlight 1"
+msgstr "Выделение 1"
+
+msgid "Highlight 2"
+msgstr "Выделение 2"
+
+msgid "Highlight 3"
+msgstr "Выделение 3"
+
+msgid "Line Through 1"
+msgstr "Сквозная линия 1"
+
+msgid "Line Through 2"
+msgstr "Сквозная линия 2"
+
+msgid "Line Through 3"
+msgstr "Сквозная линия 3"
+
+msgid "Rectangle 1"
+msgstr "Прямоугольник 1"
+
+msgid "Rectangle 2"
+msgstr "Прямоугольник 2"
+
+msgid "Underline 1"
+msgstr "Подчеркивание 1"
+
+msgid "Underline 2"
+msgstr "Подчеркивание 2"
+
+msgid "Underline 3"
+msgstr "Подчеркивание 3"
+
+msgid "Underline double 1"
+msgstr "Двойное подчеркивание 1"
+
+msgid "Underline double 2"
+msgstr "Двойное подчеркивание 2"
+
+msgid "ZigZag 1"
+msgstr "Зигзаг 1"
+
+msgid "ZigZag 2"
+msgstr "Зигзаг 2"
+
+msgid "ZigZag 3"
+msgstr "Зигзаг 3"
+
+msgid "Highlighted text"
+msgstr "Выделенный текст"
+
+msgid "Bring front"
+msgstr "Передняя часть"
+
+msgid "Puts the shape on top of the text."
+msgstr ""
+
+msgid "Loop delay"
+msgstr "Задержка цикла"
+
+msgid "HTML"
+msgstr ""
+
+msgid ""
+"Please note that <b>we do not support</b> the HTML layer and the 3rd party "
+"codes loaded by it. We only suggest using this layer if you are a developer. "
+"<br>Also, make sure your HTML code is valid! Invalid HTML codes can mess up "
+"the entire slide and the only way resolving this problem is deleting the "
+"slide."
+msgstr ""
+
+msgid "Item"
+msgstr "Элемент"
+
+msgid ""
+"Item 1\n"
+"Item 2\n"
+"Item 3"
+msgstr ""
+"Элемент 1\n"
+"Элемент 2\n"
+"Элемент 3"
+
+msgid "List type"
+msgstr "Тип списка"
+
+msgctxt "List layer type"
+msgid "None"
+msgstr "Нет"
+
+msgctxt "List layer type"
+msgid "Disc"
+msgstr "Маркер в виде точки"
+
+msgctxt "List layer type"
+msgid "Square"
+msgstr "Маркер в виде квадрата"
+
+msgctxt "List layer type"
+msgid "Circle"
+msgstr "Маркер в виде кружка"
+
+msgctxt "List layer type"
+msgid "Decimal"
+msgstr "Арабские числа"
+
+msgctxt "List layer type"
+msgid "Armenian"
+msgstr "Традиционная армянская нумерация"
+
+msgctxt "List layer type"
+msgid "Cjk-ideographic"
+msgstr "Простые иероглифические числа"
+
+msgctxt "List layer type"
+msgid "Decimal-leading-zero"
+msgstr "Арабские числа с нулем впереди для цифр меньше десяти"
+
+msgctxt "List layer type"
+msgid "Georgian"
+msgstr "Традиционная грузинская нумерация"
+
+msgctxt "List layer type"
+msgid "Hebrew"
+msgstr "Традиционная нумерация на иврите"
+
+msgctxt "List layer type"
+msgid "Hiragana"
+msgstr "Традиционная нумерация Хирагана"
+
+msgctxt "List layer type"
+msgid "Hiragana-iroha"
+msgstr "Традиционная нумерация Хирагана-ироха"
+
+msgctxt "List layer type"
+msgid "Katakana"
+msgstr "Традиционная нумерация Катакана"
+
+msgctxt "List layer type"
+msgid "Katakana-iroha"
+msgstr "Традиционная нумерация Катакана-ироха"
+
+msgctxt "List layer type"
+msgid "Lower-alpha"
+msgstr "Строчные латинские буквы"
+
+msgctxt "List layer type"
+msgid "Lower-greek"
+msgstr "Строчные греческие буквы"
+
+msgctxt "List layer type"
+msgid "Lower-latin"
+msgstr "Аналог строчных латинских букв"
+
+msgctxt "List layer type"
+msgid "Lower-roman"
+msgstr "Римские числа в нижнем регистре"
+
+msgctxt "List layer type"
+msgid "Upper-alpha"
+msgstr "Заглавные латинские буквы"
+
+msgctxt "List layer type"
+msgid "Upper-latin"
+msgstr "Аналог заглавных латинских букв"
+
+msgctxt "List layer type"
+msgid "Upper-roman"
+msgstr "Римские числа в верхнем регистре"
+
+msgid "Icon not found"
+msgstr "Значок не найден"
+
+#, fuzzy
+#| msgid "Previous label"
+msgid "Aria label"
+msgstr "Предыдущая метка"
+
+#, php-format
+msgid "Enter an %1$s aria-label attribute %2$s that describes the link."
+msgstr ""
+
+msgid "Iframe"
+msgstr ""
+
+msgid "iframe"
+msgstr ""
+
+msgid ""
+"Please note, that <b>we do not support</b> customized coding! The iframe "
+"layer often needs code customizations what you have to do yourself, so we "
+"only suggest using this layer if you are a developer!"
+msgstr ""
+
+msgid "iframe url"
+msgstr "URL-адрес iframe"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "You can disable the scroll on the iframe content."
+msgstr ""
+
+#, fuzzy
+#| msgid "iframe url"
+msgid "iframe title"
+msgstr "URL-адрес iframe"
+
+msgid "Image area"
+msgstr ""
+
+msgid "Image box"
+msgstr "Блок изображения"
+
+msgid ""
+"Positions the text inside the layer. Only works with left and right layout."
+msgstr ""
+
+msgid "Input"
+msgstr "Поле ввода"
+
+msgid "Container"
+msgstr "Контейнер"
+
+msgid "What are you looking for?"
+msgstr "Что вы ищете?"
+
+msgid ""
+"We only suggest using this layer if you are a developer, since the Input "
+"layer requires deep understanding how HTML form works."
+msgstr ""
+
+msgid "Placeholder text"
+msgstr "Замещающий текст"
+
+msgid "Form"
+msgstr ""
+
+msgid "Input name"
+msgstr "Имя поля ввода"
+
+msgid "Method"
+msgstr "Метод"
+
+msgid "Form action"
+msgstr "Действие формы"
+
+msgid "Parameters"
+msgstr "Параметры"
+
+msgid "Slide action to submit"
+msgstr "Действие для отправки"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Progress bar"
+msgstr "Индикатор прогресса"
+
+msgid "Over"
+msgstr "Внутри"
+
+msgid "Transition"
+msgstr ""
+
+msgid "Front image"
+msgstr ""
+
+msgid "Back image"
+msgstr ""
+
+msgid "Vertical flip"
+msgstr "Вертикальный переворот"
+
+msgid "Horizontal flip"
+msgstr "Горизонтальный переворот"
+
+msgid "Front image alt tag"
+msgstr ""
+
+msgid "Back image alt tag"
+msgstr ""
+
+msgid "MP4 video"
+msgstr "MP4 видео"
+
+msgid "Preload"
+msgstr "Предварительная загрузка"
+
+msgid "Joomla module"
+msgstr ""
+
+msgid ""
+"Please note, that <b>we do not support</b> the Joomla module layer!<br>The "
+"loaded module often needs code customizations what you have to do yourself, "
+"so we only suggest using this layer if you are a developer!"
+msgstr ""
+
+msgid "Position name or module ID"
+msgstr "Название позиции или идентификатор модуля"
+
+msgid ""
+"The position name of your module (for Loadposition and Modulepos) or the "
+"module's ID (Module)."
+msgstr ""
+
+msgid "Constrain ratio"
+msgstr "Сохранять пропорции"
+
+msgid "The slide scales horizontally and vertically with the same amount."
+msgstr ""
+
+msgid "Height based on"
+msgstr ""
+
+msgid ""
+"The real height makes your slider have the height of the browser without the "
+"URL bar, while the CSS 100vh makes it exactly as big as the browser height."
+msgstr ""
+
+msgid "Decrease height"
+msgstr ""
+
+msgid ""
+"You can make your slider smaller than the full height of the browser by a "
+"given pixel, for example, to fit below your menu without causing scrollbar."
+msgstr ""
+
+msgid "Decrease height by selectors"
+msgstr ""
+
+msgid "Use global focus selectors"
+msgstr ""
+
+msgid "Use local selectors"
+msgstr ""
+
+msgid ""
+"You can make your slider smaller than the full height of the browser, for "
+"example, to fit below your menu without causing scrollbar."
+msgstr ""
+
+msgid "CSS selector (sum of heights)"
+msgstr ""
+
+msgctxt "Slider type"
+msgid "Carousel slider"
+msgstr ""
+
+msgid "Slide size"
+msgstr "Размер слайда"
+
+msgid "Max pane width"
+msgstr ""
+
+msgid ""
+"You can use this option to limit how many slides can show up next to each "
+"other."
+msgstr ""
+
+msgid "Minimum slide distance"
+msgstr "Минимальное расстояние между слайдами"
+
+msgid "The minimum space between two slides."
+msgstr ""
+
+msgid "Side spacing"
+msgstr ""
+
+msgid "Desktop side spacing"
+msgstr ""
+
+msgid ""
+"You can create a fix distance between the slider and the slides where your "
+"controls are which appear on this device. This way your controls won't cover "
+"the slide content."
+msgstr ""
+
+msgid "Tablet side spacing"
+msgstr ""
+
+msgid "Mobile side spacing"
+msgstr ""
+
+#, fuzzy
+#| msgid "Slider background color"
+msgid "Slide background color"
+msgstr "Цвет фона слайдера"
+
+#, fuzzy
+#| msgid "Slider border"
+msgid "Slide border width"
+msgstr "Границы слайдера"
+
+#, fuzzy
+#| msgid "Slider border"
+msgid "Slide border color"
+msgstr "Границы слайдера"
+
+#, fuzzy
+#| msgid "Slide order saved."
+msgid "Slide border radius"
+msgstr "Порядок слайдов сохранён."
+
+#, fuzzy
+#| msgid "Slider border"
+msgid "Slider border width"
+msgstr "Границы слайдера"
+
+#, fuzzy
+#| msgid "Slider border"
+msgid "Slider border color"
+msgstr "Границы слайдера"
+
+#, fuzzy
+#| msgid "Slider border"
+msgid "Slider border radius"
+msgstr "Границы слайдера"
+
+msgid "The Single Switch setting can only move the slides horizontally!"
+msgstr ""
+
+msgid ""
+"This option will create a complete round from your slides if you have enough "
+"slides. If you don't have enough slides, you could consider duplicating all "
+"the slides or just add more slides until you will get a carousel round."
+msgstr ""
+"Этот параметр позволяет создать полный раунд из слайдов, если у вас есть "
+"достаточное количество слайдов. Если у вас нет достаточного количества "
+"слайдов, вы могли бы рассмотреть возможность дублирования всех слайдов или "
+"просто добавить слайды, пока вы не получите карусель раунд."
+
+msgid "Single switch"
+msgstr "Прокрутка с шагом в один слайд"
+
+msgid "It switches one slide instead of moving all the visible slides."
+msgstr "Переключение одного слайда вместо перемещения всех видимых слайдов."
+
+msgid "Justify slides"
+msgstr ""
+
+msgctxt "Slider type"
+msgid "Showcase slider"
+msgstr ""
+
+msgid "Slide distance"
+msgstr "Расстояние между слайдами"
+
+msgid "Fix space between the slides."
+msgstr ""
+
+msgid "Slide CSS Preset"
+msgstr ""
+
+#, fuzzy
+#| msgid "No animation"
+msgid "Showcase animation"
+msgstr "Без анимации"
+
+msgid "Horizontal showcase"
+msgstr "Горизонтальная витрина"
+
+msgid "Vertical showcase"
+msgstr "Вертикальная витрина"
+
+msgid "Horizontal cover flow"
+msgstr "Горизонтальный поток обложек"
+
+msgid "Vertical cover flow"
+msgstr "Вертикальный поток обложек"
+
+msgid "Switch with next/previous slides"
+msgstr ""
+
+msgid ""
+"Clicking on any slide that's not in the middle will make the slider switch "
+"to that slide. With this option you can disable this behavior, for example, "
+"to allow clicking on buttons on the visible slides."
+msgstr ""
+
+msgid "Save as new animation"
+msgstr "Сохранить как новую анимацию"
+
+msgid "Sets"
+msgstr "Наборы"
+
+msgid "Text animation settings"
+msgstr ""
+
+msgid "Words"
+msgstr "Слова"
+
+msgid "Sort"
+msgstr "Сортировать"
+
+msgid "Reversed"
+msgstr "Обратный"
+
+msgid "Side shifted"
+msgstr "Смещение с бока"
+
+msgid "Center shifted"
+msgstr "Сместить центра"
+
+msgid "Stagger"
+msgstr "Шатание"
+
+msgid "Turn"
+msgstr "Очередь"
+
+msgid "Prev"
+msgstr ""
+
+msgid "Next"
+msgstr "Дальше"
+
+msgid "Previous label"
+msgstr "Предыдущая метка"
+
+msgid "Next label"
+msgstr "Следующая метка"
+
+msgid "To normal"
+msgstr ""
+
+msgid "To fullscreen"
+msgstr "Во всю ширину экрана"
+
+msgid "Fullscreen"
+msgstr ""
+
+#, fuzzy
+#| msgid "To fullscreen"
+msgid "Exit full screen"
+msgstr "Во всю ширину экрана"
+
+#, fuzzy
+#| msgid "Full screen"
+msgid "Enter Full screen"
+msgstr "Полноэкранный просмотр"
+
+#, php-format
+msgid ""
+"%1$s %2$s does not support the full screen API %3$s so other elements of the "
+"page may overlap the slider in Fullscreen mode. To avoid such problems, we "
+"suggest hiding the Fullscreen control from mobile view!"
+msgstr ""
+
+msgid "Indicator"
+msgstr "Индикатор"
+
+msgid "Line thickness"
+msgstr "Толщина линии"
+
+msgid "Track color"
+msgstr ""
+
+msgid "Bar color"
+msgstr ""
+
+#~ msgid "m-d-Y"
+#~ msgstr "м-д-Г"
+
+#~ msgid "Async"
+#~ msgstr "Асинхронно"
+
+#~ msgid "Combine"
+#~ msgstr "Объединять в один файл"
+
+#~ msgid "Available by date"
+#~ msgstr "Доступно на дату"
+
+#~ msgid "Requires shipping"
+#~ msgstr "Требуется доставка"
+
+#~ msgid "Approved"
+#~ msgstr "Одобренно"
+
+#~ msgid "Show hidden"
+#~ msgstr "Показать скрытые"
+
+#~ msgid "Priority"
+#~ msgstr "Приоритет"
+
+#~ msgid "Tile"
+#~ msgstr "Плитки"
+
+#~ msgid "Generate"
+#~ msgstr "Создать"
+
+#~ msgid "Desktop image is empty!"
+#~ msgstr "Изображение для настольного компьютера отсутствует!"
+
+#, fuzzy
+#~| msgid "Tablet Retina"
+#~ msgid "Tablet retina"
+#~ msgstr "Планшет с дисплеем Retina"
+
+#, fuzzy
+#~| msgid "Mobile Retina"
+#~ msgid "Mobile retina"
+#~ msgstr "Телефон с дисплеем Retina"
+
+#, fuzzy
+#~| msgid "Watch now"
+#~ msgid "Watch video"
+#~ msgstr "Смотреть"
+
+#, fuzzy
+#~| msgid "Mouse enter position"
+#~ msgid "Absolute position"
+#~ msgstr "Входная позиция мыши"
+
+#, fuzzy
+#~| msgid "Read more"
+#~ msgid "Read docs"
+#~ msgstr "Читать далее"
+
+#~ msgid "Loading animation"
+#~ msgstr "Анимация загрузки"
+
+#~ msgid "Hide until complete load"
+#~ msgstr "Скрыть до полной загрузки"
+
+#~ msgid "Tablet scale"
+#~ msgstr "Масштабирование на планшете"
+
+#~ msgid "Mobile scale"
+#~ msgstr "Масштабирование на телефоне"
+
+#~ msgid "Load jQuery on frontend"
+#~ msgstr "Загружать jQuery на сайте"
+
+#~ msgid "Load GSAP on frontend"
+#~ msgstr "Загружать GSAP на сайте"
+
+#~ msgid "CSS mode"
+#~ msgstr "Режим CSS"
+
+#~ msgid "Inline"
+#~ msgstr "Встроенный"
+
+#~ msgid "Inline at head"
+#~ msgstr "Встраивать в head"
+
+#~ msgid "Parallax overlap"
+#~ msgstr "Перекрытие параллакса"
+
+#~ msgid "Background image dynamic height"
+#~ msgstr "Динамическая высота фонового изображения"
+
+#~ msgid ""
+#~ "The height of your slides changes according to the height of the "
+#~ "background image."
+#~ msgstr ""
+#~ "Высота слайдов изменяется в зависимости от высоты фонового изображения."
+
+#, fuzzy
+#~| msgid "Tablet scale"
+#~ msgid "Tablet size"
+#~ msgstr "Масштабирование на планшете"
+
+#, fuzzy
+#~| msgid "Mobile scale"
+#~ msgid "Mobile size"
+#~ msgstr "Масштабирование на телефоне"
+
+#~ msgid "Minimum thumbnail count"
+#~ msgstr "Минимальное количество миниатюр"
+
+#~ msgid "Invert group direction"
+#~ msgstr "Инвертировать направление группы"
+
+#, fuzzy
+#~| msgid "Text Color"
+#~ msgid "Text color"
+#~ msgstr "Цвет текста"
+
+#~ msgctxt "Slider type"
+#~ msgid "Accordion"
+#~ msgstr "Аккордеон"
+
+#~ msgid "Dark"
+#~ msgstr "Темная"
+
+#~ msgid "Outer color"
+#~ msgstr "Внешний цвет"
+
+#~ msgid "Inner color"
+#~ msgstr "Внутренний цвет"
+
+#~ msgid "Tab background"
+#~ msgstr "Фон вкладки"
+
+#~ msgid "Slide margin"
+#~ msgstr "Внешний отступы слайда"
+
+#~ msgid "Outer"
+#~ msgstr "Внешний"
+
+#~ msgid "Inner"
+#~ msgstr "Внутренний"
+
+#~ msgid "Slider background color"
+#~ msgstr "Цвет фона слайдера"
+
+#~ msgid "Show Joomla admin footer"
+#~ msgstr "Показывать нижний колонтитул Joomla"
+
+#~ msgid "Smooth scroll to this element"
+#~ msgstr "Плавная прокрутка к этому элементу"
+
+#~ msgid "After slider"
+#~ msgstr "После слайдера"
+
+#~ msgid ""
+#~ "The current slider will not start loading until the set slider is loaded "
+#~ "completely."
+#~ msgstr ""
+#~ "Текущий слайдер не начнет загружаться, пока набор слайдеров не будет "
+#~ "загружен полностью."
+
+#~ msgid "Slider ID"
+#~ msgstr "ID слайдера"
+
+#, fuzzy
+#~| msgid "Image manager"
+#~ msgid "manage pages"
+#~ msgstr "Менеджер изображений"
+
+#~ msgid "Server side mobile detect"
+#~ msgstr "Определение телефона на стороне сервера"
+
+#~ msgid "Bottom Left"
+#~ msgstr "Внизу слева"
+
+#~ msgid "Bottom Right"
+#~ msgstr "Внизу справа"
+
+#~ msgid ""
+#~ "This alias can be used for your slider's shortcode, but you can also use "
+#~ "it to create an element for anchors with the next on/off options."
+#~ msgstr ""
+#~ "Этот псевдоним может быть использован для шорт-кода слайдера, но вы также "
+#~ "можете использовать его для создания элемента для якоря со следующими "
+#~ "опциями включения/выключения."
+
+#~ msgid "Ticket price"
+#~ msgstr "Стоимость билета"
+
+#~ msgid "Reset design to default"
+#~ msgstr "Восстановить дизайн по умолчанию"
+
+#~ msgid "Save design as new preset"
+#~ msgstr "Сохранить дизайн как новую предустановку"
+
+#~ msgid "Load design"
+#~ msgstr "Загрузить дизайн"
+
+#~ msgid "Save as new"
+#~ msgstr "Сохранить как новый"
+
+#~ msgid "Keyword"
+#~ msgstr "Ключевое слово"
+
+#~ msgid "No search term specified. Showing recent items."
+#~ msgstr "Не указан поисковый запрос. Отображение последних элементов."
+
+#, javascript-format
+#~ msgid "Showing items match for \"%s\""
+#~ msgstr "Отображение элементов, соответствующих: \"%s\""
+
+#~ msgid "Create lightbox from image, video or iframe."
+#~ msgstr "Создать лайтбокс из изображения, видео или iframe."
+
+#~ msgid "Create action for click or tap."
+#~ msgstr "Создать действие для клика или тапа."
+
+#~ msgid "One per line"
+#~ msgstr "По одному в каждой строке"
+
+#~ msgid "Titles"
+#~ msgstr "Названия"
+
+#~ msgid "Scrolls to the top of the page"
+#~ msgstr "Прокрутка к началу страницы"
+
+#~ msgid "Scrolls to the bottom of the page"
+#~ msgstr "Прокрутка к нижней части страницы"
+
+#~ msgid "Delete and never ask for confirmation again"
+#~ msgstr "Удалить и никогда не запрашивать подтверждение снова"
+
+#~ msgid "Are you sure you want to delete?"
+#~ msgstr "Вы уверены, что хотите удалить?"
+
+#~ msgid "Show only errors"
+#~ msgstr "Показывать только ошибки"
+
+#~ msgid "There are no messages to display."
+#~ msgstr "Нет сообщений для отображения."
+
+#~ msgid "Got it!"
+#~ msgstr "Понятно"
+
+#~ msgid "success"
+#~ msgstr "успешно"
+
+#~ msgid "error"
+#~ msgstr "ошибка"
+
+#~ msgid "notice"
+#~ msgstr "примечание"
+
+#~ msgid "Drop files anywhere to upload or"
+#~ msgstr "Перетащите файлы в любое место для загрузки или"
+
+#~ msgid "Select files"
+#~ msgstr "Выбрать файлы"
+
+#~ msgid "font"
+#~ msgstr "шрифт"
+
+#~ msgid "fonts"
+#~ msgstr "шрифты"
+
+#~ msgid "image"
+#~ msgstr "изображение"
+
+#~ msgid "images"
+#~ msgstr "изображения"
+
+#~ msgid "visual"
+#~ msgstr "визуальный эффект"
+
+#~ msgid "visuals"
+#~ msgstr "визуальные эффекты"
+
+#~ msgid "Overwrite current"
+#~ msgstr "Заменить текущий"
+
+#, javascript-format
+#~ msgid "%s changed - %s"
+#~ msgstr "%s изменено - %s"
+
+#~ msgid "Set renamed"
+#~ msgstr "Набор переименован"
+
+#~ msgid "Unable to delete the set"
+#~ msgstr "Не удалось удалить набор"
+
+#~ msgid "Add new"
+#~ msgstr "Добавить новый"
+
+#, javascript-format
+#~ msgid "%s sets"
+#~ msgstr "Набор(ы) - %s"
+
+#~ msgid "Set added"
+#~ msgstr "Набор добавлен"
+
+#~ msgid "Rename set"
+#~ msgstr "Переименовать набор"
+
+#, javascript-format
+#~ msgid "Do you really want to delete the set and all associated %s?"
+#~ msgstr "Вы действительно хотите удалить набор и связанный(е) с ним %s"
+
+#~ msgid "style"
+#~ msgstr "стиль"
+
+#~ msgid "styles"
+#~ msgstr "стили"
+
+#~ msgid "Joomla"
+#~ msgstr "Joomla"
+
+#~ msgid "Media Library"
+#~ msgstr "Медиа библиотека"
+
+#~ msgid "Save as new font"
+#~ msgstr "Сохранить как новый шрифт"
+
+#~ msgid "Apply as linked"
+#~ msgstr "Применить как связанный"
+
+#~ msgid "Save as new style"
+#~ msgstr "Сохранить как новый стиль"
+
+#~ msgid "Log out"
+#~ msgstr "Выйти"
+
+#~ msgid "Extra CSS"
+#~ msgstr "Дополнительные правила CSS"
+
+#~ msgid "Font sets"
+#~ msgstr "Наборы шрифтов"
+
+#~ msgid "Login"
+#~ msgstr "Вход"
+
+#~ msgid "Password"
+#~ msgstr "Пароль"
+
+#~ msgid "Accordion Slide Title"
+#~ msgstr "Название слайда аккордеона"
+
+#~ msgid "Folders"
+#~ msgstr "Каталоги"
+
+#~ msgid "No image"
+#~ msgstr "Нет изображения"
+
+#~ msgid "Manage"
+#~ msgstr "Управлять"
+
+#~ msgid "Choose a file to import"
+#~ msgstr "Выберите файл для импорта"
+
+#~ msgid "Expert"
+#~ msgstr "Эксперт"
+
+#~ msgid "Limited access"
+#~ msgstr "Ограниченный доступ"
+
+#~ msgid "Access to this resource not allowed!"
+#~ msgstr "Доступ к этому ресурсу запрещен!"
+
+#~ msgid ""
+#~ "The <a href=\"http://php.net/manual/en/filesystem.configuration.php#ini."
+#~ "allow-url-fopen\" target=\"_blank\">allow_url_fopen</a> is not turned on "
+#~ "in your server, which is necessary to read rss feeds. You should contact "
+#~ "your server host, and ask them to enable it!"
+#~ msgstr ""
+#~ "Параметр <a href=\"http://php.net/manual/en/filesystem.configuration."
+#~ "php#ini.allow-url-fopen\" target=\"_blank\">allow_url_fopen</a>, "
+#~ "необходимый для чтения rss-каналов, не включен на вашем сервере. Вы "
+#~ "должны связаться со своим хостинг-провайдером и попросить включить его!"
+
+#~ msgid "Multiple animations"
+#~ msgstr "Множественная анимация"
+
+#~ msgid "Single animation"
+#~ msgstr "Одиночная анимация"
+
+#~ msgid "To chain layers together, please switch to desktop portrait mode!"
+#~ msgstr ""
+#~ "Чтобы объединить слои вместе, перейдите в режим книжной ориентации для "
+#~ "настольного компьютера!"
+
+#~ msgid "Pick the child layer!"
+#~ msgstr "Выберите дочерний слой!"
+
+#~ msgid "There is no layer available to be child of the selected layer!"
+#~ msgstr ""
+#~ "Отсутствует слой, который может быть дочерним элементом выбранного слоя!"
+
+#~ msgid "LOOP"
+#~ msgstr "ЦИКЛ"
+
+#~ msgid "Delete layer"
+#~ msgstr "Удалить слой"
+
+#~ msgid "Duplicate layer"
+#~ msgstr "Дублировать слой"
+
+#~ msgctxt "Layer group"
+#~ msgid "Content"
+#~ msgstr "Содержимое"
+
+#~ msgid "Smart Snap"
+#~ msgstr "Интеллектуальная привязка"
+
+#~ msgid "Dark Mode"
+#~ msgstr "Темный режим"
+
+#~ msgid "Show Guides"
+#~ msgstr "Показать направляющие"
+
+#~ msgid "Lock Guides"
+#~ msgstr "Закрепить направляющие"
+
+#~ msgid "Activate Now"
+#~ msgstr "Активировать сейчас"
+
+#~ msgid "Choose the group"
+#~ msgstr "Выберите группу"
+
+#~ msgid "Choose the variable"
+#~ msgstr "Выберите переменную"
+
+#~ msgid "Split by chars"
+#~ msgstr "Разделить по символам"
+
+#~ msgid "Length"
+#~ msgstr "Длина"
+
+#~ msgid "Index"
+#~ msgstr "Индекс"
+
+#~ msgid "Insert variable"
+#~ msgstr "Вставить переменную"
+
+#~ msgctxt "Slider type"
+#~ msgid "Block"
+#~ msgstr "Блок"
+
+#~ msgctxt "Slider type"
+#~ msgid "Carousel"
+#~ msgstr "Карусель"
+
+#~ msgctxt "Slider type"
+#~ msgid "Showcase"
+#~ msgstr "Витрина"
+
+#~ msgid "Thumbnail - horizontal"
+#~ msgstr "Миниатюра - горизонтально"
+
+#~ msgid "Thumbnail - vertical"
+#~ msgstr "Миниатюра - вертикально"
+
+#~ msgid "Horizontal accordion"
+#~ msgstr "Горизонтальный аккордеон"
+
+#~ msgid "Vertical accordion"
+#~ msgstr "Вертикальный аккордеон"
+
+#~ msgid "Create Slider"
+#~ msgstr "Создать слайдер"
+
+#~ msgid "Slider name"
+#~ msgstr "Название слайдера"
+
+#~ msgid "Import Sample Sliders"
+#~ msgstr "Импортировать примеры слайдов"
+
+#~ msgid "Add to group"
+#~ msgstr "Добавить в группу"
+
+#, javascript-format
+#~ msgid ""
+#~ "You can generate at %s Then <i>Download current config (json)</i> and "
+#~ "paste content into the field."
+#~ msgstr ""
+#~ "Вы можете сгенерировать в %s. Затем <i>скачайте текущую конфигурацию "
+#~ "(json)</i> и вставьте содержимое в поле."
+
+#~ msgid "Quick Edit - Slides"
+#~ msgstr "Быстрое редактирование слайдов"
+
+#~ msgid "Copy slide to ..."
+#~ msgstr "Копировать слайд в ..."
+
+#~ msgid "Add video"
+#~ msgstr "Добавить видео"
+
+#~ msgid "This video url is not supported!"
+#~ msgstr "Этот URL-адрес видео не поддерживается!"
+
+#~ msgid "Join the Smart Slider community!"
+#~ msgstr "Присоединяйтесь к сообществу Smart Slider!"
+
+#~ msgid "Visit site"
+#~ msgstr "Посетить сайт"
+
+#~ msgid "Choose dynamic source"
+#~ msgstr "Выберите динамический источник"
+
+#~ msgid "No conflicts detected"
+#~ msgstr "Конфликты не обнаружены"
+
+#~ msgid "Hey! How can we help you today?"
+#~ msgstr "Привет! Чем мы можем помочь вам?"
+
+#~ msgid "Selected Articles"
+#~ msgstr "Избранные статьи"
+
+#~ msgid "Log in"
+#~ msgstr "Вход"
+
+#~ msgid "Options"
+#~ msgstr "Параметры"
+
+#~ msgid "Secondary server"
+#~ msgstr "Вторичный сервер"
+
+#~ msgid "Force english backend"
+#~ msgstr ""
+#~ "Принудительно включить английский язык в административной части компонента"
+
+#~ msgid "CSS"
+#~ msgstr "CSS"
+
+#~ msgid "Load Font Awesome on frontend when required"
+#~ msgstr "Загружать Font Awesome на сайте при необходимости"
+
+#~ msgid "Clean Curl proxy"
+#~ msgstr "Чистый Curl прокси"
+
+#~ msgid "Clear sliders"
+#~ msgstr "Очистить слайды"
+
+#~ msgid "Clear generators"
+#~ msgstr "Сбросить генераторы"
+
+#~ msgid "Fonts Configuration"
+#~ msgstr "Настройка Шрифтов"
+
+#~ msgid "Framework settings"
+#~ msgstr "Настройки фреймворка"
+
+#~ msgid "Clear slider cache"
+#~ msgstr "Очистить кэш слайдера"
+
+#~ msgid "Export slider as HTML"
+#~ msgstr "Экспортировать слайдер в HTML"
+
+#~ msgid "Export as HTML"
+#~ msgstr "Экспорт в HTML"
+
+#~ msgid "Duplicate group"
+#~ msgstr "Дублировать группу"
+
+#~ msgid "Delete group"
+#~ msgstr "Удалить группу"
+
+#~ msgid "Live Preview"
+#~ msgstr "Предпросмотр"
+
+#~ msgid "Only .ss3 files can be uploaded!"
+#~ msgstr "Загружены могут быть только файлы .ss3!"
+
+#~ msgid "Import slider"
+#~ msgstr "Импортировать слайдер"
+
+#~ msgid "Check for updates"
+#~ msgstr "Проверить наличие обновлений"
+
+#, php-format
+#~ msgid "Version %s available!"
+#~ msgstr "Доступна версия %s!"
+
+#~ msgid "Update"
+#~ msgstr "Обновить"
+
+#~ msgid "Instructions"
+#~ msgstr "Инструкции"
+
+#~ msgid "You can upload the files which exported by Smart Slider 3."
+#~ msgstr "Вы можете загрузить файлы, экспортированные из Smart Slider 3."
+
+#, php-format
+#~ msgid ""
+#~ "Smart Slider export files are listed from the directory only with <i>."
+#~ "ss3</i> extension: %s"
+#~ msgstr ""
+#~ "Файлы экспорта Smart Slider, находящиеся в каталоге с расширением <i>."
+#~ "ss3</i>: %s"
+
+#~ msgid "Version"
+#~ msgstr "Версия"
+
+#~ msgid "Activate Smart Slider 3 PRO"
+#~ msgstr "Активация Smart Slider 3 PRO"
+
+#~ msgid "Activate now"
+#~ msgstr "Активировать сейчас"
+
+#, php-format
+#~ msgid "%d slide(s) modified!"
+#~ msgstr "%d слайд(а,ов) изменен(о)!"
+
+#~ msgid "This feature requires valid license key!"
+#~ msgstr "Эта функция требует действительного лицензионного ключа!"
+
+#~ msgid "Add empty slide"
+#~ msgstr "Добавить пустой слайд"
+
+#~ msgid "Add layer"
+#~ msgstr "Добавить слой"
+
+#~ msgid "Structure"
+#~ msgstr "Структура"
+
+#~ msgid "Image layer"
+#~ msgstr "Слой изображения"
+
+#~ msgid "Button layer"
+#~ msgstr "Слой кнопки"
+
+#~ msgid "Layer list"
+#~ msgstr "Список слоев"
+
+#~ msgctxt "Structure"
+#~ msgid "Basic"
+#~ msgstr "Основное"
+
+#~ msgctxt "Structure"
+#~ msgid "Special"
+#~ msgstr "Специальный"
+
+#~ msgid "Canvas settings"
+#~ msgstr "Параметры холста"
+
+#~ msgid "Create layer chain relation - align layers to each other"
+#~ msgstr ""
+#~ "Создать связь цепочки слоев - выравнять слои относительно друг друга"
+
+#~ msgid "Horizontal align - Left"
+#~ msgstr "Выравнивание по горизонтали - Слева"
+
+#~ msgid "Horizontal align - Center"
+#~ msgstr "Выравнивание по горизонтали - По центру"
+
+#~ msgid "Horizontal align - Right"
+#~ msgstr "Выравнивание по горизонтали - Справа"
+
+#~ msgid "Vertical align - Top"
+#~ msgstr "Выравнивание по вертикали - Сверху"
+
+#~ msgid "Vertical align - Middle"
+#~ msgstr "Выравнивание по вертикали - Посередине"
+
+#~ msgid "Vertical align - Bottom"
+#~ msgstr "Выравнивание по вертикали - Снизу"
+
+#~ msgid "Show layer on selected devices"
+#~ msgstr "Показывать слой на выбранных устройствах"
+
+#~ msgid "Adaptive (Off: auto-scaled, On: fixed) font size"
+#~ msgstr ""
+#~ "Адаптивный (Выключено: автомасштабированный, Включено: фиксированный) "
+#~ "размер шрифта"
+
+#~ msgid "Font size scaling - enlarge or shrink text on each device"
+#~ msgstr ""
+#~ "Масштабирование размера шрифта - увеличение или уменьшение размера текста "
+#~ "на каждом устройстве"
+
+#~ msgid "Clear device specific layer settings"
+#~ msgstr "Очистить настройки слоя для конкретного устройства"
+
+#~ msgid "Responsive tricks"
+#~ msgstr "Трюки по созданию адаптивности"
+
+#~ msgid "Canvas"
+#~ msgstr "Холст"
+
+#~ msgid "Back to slider"
+#~ msgstr "Назад к слайдеру"
+
+#~ msgid "Duplicate slide"
+#~ msgstr "Дублировать слайд"
+
+#~ msgid ""
+#~ "Start building your first slide by watching the video and learn the basic "
+#~ "steps of to the Slide editing. Smart Slider 3.2 introduces the new "
+#~ "Content Builder mode which is a block-based system where you can add "
+#~ "rows, columns and of course layers to the slide."
+#~ msgstr ""
+#~ "Начните создавать свой первый слайд, просматривая видео и изучая основные "
+#~ "этапы редактирования слайдов. Smart Slider 3.2 представляет новый режим "
+#~ "Content Builder (конструктор содержимого), который представляет собой "
+#~ "основанную на блоках систему, в которой вы можете добавлять на слайд "
+#~ "строки, столбцы и, конечно, слои."
+
+#~ msgid "Split text settings"
+#~ msgstr "Параметры разделения текста"
+
+#, php-format
+#~ msgid "Update found, <a href=\"%s\">Click here to update!</a>"
+#~ msgstr ""
+#~ "Найдено обновление, <a href=\"%s\">Кликните здесь, чтобы установить "
+#~ "обновление!</a>"
+
+#~ msgid "You have the latest version!"
+#~ msgstr "У вас последняя версия!"
+
+#~ msgid "Smart Slider 3 updated to the latest version!"
+#~ msgstr "Smart Slider 3 обновлен до последней версии!"
+
+#~ msgctxt "Layer group"
+#~ msgid "Image"
+#~ msgstr "Изображение"
+
+#~ msgctxt "Slide item"
+#~ msgid "Image"
+#~ msgstr "Изображение"
+
+#~ msgctxt "Slide item"
+#~ msgid "Video"
+#~ msgstr "Видео"
+
+#~ msgctxt "Slider type"
+#~ msgid "Simple"
+#~ msgstr "Простой"
+
+#~ msgid "Unit"
+#~ msgstr "Единица"
+
+#~ msgid "UP"
+#~ msgstr "ВВЕРХ"
+
+#~ msgid "Rate your experience!"
+#~ msgstr "Оцените свой опыт!"
+
+#~ msgid "Item defaults"
+#~ msgstr "Настройки по умолчанию"
+
+#, php-format
+#~ msgid "%s generator"
+#~ msgstr "Генератор %s"
+
+#~ msgid "Add Slide"
+#~ msgstr "Добавить Слайд"
+
+#~ msgid "Static Overlay"
+#~ msgstr "Статическое наложение"
+
+#~ msgid "Dynamic"
+#~ msgstr "Динамический"
+
+#, php-format
+#~ msgid "Slide #%d"
+#~ msgstr "Слайд #%d"
+
+#~ msgid "Drop images to create slides"
+#~ msgstr "Перетащите изображения для создания слайдов"
+
+#~ msgid " You should switch to Simple Type to <b>display all slides</b>!"
+#~ msgstr ""
+#~ " Вы должны переключиться на Простой тип для <b>отображения всех слайдов</"
+#~ "b>!"
+
+#~ msgid "Template library"
+#~ msgstr "Библиотека шаблонов"
+
+#~ msgid "Why upgrade to PRO?"
+#~ msgstr "Зачем переходить на PRO?"
+
+#~ msgid "See all features"
+#~ msgstr "Показать все функции"
+
+#~ msgid "Buy Smart Slider 3 Pro!"
+#~ msgstr "Купить Smart Slider 3 Pro!"
+
+#~ msgid "Go Pro!"
+#~ msgstr "Обновить до Pro!"
+
+#~ msgid "Media"
+#~ msgstr "Медиа"
+
+#~ msgid "Empty title"
+#~ msgstr "Пустой заголовок"
+
+#~ msgctxt "Slide item"
+#~ msgid "Heading"
+#~ msgstr "Заголовок"
+
+#~ msgctxt "Slide item"
+#~ msgid "Button"
+#~ msgstr "Кнопка"
+
+#~ msgctxt "Slide item"
+#~ msgid "List"
+#~ msgstr "Список"
+
+#~ msgid "My split text animations"
+#~ msgstr "Мои анимации разделения текста"
+
+#~ msgid "Design"
+#~ msgstr "Дизайн"
+
+#~ msgid "In"
+#~ msgstr "В"
+
+#~ msgid "Out"
+#~ msgstr "Из"
+
+#~ msgid "Special zero"
+#~ msgstr "Специальный ноль"
+
+#~ msgid "loop"
+#~ msgstr "цикл"
+
+#~ msgid "Hide layer if provided variable is empty"
+#~ msgstr "Скрыть слой, если указанная переменная пуста"
+
+#~ msgid "Parallax depth"
+#~ msgstr "Глубина параллакса"
+
+#~ msgid "Adaptive sizing"
+#~ msgstr "Адаптивное масштабирование"
+
+#~ msgid "Show on"
+#~ msgstr "Показать"
+
+#~ msgid "CSS class"
+#~ msgstr "Класс CSS"
+
+#~ msgid "Reset"
+#~ msgstr "Сброс"
+
+#~ msgid "Smart Slider deactivated on this site!"
+#~ msgstr "Смарт-слайдер деактивирован на этом сайте!"
+
+#~ msgid "Show help beacon"
+#~ msgstr "Показывать кнопку справки (спасательный круг внизу справа)"
+
+#~ msgid "Hardware acceleration on sliders"
+#~ msgstr "Аппаратное ускорение для слайдеров"
+
+#~ msgid "Send slide as file"
+#~ msgstr "Отправлять слайд в виде файла"
+
+#~ msgid "Open preview in new window"
+#~ msgstr "Открывать предпросмотр в новом окне"
+
+#~ msgid "Show in WordPress admin bar"
+#~ msgstr "Показывать в панели администратора WordPress"
+
+#~ msgid "WordPress - Create widget area"
+#~ msgstr "WordPress - создать область виджета"
+
+#~ msgid "Render sliders as iframe in AJAX calls"
+#~ msgstr "Отображать слайдеры как iframe в AJAX вызовах"
+
+#~ msgid "Force Joomla RTL backend"
+#~ msgstr "Принудительно включить RTL в административной части Joomla "
+
+#~ msgid "Lightbox - Mobile - Open embeds on new tab"
+#~ msgstr "Лайтбокс - Телефон - Открывать встроенные элементы в новой вкладке"
+
+#~ msgid "YouTube privacy enhanced mode"
+#~ msgstr "Режим повышенной конфиденциальности YouTube"
+
+#~ msgid "Responsive mode"
+#~ msgstr "Адаптивный режим"
+
+#~ msgid "Based on"
+#~ msgstr "На основе"
+
+#~ msgid "Real device detection"
+#~ msgstr "Определение реального устройства"
+
+#~ msgid "Maximum screen width"
+#~ msgstr "Максимальная ширина экрана"
+
+#~ msgid "Combined"
+#~ msgstr "Комбинированный способ"
+
+#~ msgid "Desktop portrait"
+#~ msgstr "Настольный компьютер - Книжная ориентация"
+
+#~ msgid "Tablet landscape"
+#~ msgstr "Планшет - Альбомная ориентация"
+
+#~ msgid "Tablet portrait"
+#~ msgstr "Планшет - Книжная ориентация"
+
+#~ msgid "Mobile landscape"
+#~ msgstr "Телефон - Альбомная ориентация"
+
+#~ msgid "Mobile portrait"
+#~ msgstr "Телефон - Книжная ориентация"
+
+#~ msgid "Cache"
+#~ msgstr "Кэш"
+
+#~ msgid "Use as ID on element before slider"
+#~ msgstr "Использовать как ID элемента перед слайдером"
+
+#~ msgid ""
+#~ "If the size of your image is not the same as your slide's, you can "
+#~ "improve the result with the filling modes."
+#~ msgstr ""
+#~ "Если размер вашего изображения не совпадает с размером вашего слайда, вы "
+#~ "можете улучшить результат с помощью режимов заполнения."
+
+#~ msgid "Slider Type"
+#~ msgstr "Тип слайдера"
+
+#~ msgid "Show on devices"
+#~ msgstr "Показывать на устройствах"
+
+#~ msgid "Min. font size"
+#~ msgstr "Мин. размер шрифта"
+
+#~ msgid "Desktop landscape slider size"
+#~ msgstr "Размер слайдера на настольном компьютере в альбомной ориентации"
+
+#~ msgid "Finish autoplay on"
+#~ msgstr "Завершение автовоспроизведения"
+
+#~ msgid "Count"
+#~ msgstr "Количество"
+
+#~ msgid "slide count"
+#~ msgstr "количество слайдов"
+
+#~ msgid "slide index"
+#~ msgstr "индекс слайда"
+
+#~ msgid "last slide"
+#~ msgstr "последний слайд"
+
+#~ msgid "next slide"
+#~ msgstr "следующий слайд"
+
+#~ msgid "Allow restart after finish"
+#~ msgstr "Разрешить перезапуск после завершения"
+
+#~ msgid "Stop autoplay on"
+#~ msgstr "Остановка автовоспроизведения"
+
+#~ msgid "Resume autoplay on"
+#~ msgstr "Возобновление автовоспроизведения"
+
+#~ msgid "Media ended"
+#~ msgstr "Медиа остановлено"
+
+#~ msgid "Play on first load"
+#~ msgstr "Воспроизведение при первой загрузке"
+
+#~ msgid "slides"
+#~ msgstr "слайд(а,ов)"
+
+#~ msgid "Optimize images"
+#~ msgstr "Оптимизировать изображения"
+
+#~ msgid "Thumbnail image resize"
+#~ msgstr "Размер миниатюры изображения"
+
+#~ msgid "Layer image resize"
+#~ msgstr "Изменение размера изображения слоя"
+
+#~ msgid "Embed layer images into HTML"
+#~ msgstr "Вставить изображения слоев в HTML"
+
+#~ msgid "Maximum file size to embed"
+#~ msgstr "Максимальный размер файла для вставки"
+
+#~ msgid "Show background video on mobile"
+#~ msgstr "Показывать фоновое видео на телефонах"
+
+#~ msgid "Fade in slider"
+#~ msgstr "Плавный переход"
+
+#~ msgid "on load"
+#~ msgstr "при загрузке"
+
+#~ msgid "on scroll"
+#~ msgstr "при прокрутке"
+
+#~ msgid "Custom loading animation"
+#~ msgstr "Пользовательская анимация загрузки"
+
+#~ msgid "Placeholder image"
+#~ msgstr "Заполняющее изображение"
+
+#~ msgid "Placeholder color"
+#~ msgstr "Заполняющий цвет"
+
+#~ msgid "Load this slider after"
+#~ msgstr "Загружать этот слайдер после"
+
+#~ msgid "Randomize first slide"
+#~ msgstr "Выбирать первый слайд случайным образом"
+
+#~ msgid "Maximum slide count"
+#~ msgstr "Максимальное количество слайдов"
+
+#~ msgid "Lightbox from slide backgrounds"
+#~ msgstr "Лайтбокс из фона слайдов"
+
+#~ msgid "Maintain slide session"
+#~ msgstr "Удержание слайда"
+
+#~ msgid "Hide website's scrollbar"
+#~ msgstr "Скрыть полосу прокрутки веб-сайта"
+
+#~ msgid "Hide"
+#~ msgstr "Скрыть"
+
+#~ msgid "You won't be able to scroll your website anymore."
+#~ msgstr "Вы больше не сможете прокручивать свой сайт."
+
+#~ msgid "Clear both"
+#~ msgstr "Очистка (clear) с обеих сторон"
+
+#~ msgid "Before slider"
+#~ msgstr "Перед слайдером"
+
+#~ msgid "If your slider does not resize correctly, turn this option on."
+#~ msgstr ""
+#~ "Если ваш слайдер изменяет размер некорректно, включите этот параметр."
+
+#~ msgid ""
+#~ "Turn this off to allow contents following the slider get into the same "
+#~ "row where the slider is."
+#~ msgstr ""
+#~ "Выключите это, чтобы содержимое, следующее за слайдером, попало в ту же "
+#~ "строку, в которой находится слайдер."
+
+#~ msgid "Hide slider"
+#~ msgstr "Скрыть слайдер"
+
+#~ msgid "Browser width"
+#~ msgstr "Ширина браузера"
+
+#~ msgid "Import file upload"
+#~ msgstr "Загрузка файла импорта"
+
+#~ msgid "Delete file after import"
+#~ msgstr "Удалить файл после импорта"
+
+#~ msgid "Delete the slider with the same ID"
+#~ msgstr "Удалить слайдер с тем же ID"
+
+#~ msgid "Use linked visuals"
+#~ msgstr "Использовать связанные визуальные эффекты"
+
+#~ msgid " - copy"
+#~ msgstr " - копировать"
+
+#~ msgid "Show on mobile"
+#~ msgstr "Показывать на телефонах"
+
+#~ msgid "Guides"
+#~ msgstr "Руководство"
+
+#~ msgid "Properties"
+#~ msgstr "Свойства"
+
+#~ msgid "Published between"
+#~ msgstr "Публиковать"
+
+#~ msgid "Publish up"
+#~ msgstr "С"
+
+#~ msgid "Publish down"
+#~ msgstr "По"
+
+#~ msgid "Static slide"
+#~ msgstr "Статический слайд"
+
+#~ msgid "Dynamic slide"
+#~ msgstr "Динамический слайд"
+
+#~ msgid "never"
+#~ msgstr "никогда"
+
+#~ msgid "Pimary color"
+#~ msgstr "Основной цвет"
+
+#~ msgid "Record"
+#~ msgstr "Запись"
+
+#~ msgid "Record viewer"
+#~ msgstr "Средство просмотра записей"
+
+#~ msgid "Split text sets"
+#~ msgstr "Наборы разделения текста"
+
+#~ msgid "Lines"
+#~ msgstr "Линии"
+
+#~ msgid "Common split text properties"
+#~ msgstr "Основные свойства разделения текста"
+
+#~ msgid "The store ID is not valid!"
+#~ msgstr "Store ID недействителен!"
+
+#~ msgid "Random products"
+#~ msgstr "Случайные товары"
+
+#~ msgid "Store Front page"
+#~ msgstr "Главная страница магазина"
+
+#~ msgid "Tax"
+#~ msgstr "Налог"
+
+#~ msgid "order"
+#~ msgstr "порядок"
+
+#~ msgid "My feed"
+#~ msgstr "Мой канал"
+
+#~ msgid "Search by tag"
+#~ msgstr "Поиск по тегу"
+
+#~ msgid "Description is not available"
+#~ msgstr "Описание недоступно"
+
+#~ msgid "Alphabetical"
+#~ msgstr "Алфавитном"
+
+#~ msgid "Custom CSS classes"
+#~ msgstr "Пользовательские CSS классы"
+
+#~ msgctxt "Slide item"
+#~ msgid "Area"
+#~ msgstr "Область"
+
+#~ msgid "Custom CSS"
+#~ msgstr "Пользовательский CSS"
+
+#~ msgctxt "Slide item"
+#~ msgid "Audio"
+#~ msgstr "Аудио"
+
+#~ msgid "Reset when slide changes"
+#~ msgstr "Сброс при смене слайдов"
+
+#~ msgid "MORE"
+#~ msgstr "БОЛЬШЕ"
+
+#~ msgctxt "Slide item"
+#~ msgid "Icon"
+#~ msgstr "Значок"
+
+#~ msgctxt "Slide item"
+#~ msgid "Caption"
+#~ msgstr "Подпись"
+
+#~ msgctxt "Slide item"
+#~ msgid "Circle Counter"
+#~ msgstr "Круглый счётчик"
+
+#~ msgid "label"
+#~ msgstr "Метки"
+
+#~ msgctxt "Slide item"
+#~ msgid "Counter"
+#~ msgstr "Счётчик"
+
+#~ msgctxt "Slide item"
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgid "Split text - in"
+#~ msgstr "Разделить текст - вход"
+
+#~ msgid "Split text - out"
+#~ msgstr "Разделить текст - выход"
+
+#~ msgctxt "Slide item"
+#~ msgid "Highlighted Heading"
+#~ msgstr "Выделенный заголовок"
+
+#~ msgctxt "Slide item"
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgctxt "Slide item"
+#~ msgid "Icon - Legacy"
+#~ msgstr "Значок - устаревший"
+
+#~ msgctxt "Slide item"
+#~ msgid "iframe"
+#~ msgstr "iframe"
+
+#~ msgctxt "Slider responsive mode"
+#~ msgid "Auto"
+#~ msgstr "Авто"
+
+#~ msgid "Background position"
+#~ msgstr "Позиция фона"
+
+#~ msgctxt "Slide item"
+#~ msgid "Image box"
+#~ msgstr "Блок изображения"
+
+#~ msgctxt "Slide item"
+#~ msgid "Input"
+#~ msgstr "Поле ввода"
+
+#~ msgid "Input button"
+#~ msgstr "Кнопка ввода"
+
+#~ msgid "Input container"
+#~ msgstr "Контейнер поля ввода"
+
+#~ msgctxt "Slide item"
+#~ msgid "Joomla Module"
+#~ msgstr "Модуль Joomla"
+
+#~ msgctxt "Slide item"
+#~ msgid "Progress Bar"
+#~ msgstr "Индикатор прогресса"
+
+#~ msgid "Progress bar label"
+#~ msgstr "Метка индикатора прогресса"
+
+#~ msgctxt "Slide item"
+#~ msgid "Transition"
+#~ msgstr "Переход"
+
+#~ msgctxt "Slide item"
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgctxt "Slide item"
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgctxt "Slider responsive mode"
+#~ msgid "Fixed"
+#~ msgstr "Зафиксировать"
+
+#~ msgid "Down scale"
+#~ msgstr "Уменьшение"
+
+#~ msgid "Up scale"
+#~ msgstr "Увеличение"
+
+#~ msgid "Slider height"
+#~ msgstr "Высота слайдера"
+
+#~ msgid "Min"
+#~ msgstr "Минимум"
+
+#~ msgid "Maximum slide width"
+#~ msgstr "Максимальная ширина слайда"
+
+#~ msgctxt "Slider responsive mode"
+#~ msgid "Fullpage"
+#~ msgstr "На всю страницу"
+
+#~ msgid "Horizontal mask"
+#~ msgstr "Горизонтальная маска"
+
+#~ msgid "Adjust slider width to parent selector"
+#~ msgstr "Подстроить ширину слайдера до ширины родительского селектора"
+
+#~ msgid ""
+#~ "When the jQuery selector of one of the slider's parent elements is "
+#~ "specified, the slider tries to have the width and fill up that element "
+#~ "instead of the window."
+#~ msgstr ""
+#~ "Когда указан селектор jQuery одного из родительских элементов слайдера, "
+#~ "слайдер будет пытаться принять ширину и заполнить этот элемент вместо "
+#~ "заполнения окна."
+
+#~ msgid ""
+#~ "The size of the slide proportionately changes together with its layers."
+#~ msgstr "Размер слайда пропорционально изменяется вместе с его слоями."
+
+#~ msgid "Real height"
+#~ msgstr "Реальная высота"
+
+#~ msgid "CSS 100vh"
+#~ msgstr "CSS 100vh"
+
+#~ msgid "Decrease slider height"
+#~ msgstr "Уменьшить высоту слайдера"
+
+#~ msgctxt "Slider responsive mode"
+#~ msgid "Fullwidth"
+#~ msgstr "В полную ширину"
+
+#~ msgid "Portrait or Landscape algorithm"
+#~ msgstr "Книжный или альбомный алгоритм"
+
+#~ msgid "Screen width and height"
+#~ msgstr "Ширина и высота экрана"
+
+#~ msgid "Screen width only"
+#~ msgstr "Только ширина экрана"
+
+#~ msgid "Remove vertical margin"
+#~ msgstr "Удалить внешний отступ по вертикали"
+
+#~ msgid "Accordion slider type"
+#~ msgstr "Слайдер аккордеон"
+
+#~ msgid "Outer width"
+#~ msgstr "Внешняя ширина"
+
+#~ msgid "Inner width"
+#~ msgstr "Внутренняя ширина"
+
+#~ msgid "Carousel slider type"
+#~ msgstr "Слайдер карусель"
+
+#~ msgid "Maximum pane width"
+#~ msgstr "Максимальная ширина области"
+
+#~ msgid "Maximum width, where the slides are visible."
+#~ msgstr "Максимальная ширина, в пределах которой слайды видны."
+
+#~ msgid "Main animation properties"
+#~ msgstr "Основные свойства анимации"
+
+#~ msgid "Slider side spacing"
+#~ msgstr "Расстояние между сторонами сладера"
+
+#~ msgid "Dynamic slider height"
+#~ msgstr "Динамическая высота слайдера"
+
+#~ msgid "Showcase slider type"
+#~ msgstr "Витрина"
+
+#~ msgid "Animated"
+#~ msgstr "Анимированный"
+
+#~ msgid "Simple slider type"
+#~ msgstr "Простой слайдер"
+
+#~ msgid "Animation(s)"
+#~ msgstr "Анимация"
+
+#~ msgid "Slide CSS"
+#~ msgstr "Слайд CSS"
+
+#~ msgid "Shadows"
+#~ msgstr "Тени"
+
+#~ msgid "Previous"
+#~ msgstr "Предыдущий"
+
+#~ msgid "Shape"
+#~ msgstr "Форма"
+
+#~ msgid "Responsive scale"
+#~ msgstr "Адаптивное масштабирование"
+
+#~ msgid "Alt tags"
+#~ msgstr "Alt теги"
+
+#~ msgid "Previous arrow"
+#~ msgstr "Предыдущая стрелка"
+
+#~ msgid "Next arrow"
+#~ msgstr "Следующая стрелка"
+
+#~ msgid "PREV"
+#~ msgstr "НАЗАД"
+
+#~ msgid "NEXT"
+#~ msgstr "ВПЕРЕД"
+
+#~ msgid "Play image"
+#~ msgstr "Воспроизведение изображения"
+
+#~ msgid "Pause image"
+#~ msgstr "Пауза воспроизведения изображения"
+
+#~ msgid "Title font"
+#~ msgstr "Шрифт заголовка"
+
+#~ msgid "Description font"
+#~ msgstr "Шрифт описания"
+
+#~ msgid "Dot style"
+#~ msgstr "Стиль точки"
+
+#~ msgid "Bar style"
+#~ msgstr "Стиль панели"
+
+#~ msgid "To normal image"
+#~ msgstr "До обычного изображения"
+
+#~ msgid "To fullscreen image"
+#~ msgstr "До полноэкранного изображения"
+
+#~ msgid "Track"
+#~ msgstr "Трек"
+
+#~ msgid "Shadow image"
+#~ msgstr "Изображение тени"
+
+#~ msgid "Show arrow"
+#~ msgstr "Показать стрелку"
+
+#~ msgid "Height (horizontal) or Width (vertical)"
+#~ msgstr "Высота (по горизонтали) или ширина (по вертикали)"
+
+#~ msgid "thumbnails per group"
+#~ msgstr "миниатюр в группе"
+
+#~ msgid "Width (horizontal) or Height (vertical)"
+#~ msgstr "Ширина (по горизонтали) или высота (по вертикали)"
+
+#~ msgid "You can upload the slider any website:"
+#~ msgstr "Вы можете загрузить слайдер на любой веб-сайт:"
+
+#~ msgid "Publish as HTML"
+#~ msgstr "Опубликовать как HTML"
+
+#~ msgid "You can add the slider any website:"
+#~ msgstr "Вы можете добавить слайдер на любой веб-сайт:"
+
+#~ msgid "Create a module to display the slider in template module position:"
+#~ msgstr ""
+#~ "Создать модуль для отображения слайдера в определенной позиции шаблона"
+
+#~ msgid "Edit related modules"
+#~ msgstr "Редактировать связанные модули"
+
+#~ msgid "Source"
+#~ msgstr "Источник"
+
+#~ msgid "Limit"
+#~ msgstr "Лимит"
+
+#~ msgid "record"
+#~ msgstr "запись"
+
+#~ msgid "post"
+#~ msgstr "статья"
+
+#~ msgid "discussion"
+#~ msgstr "обсуждение"
+
+#~ msgid "Manufacturers"
+#~ msgstr "Производители"
+
+#~ msgid "Product"
+#~ msgstr "Товар"
+
+#~ msgid "Variables"
+#~ msgstr "Переменные"
+
+#~ msgid "Menu item (item ID) for url"
+#~ msgstr "Пункт меню (ID пункта) для URL-адреса"
+
+#~ msgid "Minimum order quantity"
+#~ msgstr "Минимальное количество для заказа"
+
+#~ msgid "group"
+#~ msgstr "группа"
+
+#~ msgid "article"
+#~ msgstr "статья"
+
+#~ msgid "category"
+#~ msgstr "категория"
+
+#~ msgid "item"
+#~ msgstr "элемент"
+
+#~ msgid "E-card"
+#~ msgstr "Электронная карта"
+
+#~ msgid "Recurring event"
+#~ msgstr "Повторяющееся событие"
+
+#~ msgctxt "magento"
+#~ msgid "Insert widget"
+#~ msgstr "Вставить виджет"
+
+#~ msgid "Copy and paste this shortcode into your pages:"
+#~ msgstr "Скопируйте и вставьте этот код на свои страницы:"
+
+#~ msgid "Page or Post editor"
+#~ msgstr "Редактор страниц или записей"
+
+#~ msgid "Insert the slider into pages with the icon:"
+#~ msgstr "Вставить слайдер на страницы с помощью значка:"
+
+#~ msgid "Copy and paste this shortcode anywhere:"
+#~ msgstr "Скопируйте и вставьте этот код в любом месте:"
+
+#~ msgid "Attribute sets"
+#~ msgstr "Наборы атрибутов"
+
+#~ msgid "Only special price"
+#~ msgstr "Только со специальной ценой"
+
+#~ msgid "Product price"
+#~ msgstr "Цена товара"
+
+#~ msgid "Select Slider"
+#~ msgstr "Выбрать слайдер"
+
+#~ msgid "or"
+#~ msgstr "или"
+
+#~ msgid "Insert it into an existing post with the icon:"
+#~ msgstr "Вставьте его в существующее сообщение с помощью значка:"
+
+#~ msgid "Translate your custom date variables"
+#~ msgstr "Перевод своих пользовательских переменных даты"
+
+#~ msgid "gallery"
+#~ msgstr "галерея"
+
+#~ msgid "Multisite"
+#~ msgstr "Многосайтовые"
+
+#~ msgid "All day events"
+#~ msgstr "События на весь день"
+
+#~ msgid "Post custom fields"
+#~ msgstr "Пользовательские поля сообщения"
+
+#~ msgid "More post custom fields"
+#~ msgstr "Дополнительные пользовательские поля сообщения"
+
+#~ msgid ""
+#~ "Same as the previous option, just you can write down more comparisons. "
+#~ "Read the \"Field name\" and \"Compare method\" out from the previous "
+#~ "option."
+#~ msgstr ""
+#~ "То же, что и предыдущий вариант, просто вы можете выполнить больше "
+#~ "сравнений. Считывать «Имя поля» и «Метод сравнения» из предыдущей опции."
+
+#~ msgid "Example: published||=||yes"
+#~ msgstr "Пример: опубликовано||=||да"
+
+#~ msgid "Only display these posts"
+#~ msgstr "Показывать только эти сообщения"
+
+#~ msgid "Date & time"
+#~ msgstr "Дата и время"
+
+#~ msgid "One per line: from||to"
+#~ msgstr "По одному в каждой строке: из||в"
+
+#~ msgid "Order by custom field"
+#~ msgstr "Сортировать по пользовательскому полю"
+
+#~ msgid "Customized variables"
+#~ msgstr "Настраиваемые переменные"
+
+#, php-format
+#~ msgid ""
+#~ "You can write down an existing variable's name, then two | signs and "
+#~ "lastly any date format (%s) in separate lines and new variables will be "
+#~ "created for them. The name of the new variables will be the same as the "
+#~ "original variable and \"_datetime\" will be added to the end of them."
+#~ msgstr ""
+#~ "Вы можете написать имя существующей переменной, затем два знака | и, "
+#~ "наконец, любой формат даты (%s) в отдельных строках и новые переменные "
+#~ "будут созданы для них. Имя новых переменных будет таким же, как и "
+#~ "исходная переменная, а «_datetime» будет добавлено в конец."
+
+#~ msgid ""
+#~ "You can translate the newly created variables. Write the original text, "
+#~ "like 'Monday', then two | signs and the text you want it to be translated "
+#~ "to, for example 'Montag'. Together: Monday||Montag"
+#~ msgstr ""
+#~ "Вы можете перевести вновь созданные переменные. Напишите исходный текст, "
+#~ "например «Monday», затем два знака | и текст, на который вы хотите "
+#~ "выполнить перевод, например, «Понедельник». Вместе: Monday||Понедельник"
+
+#~ msgid "Meta fields"
+#~ msgstr "Мета поля"
+
+#~ msgid ""
+#~ "Only show events, where the given meta key is equal, bigger, smaller, "
+#~ "etc. to the given meta value."
+#~ msgstr ""
+#~ "Показывать только события, где данный мета-ключ равен, больше, меньше и т."
+#~ "д. относительно данного метазначения."
+
+#~ msgid "Order by metakey"
+#~ msgstr "Сортировка по мета-ключу"
+
+#~ msgid "Timestamps"
+#~ msgstr "Отметки времени"
+
+#~ msgid "Separate them with comma."
+#~ msgstr "Разделите их запятой."
